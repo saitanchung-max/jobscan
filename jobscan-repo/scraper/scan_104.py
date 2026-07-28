@@ -1,7 +1,12 @@
 # -*- coding: utf-8 -*-
 # 104 每日職缺掃描（GitHub Actions 環境執行）
-# 走 104 搜尋 JSON API（需正確 Referer header），對新職缺抓 JD 內文
+# 走 104 搜尋 JSON API（需正確 Referer/Accept header），對新職缺抓 JD 內文
 # 輸出 data/104_new.json，並把新連結加入 data/seen_urls.json
+#
+# 已知限制：GitHub Actions runner 用的是雲端機房 IP（Azure/AWS 網段），
+# 104 對這類 ASN 的封鎖很可能是位址層級的，不是單純 header 不對就能解。
+# 這版加強了 session 預熱＋更完整的瀏覽器 header＋重試，
+# 但若持續 403，代表封鎖在 IP 層，需要人工到瀏覽器查證這批職缺是否還在。
 import json, os, re, time, sys
 import requests
 
@@ -9,17 +14,34 @@ BASE = os.path.join(os.path.dirname(__file__), '..', 'data')
 SEEN_PATH = os.path.join(BASE, 'seen_urls.json')
 
 KEYWORDS = ['策略規劃', '經營企劃', '營運管理', '數位轉型', 'AI導入', '幕僚', '策略幕僚', 'business operations']
-# 台北市 6001001000 / 新北市 6001002000 / 桃園市 6001005000
 AREA = '6001001000,6001002000,6001005000'
-ISNEW = '7'          # 最近 7 天內更新
-MAX_PAGES = 2        # 每關鍵字最多 2 頁（每頁約 20-30 筆，order=latest 情境下夠用）
-DETAIL_QUOTA = 40    # 單次最多抓幾筆 JD 內文
+ISNEW = '7'
+MAX_PAGES = 2
+DETAIL_QUOTA = 40
+MAX_RETRIES = 2
+RETRY_BACKOFF = 4  # 秒，乘以重試次數
 
-HEADERS = {
+BASE_HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126 Safari/537.36',
-    'Referer': 'https://www.104.com.tw/jobs/search/',
-    'Accept': 'application/json',
+    'Accept-Language': 'zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7',
+    'sec-ch-ua': '"Chromium";v="126", "Not.A/Brand";v="24"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"Windows"',
 }
+
+class Blocked(Exception):
+    pass
+
+def make_session():
+    """預熱 session：先訪問搜尋首頁拿 cookie，比冷啟動直接打 API 更接近真實瀏覽行為。"""
+    s = requests.Session()
+    s.headers.update(BASE_HEADERS)
+    try:
+        s.get('https://www.104.com.tw/jobs/search/', timeout=20)
+    except Exception:
+        pass
+    time.sleep(1.5)
+    return s
 
 def norm(u):
     return u.split('?')[0].rstrip('/')
@@ -29,24 +51,49 @@ def load_seen():
         return set(json.load(open(SEEN_PATH, encoding='utf-8')))
     return set()
 
-def search(keyword, page):
+def _request_json(session, url, params, headers):
+    last_err = None
+    for attempt in range(MAX_RETRIES + 1):
+        try:
+            r = session.get(url, params=params, headers=headers, timeout=30)
+            ctype = r.headers.get('content-type', '')
+            if r.status_code == 403 or 'application/json' not in ctype:
+                raise Blocked(f'HTTP {r.status_code}, content-type={ctype or "?"}')
+            r.raise_for_status()
+            return r.json()
+        except Blocked as e:
+            last_err = e
+            if attempt < MAX_RETRIES:
+                time.sleep(RETRY_BACKOFF * (attempt + 1))
+                continue
+            raise
+        except Exception as e:
+            last_err = e
+            if attempt < MAX_RETRIES:
+                time.sleep(RETRY_BACKOFF * (attempt + 1))
+                continue
+            raise
+    raise last_err
+
+def search(session, keyword, page):
     url = 'https://www.104.com.tw/jobs/search/list'
     params = {'ro': '0', 'kwop': '7', 'keyword': keyword, 'area': AREA,
               'isnew': ISNEW, 'mode': 's', 'page': str(page), 'jobsource': '2018indexpoc'}
-    r = requests.get(url, params=params, headers=HEADERS, timeout=30)
-    r.raise_for_status()
-    return r.json()
+    h = dict(session.headers)
+    h.update({'Referer': 'https://www.104.com.tw/jobs/search/', 'Accept': 'application/json',
+              'X-Requested-With': 'XMLHttpRequest'})
+    return _request_json(session, url, params, h)
 
 def job_id_from_link(link):
     m = re.search(r'//www\.104\.com\.tw/job/([a-z0-9]+)', link)
     return m.group(1) if m else None
 
-def fetch_detail(job_id):
+def fetch_detail(session, job_id):
     url = f'https://www.104.com.tw/job/ajax/content/{job_id}'
-    h = dict(HEADERS); h['Referer'] = f'https://www.104.com.tw/job/{job_id}'
-    r = requests.get(url, headers=h, timeout=30)
-    r.raise_for_status()
-    d = r.json().get('data', {})
+    h = dict(session.headers)
+    h.update({'Referer': f'https://www.104.com.tw/job/{job_id}', 'Accept': 'application/json',
+              'X-Requested-With': 'XMLHttpRequest'})
+    d = _request_json(session, url, None, h).get('data', {})
     jd = d.get('jobDetail', {})
     cond = d.get('condition', {})
     return {
@@ -59,13 +106,16 @@ def fetch_detail(job_id):
 
 def main():
     seen = load_seen()
+    session = make_session()
     by_url, stats = {}, {}
     for kw in KEYWORDS:
         cnt = 0
         for page in range(1, MAX_PAGES + 1):
             try:
-                data = search(kw, page)
+                data = search(session, kw, page)
                 items = (data.get('data') or {}).get('list') or []
+            except Blocked as e:
+                stats[kw] = f'BLOCKED: {str(e)[:100]}'; items = []
             except Exception as e:
                 stats[kw] = f'ERROR: {str(e)[:100]}'; items = []
             if not items:
@@ -83,7 +133,7 @@ def main():
                                  'datePosted': it.get('appearDate'), 'keywords': [kw]}
                 elif kw not in by_url[u]['keywords']:
                     by_url[u]['keywords'].append(kw)
-            time.sleep(1.5)
+            time.sleep(2)
         stats.setdefault(kw, cnt)
 
     fresh = [j for u, j in by_url.items() if u not in seen]
@@ -92,11 +142,13 @@ def main():
         if fetched >= DETAIL_QUOTA:
             j['jd_note'] = 'detail_skipped_quota'; continue
         try:
-            j.update(fetch_detail(job_id_from_link(j['url'] + '/')  or j['url'].rsplit('/', 1)[-1]))
+            j.update(fetch_detail(session, job_id_from_link(j['url'] + '/') or j['url'].rsplit('/', 1)[-1]))
             fetched += 1
+        except Blocked as e:
+            j['jd_note'] = f'blocked: {str(e)[:100]}'
         except Exception as e:
             j['jd_note'] = f'detail_error: {str(e)[:100]}'
-        time.sleep(1.2)
+        time.sleep(1.5)
 
     for j in fresh: seen.add(j['url'])
     json.dump(sorted(seen), open(SEEN_PATH, 'w', encoding='utf-8'), ensure_ascii=False)
@@ -111,4 +163,4 @@ if __name__ == '__main__':
         main()
     except Exception as e:
         print(f'104 scan fatal: {e}', file=sys.stderr)
-        sys.exit(0)  # 不讓單源失敗擋住整條 workflow
+        sys.exit(0)
