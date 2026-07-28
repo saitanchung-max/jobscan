@@ -1,0 +1,31 @@
+name: weekly-liveness-check
+on:
+  schedule:
+    - cron: '0 22 * * 0'   # UTC 週日 22:00 = 台北週一 06:00
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  liveness:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install Playwright
+        run: |
+          npm init -y >/dev/null 2>&1
+          npm i playwright@1 >/dev/null 2>&1
+          npx playwright install chromium --with-deps
+      - name: Run liveness check
+        run: node scraper/liveness.js
+      - name: Commit results
+        run: |
+          git config user.name 'jobscan-bot'
+          git config user.email 'bot@users.noreply.github.com'
+          git add data/liveness.json
+          git diff --cached --quiet || git commit -m "liveness: $(date -u +%F)"
+          git push
