@@ -26,19 +26,19 @@ jobs:
           pip install -q python-jobspy requests
       - name: Scan Cake (Playwright)
         continue-on-error: true
-        run: node scraper/scan.js
+        run: node jobscan-repo/scraper/scan.js
       - name: Scan 104 (JSON API)
         continue-on-error: true
-        run: python scraper/scan_104.py
+        run: python jobscan-repo/scraper/scan_104.py
       - name: Scan LinkedIn/Indeed (JobSpy)
         continue-on-error: true
-        run: python scraper/scan_jobspy.py
+        run: python jobscan-repo/scraper/scan_jobspy.py
       - name: Merge results
-        run: python scraper/merge.py
+        run: python jobscan-repo/scraper/merge.py
       - name: Commit results
         run: |
           git config user.name 'jobscan-bot'
           git config user.email 'bot@users.noreply.github.com'
-          git add data/
+          git add jobscan-repo/data/
           git diff --cached --quiet || git commit -m "scan: $(date -u +%F)"
           git push
