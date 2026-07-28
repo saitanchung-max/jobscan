@@ -1,15 +1,87 @@
 {
  "source": "cake",
- "scanned_at": "2026-07-28T03:56:38.504Z",
+ "scanned_at": "2026-07-28T06:55:43.049Z",
  "group_stats": {
-  "策略規劃": 0,
-  "經營企劃": 0,
-  "營運管理": 0,
-  "business operations": 0,
-  "chief of staff": 0,
-  "數位轉型": 0,
-  "AI導入": 0,
-  "AI implementation": 0
+  "策略規劃": {
+   "count": 0,
+   "next_data_found": false,
+   "raw_candidates": 0,
+   "fallback_used": true,
+   "parse_error": null,
+   "http_status": 403,
+   "page_title": "請稍候...",
+   "note": "重試後仍為 0，可能是頁面結構改變或被擋，不代表真的零筆新職缺"
+  },
+  "經營企劃": {
+   "count": 0,
+   "next_data_found": false,
+   "raw_candidates": 0,
+   "fallback_used": true,
+   "parse_error": null,
+   "http_status": 403,
+   "page_title": "請稍候...",
+   "note": "重試後仍為 0，可能是頁面結構改變或被擋，不代表真的零筆新職缺"
+  },
+  "營運管理": {
+   "count": 0,
+   "next_data_found": false,
+   "raw_candidates": 0,
+   "fallback_used": true,
+   "parse_error": null,
+   "http_status": 403,
+   "page_title": "請稍候...",
+   "note": "重試後仍為 0，可能是頁面結構改變或被擋，不代表真的零筆新職缺"
+  },
+  "business operations": {
+   "count": 0,
+   "next_data_found": false,
+   "raw_candidates": 0,
+   "fallback_used": true,
+   "parse_error": null,
+   "http_status": 403,
+   "page_title": "請稍候...",
+   "note": "重試後仍為 0，可能是頁面結構改變或被擋，不代表真的零筆新職缺"
+  },
+  "chief of staff": {
+   "count": 0,
+   "next_data_found": false,
+   "raw_candidates": 0,
+   "fallback_used": true,
+   "parse_error": null,
+   "http_status": 403,
+   "page_title": "請稍候...",
+   "note": "重試後仍為 0，可能是頁面結構改變或被擋，不代表真的零筆新職缺"
+  },
+  "數位轉型": {
+   "count": 0,
+   "next_data_found": false,
+   "raw_candidates": 0,
+   "fallback_used": true,
+   "parse_error": null,
+   "http_status": 403,
+   "page_title": "請稍候...",
+   "note": "重試後仍為 0，可能是頁面結構改變或被擋，不代表真的零筆新職缺"
+  },
+  "AI導入": {
+   "count": 0,
+   "next_data_found": false,
+   "raw_candidates": 0,
+   "fallback_used": true,
+   "parse_error": null,
+   "http_status": 403,
+   "page_title": "請稍候...",
+   "note": "重試後仍為 0，可能是頁面結構改變或被擋，不代表真的零筆新職缺"
+  },
+  "AI implementation": {
+   "count": 0,
+   "next_data_found": false,
+   "raw_candidates": 0,
+   "fallback_used": true,
+   "parse_error": null,
+   "http_status": 403,
+   "page_title": "請稍候...",
+   "note": "重試後仍為 0，可能是頁面結構改變或被擋，不代表真的零筆新職缺"
+  }
  },
  "total_listed": 0,
  "new_count": 0,
