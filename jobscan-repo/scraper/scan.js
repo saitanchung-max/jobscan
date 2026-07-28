@@ -1,7 +1,12 @@
 // Cake 每日職缺掃描（GitHub Actions 環境執行）
 // 1) 抓 8 組搜尋頁（order=latest）→ 職缺清單
 // 2) 對「未見過」的職缺連結抓 JD 內頁全文（JSON-LD JobPosting 優先）
-// 3) 輸出 data/latest_scan.json（覆寫）＋ 更新 data/seen_urls.json
+// 3) 輸出 data/cake_new.json，並更新 data/seen_urls.json
+//
+// 這版加了：抓取失敗時的診斷資訊（HTTP status / 是否有 __NEXT_DATA__ / 頁面標題）、
+// 零結果時自動重試一次、嘗試關閉 cookie 同意彈窗。
+// 如果連續兩次都是 0 且診斷顯示 next_data_found=false，代表 Cake 的頁面結構可能換了，
+// 需要人工打開一個關鍵字網址看實際 DOM 再回報。
 const { chromium } = require('playwright');
 const fs = require('fs');
 const path = require('path');
@@ -24,36 +29,49 @@ const seen = new Set(fs.existsSync(seenPath) ? JSON.parse(fs.readFileSync(seenPa
 
 const norm = (u) => u.split('?')[0].replace(/\/$/, '');
 
+async function dismissCookieBanner(page) {
+  const candidates = ['接受', '同意', 'Accept', 'Accept All', 'I Agree'];
+  for (const text of candidates) {
+    try {
+      const btn = page.getByRole('button', { name: text, exact: false });
+      if (await btn.count() > 0) { await btn.first().click({ timeout: 2000 }); return; }
+    } catch (e) { /* ignore */ }
+  }
+}
+
 async function extractListings(page) {
-  // Cake 是 Next.js：優先從 __NEXT_DATA__ 撈，fallback 掃 DOM anchors
-  const fromNext = await page.evaluate(() => {
+  const result = await page.evaluate(() => {
     const el = document.getElementById('__NEXT_DATA__');
-    if (!el) return null;
+    if (!el) return { items: null, next_data_found: false, raw_candidates: 0 };
     const out = [];
+    let raw = 0;
     const walk = (o) => {
       if (!o || typeof o !== 'object') return;
       if (Array.isArray(o)) { o.forEach(walk); return; }
       const title = o.title || o.name;
-      const pth = o.path || o.page_path;
+      const pth = o.path || o.page_path || o.job_path || o.slug;
       const company = o.page && (o.page.name || o.page.title);
       if (title && pth && typeof pth === 'string') {
+        raw++;
         out.push({ title, path: pth, company: company || o.company_name || null, location: (o.location_list && o.location_list[0]) || o.location || null });
       }
       Object.values(o).forEach(walk);
     };
-    try { walk(JSON.parse(el.textContent)); } catch (e) { return null; }
-    return out.length ? out : null;
+    try { walk(JSON.parse(el.textContent)); } catch (e) { return { items: null, next_data_found: true, raw_candidates: 0, parse_error: String(e).slice(0, 100) }; }
+    return { items: out, next_data_found: true, raw_candidates: raw };
   });
-  if (fromNext) {
-    return fromNext.map(j => ({
+
+  if (result.items && result.items.length) {
+    const mapped = result.items.map(j => ({
       title: j.title,
       company: j.company,
       location: typeof j.location === 'string' ? j.location : null,
       url: j.path.startsWith('http') ? j.path : `https://www.cake.me${j.path.startsWith('/') ? '' : '/'}${j.path}`,
     })).filter(j => /\/jobs\//.test(j.url));
+    return { items: mapped, diag: { next_data_found: result.next_data_found, raw_candidates: result.raw_candidates, filtered_out: result.items.length - mapped.length } };
   }
-  // fallback: DOM anchors
-  return page.evaluate(() => {
+
+  const domItems = await page.evaluate(() => {
     const items = [];
     document.querySelectorAll('a[href*="/jobs/"]').forEach(a => {
       const href = a.href;
@@ -63,11 +81,11 @@ async function extractListings(page) {
     });
     return items;
   });
+  return { items: domItems, diag: { next_data_found: result.next_data_found, raw_candidates: result.raw_candidates, fallback_used: true, parse_error: result.parse_error || null } };
 }
 
 async function extractJD(page) {
   return page.evaluate(() => {
-    // JSON-LD JobPosting 優先
     for (const s of document.querySelectorAll('script[type="application/ld+json"]')) {
       try {
         const arr = [].concat(JSON.parse(s.textContent));
@@ -88,10 +106,20 @@ async function extractJD(page) {
         }
       } catch (e) { /* next */ }
     }
-    // fallback：主內容區塊文字
     const main = document.querySelector('main') || document.body;
     return { title: document.title, company: null, location: null, datePosted: null, validThrough: null, salary: null, jd: main.innerText.replace(/\s+/g, ' ').trim().slice(0, 8000) };
   });
+}
+
+async function scanOnce(page, url) {
+  const resp = await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 45000 });
+  const status = resp ? resp.status() : null;
+  await dismissCookieBanner(page);
+  try { await page.waitForSelector('#__NEXT_DATA__', { timeout: 8000 }); } catch (e) { /* 沒等到也繼續，走 fallback */ }
+  await page.waitForTimeout(1500);
+  const { items, diag } = await extractListings(page);
+  const title = await page.title();
+  return { items, diag: { ...diag, http_status: status, page_title: title } };
 }
 
 (async () => {
@@ -103,14 +131,20 @@ async function extractJD(page) {
   const groupStats = {};
   for (const [kw, url] of KEYWORDS) {
     try {
-      await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 45000 });
-      await page.waitForTimeout(3500);
-      const listings = await extractListings(page);
-      groupStats[kw] = listings.length;
-      for (const j of listings) {
-        const k = norm(j.url);
-        if (!byUrl.has(k)) byUrl.set(k, { ...j, url: k, keywords: [kw] });
-        else if (!byUrl.get(k).keywords.includes(kw)) byUrl.get(k).keywords.push(kw);
+      let { items, diag } = await scanOnce(page, url);
+      if (!items || items.length === 0) {
+        await page.waitForTimeout(2000);
+        ({ items, diag } = await scanOnce(page, url));
+      }
+      if (items && items.length > 0) {
+        groupStats[kw] = items.length;
+        for (const j of items) {
+          const k = norm(j.url);
+          if (!byUrl.has(k)) byUrl.set(k, { ...j, url: k, keywords: [kw] });
+          else if (!byUrl.get(k).keywords.includes(kw)) byUrl.get(k).keywords.push(kw);
+        }
+      } else {
+        groupStats[kw] = { count: 0, ...diag, note: '重試後仍為 0，可能是頁面結構改變或被擋，不代表真的零筆新職缺' };
       }
     } catch (e) {
       groupStats[kw] = `ERROR: ${e.message.slice(0, 120)}`;
@@ -118,7 +152,6 @@ async function extractJD(page) {
     await page.waitForTimeout(1500);
   }
 
-  // 只對「沒見過」的職缺抓 JD 內頁（控制量：單次上限 40 頁）
   const fresh = [...byUrl.values()].filter(j => !seen.has(j.url));
   let fetched = 0;
   for (const j of fresh) {
