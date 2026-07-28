@@ -1,0 +1,44 @@
+name: daily-job-scan
+on:
+  schedule:
+    - cron: '30 0 * * *'   # UTC 00:30 = 台北 08:30，趕在 09:00 Claude 排程之前
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install deps
+        run: |
+          npm init -y >/dev/null 2>&1
+          npm i playwright@1 >/dev/null 2>&1
+          npx playwright install chromium --with-deps
+          pip install -q python-jobspy requests
+      - name: Scan Cake (Playwright)
+        continue-on-error: true
+        run: node scraper/scan.js
+      - name: Scan 104 (JSON API)
+        continue-on-error: true
+        run: python scraper/scan_104.py
+      - name: Scan LinkedIn/Indeed (JobSpy)
+        continue-on-error: true
+        run: python scraper/scan_jobspy.py
+      - name: Merge results
+        run: python scraper/merge.py
+      - name: Commit results
+        run: |
+          git config user.name 'jobscan-bot'
+          git config user.email 'bot@users.noreply.github.com'
+          git add data/
+          git diff --cached --quiet || git commit -m "scan: $(date -u +%F)"
+          git push
