@@ -21,11 +21,11 @@ jobs:
           npm i playwright@1 >/dev/null 2>&1
           npx playwright install chromium --with-deps
       - name: Run liveness check
-        run: node scraper/liveness.js
+        run: node jobscan-repo/scraper/liveness.js
       - name: Commit results
         run: |
           git config user.name 'jobscan-bot'
           git config user.email 'bot@users.noreply.github.com'
-          git add data/liveness.json
+          git add jobscan-repo/data/liveness.json
           git diff --cached --quiet || git commit -m "liveness: $(date -u +%F)"
           git push
