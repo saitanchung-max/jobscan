@@ -1,8 +1,8 @@
 {
- "checked_at": "2026-07-28T04:21:16.943Z",
+ "checked_at": "2026-08-03T11:01:37.632Z",
  "summary": {
-  "open": 20,
-  "unknown": 35
+  "open": 21,
+  "unknown": 34
  },
  "results": [
   {
@@ -23,8 +23,8 @@
    "url": "https://www.linkedin.com/jobs/view/4430418530/",
    "company": "Winbond",
    "title": "AI Enablement & Adoption PM",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "unknown",
+   "evidence": "linkedin authwall"
   },
   {
    "url": "https://www.104.com.tw/job/8bdt1",
@@ -240,8 +240,8 @@
    "url": "https://www.linkedin.com/jobs/view/4440210806/",
    "company": "Shopee",
    "title": "AI Project Management/BI",
-   "status": "unknown",
-   "evidence": "linkedin authwall"
+   "status": "open",
+   "evidence": "HTTP 200, content ok"
   },
   {
    "url": "https://www.cake.me/companies/cathayins/jobs/ba18b0",
@@ -289,8 +289,8 @@
    "url": "https://www.linkedin.com/jobs/view/4431460650",
    "company": "待確認(外商)",
    "title": "Business Analyst (營運規劃+P&L)",
-   "status": "unknown",
-   "evidence": "linkedin authwall"
+   "status": "open",
+   "evidence": "HTTP 200, content ok"
   },
   {
    "url": "https://www.linkedin.com/jobs/view/4431654419/",
