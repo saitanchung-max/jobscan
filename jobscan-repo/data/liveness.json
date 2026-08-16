@@ -1,8 +1,8 @@
 {
- "checked_at": "2026-08-09T23:10:12.233Z",
+ "checked_at": "2026-08-16T22:55:16.958Z",
  "summary": {
-  "open": 21,
-  "unknown": 34
+  "open": 19,
+  "unknown": 36
  },
  "results": [
   {
@@ -240,8 +240,8 @@
    "url": "https://www.linkedin.com/jobs/view/4440210806/",
    "company": "Shopee",
    "title": "AI Project Management/BI",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "unknown",
+   "evidence": "linkedin authwall"
   },
   {
    "url": "https://www.cake.me/companies/cathayins/jobs/ba18b0",
@@ -261,8 +261,8 @@
    "url": "https://www.linkedin.com/jobs/view/4439960346/",
    "company": "凱基證券",
    "title": "策略企劃及專案管理人員",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "unknown",
+   "evidence": "linkedin authwall"
   },
   {
    "url": "https://www.104.com.tw/job/87nzr",
