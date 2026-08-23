@@ -1,8 +1,8 @@
 {
- "checked_at": "2026-08-16T22:55:16.958Z",
+ "checked_at": "2026-08-23T22:57:00.444Z",
  "summary": {
-  "open": 19,
-  "unknown": 36
+  "open": 24,
+  "unknown": 31
  },
  "results": [
   {
@@ -23,8 +23,8 @@
    "url": "https://www.linkedin.com/jobs/view/4430418530/",
    "company": "Winbond",
    "title": "AI Enablement & Adoption PM",
-   "status": "unknown",
-   "evidence": "linkedin authwall"
+   "status": "open",
+   "evidence": "HTTP 200, content ok"
   },
   {
    "url": "https://www.104.com.tw/job/8bdt1",
@@ -177,8 +177,8 @@
    "url": "https://www.linkedin.com/jobs/view/4428489359/",
    "company": "KGI銀行",
    "title": "數位科技策略人才",
-   "status": "unknown",
-   "evidence": "linkedin authwall"
+   "status": "open",
+   "evidence": "HTTP 200, content ok"
   },
   {
    "url": "https://www.linkedin.com/jobs/view/4429775029/",
@@ -240,8 +240,8 @@
    "url": "https://www.linkedin.com/jobs/view/4440210806/",
    "company": "Shopee",
    "title": "AI Project Management/BI",
-   "status": "unknown",
-   "evidence": "linkedin authwall"
+   "status": "open",
+   "evidence": "HTTP 200, content ok"
   },
   {
    "url": "https://www.cake.me/companies/cathayins/jobs/ba18b0",
@@ -261,8 +261,8 @@
    "url": "https://www.linkedin.com/jobs/view/4439960346/",
    "company": "凱基證券",
    "title": "策略企劃及專案管理人員",
-   "status": "unknown",
-   "evidence": "linkedin authwall"
+   "status": "open",
+   "evidence": "HTTP 200, content ok"
   },
   {
    "url": "https://www.104.com.tw/job/87nzr",
@@ -282,8 +282,8 @@
    "url": "https://www.linkedin.com/jobs/view/4233477917",
    "company": "待確認",
    "title": "經營分析管理師",
-   "status": "unknown",
-   "evidence": "linkedin authwall"
+   "status": "open",
+   "evidence": "HTTP 200, content ok"
   },
   {
    "url": "https://www.linkedin.com/jobs/view/4431460650",
