@@ -1,8 +1,8 @@
 {
- "checked_at": "2026-08-23T22:57:00.444Z",
+ "checked_at": "2026-08-30T22:11:51.858Z",
  "summary": {
-  "open": 24,
-  "unknown": 31
+  "open": 21,
+  "unknown": 34
  },
  "results": [
   {
@@ -23,8 +23,8 @@
    "url": "https://www.linkedin.com/jobs/view/4430418530/",
    "company": "Winbond",
    "title": "AI Enablement & Adoption PM",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "unknown",
+   "evidence": "HTTP 429, thin content"
   },
   {
    "url": "https://www.104.com.tw/job/8bdt1",
@@ -128,8 +128,8 @@
    "url": "https://www.linkedin.com/jobs/view/4430899990/",
    "company": "OnRampLab",
    "title": "Product Manager",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "unknown",
+   "evidence": "HTTP 429, thin content"
   },
   {
    "url": "https://www.104.com.tw/job/8u56s",
@@ -310,8 +310,8 @@
    "url": "https://www.linkedin.com/jobs/view/4432080126/",
    "company": "TSMC",
    "title": "Enterprise Business Systems PM",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "unknown",
+   "evidence": "HTTP 429, thin content"
   },
   {
    "url": "https://www.104.com.tw/job/8wac3",
