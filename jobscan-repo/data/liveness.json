@@ -1,8 +1,8 @@
 {
- "checked_at": "2026-09-06T23:41:05.060Z",
+ "checked_at": "2026-09-14T00:01:53.709Z",
  "summary": {
-  "open": 21,
-  "unknown": 34
+  "open": 18,
+  "unknown": 37
  },
  "results": [
   {
@@ -30,8 +30,8 @@
    "url": "https://www.104.com.tw/job/8bdt1",
    "company": "全家便利商店",
    "title": "數位轉型企劃專員",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "unknown",
+   "evidence": "HTTP 200, thin content"
   },
   {
    "url": "https://www.104.com.tw/job/91lbm",
@@ -128,8 +128,8 @@
    "url": "https://www.linkedin.com/jobs/view/4430899990/",
    "company": "OnRampLab",
    "title": "Product Manager",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "unknown",
+   "evidence": "HTTP 429, thin content"
   },
   {
    "url": "https://www.104.com.tw/job/8u56s",
@@ -296,8 +296,8 @@
    "url": "https://www.linkedin.com/jobs/view/4431654419/",
    "company": "待確認",
    "title": "Digital Transformation Manager",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "unknown",
+   "evidence": "HTTP 429, thin content"
   },
   {
    "url": "https://www.linkedin.com/jobs/view/4431209102/",
