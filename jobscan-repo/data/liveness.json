@@ -1,8 +1,8 @@
 {
- "checked_at": "2026-09-14T00:01:53.709Z",
+ "checked_at": "2026-09-21T00:01:31.883Z",
  "summary": {
-  "open": 18,
-  "unknown": 37
+  "open": 20,
+  "unknown": 35
  },
  "results": [
   {
@@ -128,8 +128,8 @@
    "url": "https://www.linkedin.com/jobs/view/4430899990/",
    "company": "OnRampLab",
    "title": "Product Manager",
-   "status": "unknown",
-   "evidence": "HTTP 429, thin content"
+   "status": "open",
+   "evidence": "HTTP 200, content ok"
   },
   {
    "url": "https://www.104.com.tw/job/8u56s",
@@ -296,8 +296,8 @@
    "url": "https://www.linkedin.com/jobs/view/4431654419/",
    "company": "待確認",
    "title": "Digital Transformation Manager",
-   "status": "unknown",
-   "evidence": "HTTP 429, thin content"
+   "status": "open",
+   "evidence": "HTTP 200, content ok"
   },
   {
    "url": "https://www.linkedin.com/jobs/view/4431209102/",
