@@ -1,5 +1,5 @@
 {
- "checked_at": "2026-09-21T00:01:31.883Z",
+ "checked_at": "2026-09-28T00:28:43.479Z",
  "summary": {
   "open": 20,
   "unknown": 35
@@ -31,14 +31,14 @@
    "company": "全家便利商店",
    "title": "數位轉型企劃專員",
    "status": "unknown",
-   "evidence": "HTTP 200, thin content"
+   "evidence": "HTTP 403, thin content"
   },
   {
    "url": "https://www.104.com.tw/job/91lbm",
    "company": "廣穎電通",
    "title": "AI數位轉型主管",
    "status": "unknown",
-   "evidence": "HTTP 403, thin content"
+   "evidence": "HTTP 200, thin content"
   },
   {
    "url": "https://www.104.com.tw/job/92cqg",
