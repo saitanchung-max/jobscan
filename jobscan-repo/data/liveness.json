@@ -1,8 +1,8 @@
 {
- "checked_at": "2026-09-28T00:28:43.479Z",
+ "checked_at": "2026-10-05T00:37:56.445Z",
  "summary": {
-  "open": 20,
-  "unknown": 35
+  "open": 19,
+  "unknown": 36
  },
  "results": [
   {
@@ -240,8 +240,8 @@
    "url": "https://www.linkedin.com/jobs/view/4440210806/",
    "company": "Shopee",
    "title": "AI Project Management/BI",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "unknown",
+   "evidence": "linkedin authwall"
   },
   {
    "url": "https://www.cake.me/companies/cathayins/jobs/ba18b0",
