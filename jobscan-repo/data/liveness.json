@@ -1,8 +1,8 @@
 {
- "checked_at": "2026-10-05T00:37:56.445Z",
+ "checked_at": "2026-10-12T01:09:42.359Z",
  "summary": {
-  "open": 19,
-  "unknown": 36
+  "open": 23,
+  "unknown": 32
  },
  "results": [
   {
@@ -23,22 +23,22 @@
    "url": "https://www.linkedin.com/jobs/view/4430418530/",
    "company": "Winbond",
    "title": "AI Enablement & Adoption PM",
-   "status": "unknown",
-   "evidence": "linkedin authwall"
+   "status": "open",
+   "evidence": "HTTP 200, content ok"
   },
   {
    "url": "https://www.104.com.tw/job/8bdt1",
    "company": "全家便利商店",
    "title": "數位轉型企劃專員",
    "status": "unknown",
-   "evidence": "HTTP 403, thin content"
+   "evidence": "HTTP 200, thin content"
   },
   {
    "url": "https://www.104.com.tw/job/91lbm",
    "company": "廣穎電通",
    "title": "AI數位轉型主管",
    "status": "unknown",
-   "evidence": "HTTP 200, thin content"
+   "evidence": "HTTP 403, thin content"
   },
   {
    "url": "https://www.104.com.tw/job/92cqg",
@@ -177,8 +177,8 @@
    "url": "https://www.linkedin.com/jobs/view/4428489359/",
    "company": "KGI銀行",
    "title": "數位科技策略人才",
-   "status": "unknown",
-   "evidence": "linkedin authwall"
+   "status": "open",
+   "evidence": "HTTP 200, content ok"
   },
   {
    "url": "https://www.linkedin.com/jobs/view/4429775029/",
@@ -240,8 +240,8 @@
    "url": "https://www.linkedin.com/jobs/view/4440210806/",
    "company": "Shopee",
    "title": "AI Project Management/BI",
-   "status": "unknown",
-   "evidence": "linkedin authwall"
+   "status": "open",
+   "evidence": "HTTP 200, content ok"
   },
   {
    "url": "https://www.cake.me/companies/cathayins/jobs/ba18b0",
@@ -282,8 +282,8 @@
    "url": "https://www.linkedin.com/jobs/view/4233477917",
    "company": "待確認",
    "title": "經營分析管理師",
-   "status": "unknown",
-   "evidence": "linkedin authwall"
+   "status": "open",
+   "evidence": "HTTP 200, content ok"
   },
   {
    "url": "https://www.linkedin.com/jobs/view/4431460650",
