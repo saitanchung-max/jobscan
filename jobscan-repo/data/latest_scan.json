@@ -1,8 +1,8 @@
 {
- "merged_at": "2026-10-12T06:26:05Z",
+ "merged_at": "2026-10-13T07:04:17Z",
  "per_source": {
   "cake_new.json": {
-   "scanned_at": "2026-10-12T06:20:28.607Z",
+   "scanned_at": "2026-10-13T07:00:58.910Z",
    "total_listed": 0,
    "new_count": 0,
    "group_stats": {
@@ -89,7 +89,7 @@
    }
   },
   "104_new.json": {
-   "scanned_at": "2026-10-12T06:22:11Z",
+   "scanned_at": "2026-10-13T07:02:43Z",
    "total_listed": 0,
    "new_count": 0,
    "group_stats": {
@@ -104,24 +104,24 @@
    }
   },
   "jobspy_new.json": {
-   "scanned_at": "2026-10-12T06:26:05Z",
-   "total_listed": 99,
-   "new_count": 17,
+   "scanned_at": "2026-10-13T07:04:17Z",
+   "total_listed": 62,
+   "new_count": 16,
    "group_stats": {
-    "linkedin:business operations": 25,
+    "linkedin:business operations": 0,
     "indeed:business operations": 0,
-    "linkedin:chief of staff": 25,
-    "indeed:chief of staff": 1,
-    "linkedin:strategy and operations": 25,
+    "linkedin:chief of staff": 10,
+    "indeed:chief of staff": 0,
+    "linkedin:strategy and operations": 0,
     "indeed:strategy and operations": 0,
-    "linkedin:digital transformation": 25,
-    "indeed:digital transformation": 1,
-    "linkedin:AI implementation": 25,
-    "indeed:AI implementation": 3,
-    "linkedin:經營企劃": 25,
+    "linkedin:digital transformation": 10,
+    "indeed:digital transformation": 3,
+    "linkedin:AI implementation": 0,
+    "indeed:AI implementation": 5,
+    "linkedin:經營企劃": 10,
     "indeed:經營企劃": 0,
     "linkedin:策略規劃": 25,
-    "indeed:策略規劃": 0,
+    "indeed:策略規劃": 1,
     "linkedin:AI導入": 25,
     "indeed:AI導入": 0
    }
@@ -132,246 +132,218 @@
   "cake_new.json: total_listed=0，橫跨全部 8 組關鍵字 — 極可能是被封鎖或解析失敗，不是真的零筆新職缺",
   "104_new.json: total_listed=0，橫跨全部 8 組關鍵字 — 極可能是被封鎖或解析失敗，不是真的零筆新職缺"
  ],
- "new_count": 17,
+ "new_count": 16,
  "new_jobs": [
   {
    "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4477279635",
-   "title": "Senior Business Growth Strategy & Operation Director",
-   "company": "LINE Taiwan Limited",
-   "location": "Neihu District, Taipei City, Taiwan",
-   "datePosted": "2026-10-12",
+   "url": "https://www.linkedin.com/jobs/view/4477952486",
+   "title": "Lead, Marketplace Management",
+   "company": "Nike",
+   "location": "Taipei City, Taiwan",
+   "datePosted": "2026-10-13",
    "salary": "None-None",
-   "jd": "**工作職責：** 1. **新事業發展與策略孵化** * **探索新成長引擎** ：識別、評估並孵化新型態商業機會（如：全新送禮場景或創新盈利模式），為 LINE 禮物打造下一條成長 S 曲線。 * **執行概念驗證（PoC）** ：主導新商業模式的端到端 PoC 專案，涵蓋市場研究、財務預測、跨團隊試營運與商業可行性驗證。 1. **商業突破：品牌聯名企劃** * **旗艦級聯名企劃** ：鎖定並洽談市場指標性品牌合作夥伴，規劃與推動高影響力的「LINE 禮物獨家聯名企劃」，拉高 GMV 成長與品牌價值。 * **商業模式創新** ：協同業務（BD）與行銷團隊，針對大檔送禮季節與特殊社交情境，打造可重複複製與擴展的商業模型。 1. **經營營運：數據管理與報表優化** * **重構管理報表** ：重新梳理 LINE 禮物的經營指標（北極星指標與 KPIs），優化高階管理儀表板工具，為事業部負責人提供簡化且精準的決策依據。 * **營運診斷與數據洞察** ：深度分析交易數據、品類組合、用戶留存與漏斗轉換率，精準找出潛在成長點與營運瓶頸。 1. **樞紐溝通：跨國與跨部門協調** * **跨國產品對接樞紐（台韓）** ：作為台灣業務團隊與韓國產品/技術總部之間的核心策略溝通樞紐，將台灣在地市場與新事業需求精準轉化為產品路線圖（Product Roadmap）。 * **跨功能團隊橫向協調** ：在無直接職權（Without Direct Authority）的情況下，橫向協調法務、財務、公關、行銷與平台營運團隊，推動複雜的跨部門專案落地。 * **高層決策支援** ：直接協助 **LINE 禮物團隊負責人** 進行年度預算編列、中長期策略擬定與高層會議（Board/Executive Meetings）簡報準備。 **應徵資格：** 1. **專業經驗** * 具備 **8 年以上** 商業策略、企業發展（Corporate Development）、商業營運、電子商務或管理顧問相關經驗（具備高成長型科技平台或數位產業背景者優先）。 * 擁有從 0 到 1 打造與落地新事業專案、主導跨部門策略專案及高階商業談判之實務戰績。 * 具備強大商業敏銳度，能將模糊的商業構想轉化為可擴展的商業模式與可執行的營運計畫。",
+   "jd": "nan",
    "keywords": [
-    "business operations",
     "chief of staff",
-    "strategy and operations",
-    "digital transformation",
     "經營企劃",
     "策略規劃"
    ]
   },
   {
    "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4477275777",
-   "title": "經管營運績效管理副理/經理(製造及供應鏈)",
-   "company": "Wonderland Group",
-   "location": "Taipei, Taipei City, Taiwan",
+   "url": "https://www.linkedin.com/jobs/view/4477567545",
+   "title": "People Change & Comms Program Manager",
+   "company": "Micron Technology",
+   "location": "Taoyuan District, Taoyuan City, Taiwan",
    "datePosted": "2026-10-12",
    "salary": "None-None",
-   "jd": "為中央幕僚團隊的一員，主要任務是透過收集、處理與分析營運流程中(如製造管理、品質管理或供應鏈管理)的各種數據與指標，對公司營運狀況進行分析，識別及解決問題並驅動改善，協同創造更高價值 **工作內容包含** 1. 針對不同營運流程進行分析與洞察，識別及解決問題。 2. 工廠營運績效相關資料整理與報表產出。 3. 工廠營運管理相關專案的規劃協助與執行。 4. 協同廠端探討生產相關問題並提出改善方案建議。 5. 其他主管交辦事項處理 **職缺需求** 1. 認真負責、主動積極、問題解決導向、喜歡持續學習等人格特質能力者 2. 具備中央幕僚單位、中央IE、經營管理(經營企劃)單位或顧問經驗者尤佳 3. 熟悉製造營運管理系統(如ERP、MES等)尤佳 4. 具備數據收集、處理與分析的能力(須熟悉MS-excel，會運用報表應用軟體如MS-Power BI , Tableau等亦佳) 5. 可視任務需求短期出差大陸工廠 6. 可獨立作業佳",
-   "keywords": [
-    "business operations",
-    "strategy and operations",
-    "經營企劃"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4477500358",
-   "title": "Senior Manager, Pricing Operations",
-   "company": "Coupang",
-   "location": "Taipei City, Taiwan",
-   "datePosted": "2026-10-12",
-   "salary": "None-None",
-   "jd": "Taiwan Pricing Operation team is looking for a **Senior Manager, Pricing Operation** who is customer obsessed, motivated, has a bias for action and can think systemically to bring to life new areas of business for the team. **This role will lead a team of junior PM and operators** to work closely with various cross-functional teams (including Catalog, Product, Instock and Merchandising team) to build, launch and scale new needle-moving initiatives that bring direct impact to Coupang Pricing system and wow the Customers. Stakeholder teams may include Product, Engineer, Merchandising, Marketing, PR, Legal, Catalog and In-stock. This role requires an individual with excellent attention to detail, a knack for operational process planning, analytical capabilities, innovation, and strong business acumen. He/she is comfortable operating in ambiguous environments and has the ownership to identify and lead stakeholder teams to implement creative solutions to streamline and accelerate a wide range of business processes. An individual would succeed in the role when he/she is a strategic thinker, yet capable of rolling up their sleeves and getting their hands dirty to ensure front-line execution excellence. **Responsibilities:** * **With Taiwan e-commerce understanding, create scalable and automated solutions for end-to-end management of new programs in partnership with various internal teams. Develops SOP for manual management where automation is not possible.** * Team management – FTE and dispatch workers. * When an issue arises, dive deep into the roots of the issue, propose solutions supported by data and facts and share impact. * Drive improvement in operational performance and lead projects to further expand our business and enhance both our customers and partner teams experience. * Clearly communicates goals, roles, responsibilities, success metrics and desired outcomes to cross functional-project teams and program stakeholders * Works independently, but also influences and manages project teams, sub-teams and subject matter experts to develop, test or implement new ideas or process improvements. * Ensures that multiple projects within program roadmap meet specified timelines to deliver results **What we are looking for:** * Minimum **7 years of experience in program/project/process management or business operations preferably in the e-commerce industry** * **SQL building experience is a must** * English speaking and writing skill are a must * At least 2 year of people management experience.",
-   "keywords": [
-    "business operations",
-    "chief of staff",
-    "strategy and operations"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4477275930",
-   "title": "(Senior) GTM Operations Specialist - Performance management",
-   "company": "inline",
-   "location": "Taipei City, Taiwan",
-   "datePosted": "2026-10-12",
-   "salary": "None-None",
-   "jd": "**About inline** inline is a software startup focused on maximizing restaurant efficiency managing tables and reservations. We have thousands of restaurants including leading chain brands, Michelin-starred restaurants, shopping malls, and busy brick-and-mortar restaurants. We also partner with food-tech platforms, social apps, and various media services to grow the exposure and business for inline restaurant customers. Our team is launching and exploring more global opportunities in key cities, including Tokyo, Osaka, Hong Kong, Taiwan, Kuala Lumpur, Vancouver, Melbourne, Sydney and the cities in the US. For people with solid professional skills and talent, who are highly motivated to expand their career and learn in a fast, flexible environment, we have several opportunities to build the business with our team and write the legend inline for the next thousand partners at a rapid pace. **The Role** At Inline, the primary responsibility of the Senior GTM Operations Specialist – Performance Management is to strengthen how our GTM organization measures performance, identifies business risks and opportunities, and makes data-driven decisions across Business Development and Customer Success. This role goes beyond reporting. You will take ownership of translating business questions into meaningful performance indicators, analytical frameworks, dashboards, and actionable insights. By connecting data with business context, you will help teams understand not only what is happening, but also why it is happening, what is likely to happen next, and what actions should be taken. To succeed in this role, you should be highly analytical, commercially minded, and comfortable working with ambiguous business questions. You will collaborate closely with BD, CSM, Business Operations, Revenue Operations, BI & Analytics, Finance, and other stakeholders to ensure GTM performance is measured consistently and that insights are translated into meaningful business actions. This role plays a critical part in building a more proactive and data-driven GTM organization, enabling teams and leaders to identify performance gaps early, make better decisions, and continuously improve business outcomes. If this sounds like you – read on! **Key Responsibilities** **Business Performance Monitoring & KPI Management** * Define, develop, and maintain key GTM performance indicators across the customer lifecycle, including metrics such as conversion, upsell, renewal, retention, and churn. * Build and maintain performance dashboards and reporting frameworks that enable BD, CSM, and management teams to clearly understand business performance and progress toward targets. * Continuously monitor performance trends and anomalies, proactively identifying significant changes, emerging risks, or areas requiring further investigation. **Analytics & Business Insights** * Conduct deep-dive analyses across areas such as conversion, customer retention, revenue performance, customer segmentation, and behavioral trends to identify key business drivers and performance gaps. * Translate complex data into clear and actionable business insights, recommendations, and potential next steps for relevant stakeholders. * Develop early-warning analyses to identify potential business risks or performance deterioration before they materially impact results. * Evaluate the impact of business initiatives, operational changes, or GTM strategies and provide recommendations for further optimization. **Planning, Forecasting & Target Setting** * Develop and maintain forecasting models to provide visibility into expected GTM performance and support quarterly and annual business planning. * Provide historical performance analysis, benchmarks, business assumptions, and scenario analysis to support early-stage target discussions and evaluate the feasibility and implications of proposed targets. * Partner with the Bonus & Incentive Planning function during target planning by providing performance data and analytical recommendations, while formal target setting and related incentive design remain owned by the Bonus & Incentive Planning function. * Monitor actual performance against agreed targets and forecasts, identify key variances, and provide insights into underlying drivers, emerging risks, and potential areas requiring action. **Data Quality & Metric Alignment** * Partner with Product Team,Revenue Operations, and relevant stakeholders to ensure GTM performance metrics are consistently defined, understood, and applied across teams. * Identify and investigate discrepancies across reporting sources, CRM systems, and operational data to ensure performance analyses are reliable and decision-ready. * Maintain clear documentation and business definitions for key GTM metrics, ensuring teams have a shared understanding of how performance is measured. **Business Decision Support & Data Enablement** * Partner closely with BD, CSM, and leadership teams to translate business questions into structured analyses and decision frameworks. * Provide analytical support for strategic and ad-hoc business questions, while identifying opportunities to convert recurring requests into standardized reporting or self-service solutions. * Help stakeholders interpret performance data and develop stronger data-driven decision-making capabilities across the GTM organization. **Cross-functional Collaboration** * Collaborate with Business Operations, Revenue Operations, Finance, BD, CSM, Product, and other teams to connect business context with data and ensure insights lead to meaningful actions. * Act as a key point of contact for GTM performance-related questions, helping stakeholders clarify problems, identify relevant metrics, and determine the appropriate analytical approach. **Preferred Experience & Personal Traits** * Minimum of 4–5 years of relevant experience in Business Operations, Sales Operations, Revenue Operations, Strategy & Operations, Business Analytics, Performance Management, or related fields. * Strong experience analyzing business performance and working with KPI frameworks, forecasting, target setting, or performance tracking for Sales, Business Development, Customer Success, or other GTM functions. * Technical Skills: Advanced proficiency in Excel / Google Sheets and experience working with CRM systems such as Salesforce and business intelligence or reporting tools. Experience with SQL, Python, or other analytical tools is a strong plus. * Analytical Skills: Strong analytical mindset with the ability to structure ambiguous business questions, identify meaningful patterns, and translate complex data into actionable business insights. * Business Acumen: Able to connect data with commercial and operational context, understand key business drivers, and distinguish meaningful signals from reporting noise. * Problem-Solving: Comfortable investigating unclear or unexpected performance changes, identifying root causes, and developing practical recommendations rather than stopping at observation. * Communication: Strong communication and presentation skills, with the ability to explain analytical findings clearly to both operational teams and senior stakeholders. * Ownership: Able to independently own analytical projects from problem definition and data validation through analysis, recommendation, and follow-up. * Detail-oriented with a strong commitment to data accuracy, consistency, and reliability. * Self-motivated, able to work independently, manage priorities, and operate effectively in a fast-changing and ambiguous environment. * Experience leading cross-functional analytical projects or mentoring junior team members is a plus.",
-   "keywords": [
-    "business operations",
-    "strategy and operations",
-    "經營企劃"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4478361863",
-   "title": "生產管理副總 / Vice President of Manufacturing Operations (台灣地區)",
-   "company": "LeanTeq 濂達科技",
-   "location": "Taoyuan City, Taiwan",
-   "datePosted": "2026-10-12",
-   "salary": "None-None",
-   "jd": "**We’re Hiring｜Vice President of Manufacturing Operations** Join us as a Vice President of Manufacturing Operations and play a pivotal role in shaping the future of our manufacturing organization. As a member of the executive leadership team, you will lead end-to-end manufacturing operations, including Production, Quality Assurance, Laboratory, Warehouse, and Logistics functions, overseeing an organization of more than 650 employees. This role goes beyond operational management. We are looking for a strategic and transformational leader who can drive Operational Excellence, Quality Leadership, Organizational Capability, and Sustainable Growth while partnering closely with senior executives to deliver long-term business success and strengthen our global competitiveness. **About the Role** This role is responsible for leading the company's end-to-end manufacturing operations, including Production, Laboratory, Warehouse & Logistics, and Quality Assurance functions, overseeing an organization of more than 650 employees. As a key strategic leader, you will drive operational excellence, quality leadership, organizational effectiveness, and sustainable growth. Beyond ensuring stable day-to-day manufacturing performance, you will play a critical role in shaping long-term operational strategy, optimizing productivity, strengthening quality competitiveness, developing leadership talent, and supporting the company's continued business expansion. **Key Responsibilities** **1. Manufacturing Strategy & Operations Management** * Develop mid-to-long-term manufacturing strategies and annual operational objectives aligned with corporate goals and market demands. * Establish and drive operational performance metrics to ensure organizational effectiveness and achievement of business targets. * Lead cross-site resource planning and optimization, including workforce, equipment, production capacity, and operational investments. * Participate in annual business planning, budgeting, strategic initiatives, and key management decision-making processes. **2. Production Management & Laboratory Capacity Planning** * Oversee overall manufacturing operations to ensure production capacity, product quality, laboratory testing capabilities, and on-time delivery performance meet business objectives. * Develop capacity expansion plans, capital investment strategies, laboratory capability enhancement programs, and resource allocation plans to support future business growth. * Drive Lean Manufacturing, Six Sigma, and continuous improvement initiatives while integrating laboratory analysis and process improvement activities to enhance productivity, process stability, and cost efficiency. * Establish risk management and early-warning mechanisms to minimize production disruptions and operational risks **.** **3. Quality Management & Customer Satisfaction** * Define and implement quality strategies that promote a culture of quality excellence and continuous improvement. * Lead customer audits, quality issue resolution, corrective action programs, and quality improvement projects to enhance customer satisfaction. * Ensure compliance with ISO, RBA, and other applicable industry quality standards and regulatory requirements. * Optimize the cost of quality through reductions in defect rates, customer complaints, and quality-related losses. **4. Warehouse & Supply Chain Operations** * Oversee warehouse operations, including the receiving, storage, inventory control, and distribution of critical materials and components. * Develop and implement effective inventory management strategies to improve inventory accuracy and turnover. * Enhance warehouse efficiency and logistics processes to improve operational productivity and reduce costs. * Coordinate cross-functional collaboration among manufacturing, logistics, and procurement teams to maximize supply chain effectiveness. **5. Leadership & Talent Development** * Lead and inspire a manufacturing organization of more than 650 employees while fostering a high-performance culture. * Develop succession planning programs and talent pipeline strategies to ensure sustainable organizational growth. * Strengthen leadership, management, and problem-solving capabilities among middle and senior management teams. * Drive organizational transformation and digitalization initiatives to improve operational effectiveness and future competitiveness. **Qualifications** * 15+ years of manufacturing operations experience, including leadership of large-scale manufacturing organizations. * Proven track record managing 500+ employee operations. * Experience as a Plant Manager, Operations Director, VP Manufacturing, or equivalent. * Strong background in Lean Manufacturing, Operational Excellence, and Continuous Improvement. * Exceptional leadership, strategic thinking, and business decision-making skills. * Bachelor's degree or above in Engineering, Industrial Engineering, Business Administration, or related disciplines. * Experience managing highly complex organizations and navigating periods of rapid organizational growth.",
-   "keywords": [
-    "business operations",
-    "經營企劃"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4478373486",
-   "title": "Director of Financial Planning and Analysis",
-   "company": "Bora Pharmaceuticals",
-   "location": "Taipei City, Taiwan",
-   "datePosted": "2026-10-12",
-   "salary": "None-None",
-   "jd": "**About Bora** Bora Pharmaceuticals is a premier international contract development and manufacturing organization (CDMO) specializing in formulation development, clinical and commercial manufacturing, and packaging of complex oral solid dose, liquid, semi-solid, biologics, and sterile injectable pharmaceutical products. From our world-class sites in North America and Asia, we deliver drug products with unparalleled quality to more than 100 markets around the world. Bora’s teams, technologies, and facilities work seamlessly together to enable our clients to deliver much-needed therapeutics to patients worldwide. At Bora Pharmaceuticals, we see it as our mission, our duty, our responsibility, to make our success and our customer’s success more certain. Position Summary The Director of Financial Planning and Analysis (FP&A) leads the financial planning, forecasting, budgeting, and strategic analysis functions across the CDMO's development services and commercial manufacturing operations. This role serves as a key business partner to the CFO, Chief Operating Officer, Site Heads, Program Management, Business Development, and Operations leaders, providing financial insight that drives capacity planning, program profitability, capital investment decisions, and long-term strategic growth. The successful candidate brings deep expertise in cost accounting and operational finance within a regulated pharmaceutical, biologics, or cell and gene therapy manufacturing environment, and is comfortable translating complex production economics into clear, actionable recommendations for executive leadership and clients. Key Responsibilities **Strategic Financial Planning & Forecasting** * Lead the annual operating plan, long-range plan (3–5 year), quarterly forecasts, and monthly outlook processes across all CDMO sites and business units. * Build and maintain integrated financial models that capture revenue by program, suite/line utilization, batch economics, cost of goods sold (COGS), gross margin, EBITDA, and free cash flow. * Translate the commercial pipeline, signed contracts, and committed backlog into a rolling demand and revenue forecast, working closely with Business Development and Program Management. * Model the financial impact of new modalities, new service offerings, capacity expansions, and technology transfers. **Operational & Manufacturing Finance** * **Cost accounting:** Oversee standard costing, variance analysis (purchase price, yield, labor, overhead absorption), and inventory valuation across raw materials, WIP, and finished goods in compliance with GMP and US GAAP. * **Capacity & utilization analytics:** Develop and maintain suite-level utilization, throughput, and cost-per-batch dashboards. Identify under-absorbed overhead, idle capacity, and bottlenecks, and partner with Operations on mitigation plans. * **Program profitability:** Own client/program-level P&Ls. Analyze margin by service line (process development, drug substance, drug product, fill-finish, analytical, packaging) and recommend pricing or scope adjustments. * **Pricing support:** Partner with Business Development to build proposal models, quote-to-cash economics, and change-order financials. Validate assumptions on batch yield, FTE loading, materials, and pass-through costs. **Business Partnership & Decision Support** * Serve as the lead finance partner to Site Heads, Heads of Manufacturing, Quality, Supply Chain, and Engineering, providing the financial lens on operational decisions. * Lead capital expenditure (CapEx) planning and post-investment reviews for facility expansions, equipment, single-use vs. stainless decisions, and digital/automation initiatives. Build IRR, NPV, and payback analyses. * Support make-vs-buy, insourcing-vs-outsourcing, and site rationalization analyses. * Provide ad-hoc financial analysis to support M&A, due diligence, integration planning, and strategic partnerships. **Reporting, Controls & Governance** * Own monthly close support from an FP&A perspective: variance commentary, flux analysis, and executive reporting packages for the CEO, CFO, and Board of Directors. * Drive continuous improvement of financial systems (ERP, planning, BI), data hierarchies, and KPI definitions to improve forecast accuracy and transparency. * Ensure compliance with internal controls (SOX where applicable), audit requirements, and revenue recognition standards (ASC 606), including milestone, time-and-materials, and percentage-of-completion arrangements common in CDMO contracts. * Partner with the Controller and accounting team on revenue accruals, deferred revenue, and contract asset/liability balances. **Team Leadership** * Build, lead, mentor, and develop a high-performing FP&A team across corporate and site finance. * Establish standards for analytical rigor, presentation quality, and business-partner orientation. * Champion a culture of accountability, intellectual honesty, and continuous improvement. Qualifications **Required Experience & Education** * 10+ years of progressive finance experience, with at least 5 years in a senior FP&A or operational finance role within a pharmaceutical, biologics, CDMO, CMO, or comparable regulated manufacturing environment. * Demonstrated experience with manufacturing cost accounting, standard costing, and variance analysis in a GMP setting. * Track record of building and managing complex financial models tied to production capacity, batch economics, and multi-site operations. * Experience supporting commercial proposals, client pricing, and contract economics in a service-based or fee-for-service business. * Proven people leadership experience, including building and developing FP&A teams. **Preferred Qualifications** * MBA, CPA, CMA, or CFA. * Experience with biologics, sterile injectables, cell and gene therapy, oligonucleotides, or advanced therapy modalities. * Hands-on experience with ERP systems (SAP, Oracle, Microsoft Dynamics) and EPM/planning tools (Hyperion, Anaplan, OneStream, Adaptive, Vena). * Familiarity with BI and analytics tools (Power BI, Tableau, Alteryx) and advanced Excel/SQL. * Exposure to revenue recognition under ASC 606 for service-based contracts and milestone-based development agreements. * Experience supporting a private equity-backed, IPO-track, or publicly listed company.",
-   "keywords": [
-    "chief of staff",
-    "策略規劃"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4477699948",
-   "title": "Director, People Experience (PX) – Taiwan",
-   "company": "Pfizer",
-   "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-10-09",
-   "salary": "None-None",
-   "jd": "**Position purpose:** Director, PX Taiwan is a critical strategic business partner role, embedded in the Taiwan Country Manager's Leadership Team, responsible for shaping and executing the people and culture agenda that directly enables Taiwan's commercial performance and growth ambitions [+300M USD revenue/ Single-payer National Health Insurance (NHI) system/Private and Public coverage/High AI fluent operations]. This role will require bringing a data-informed, commercial mindset to workforce decisions, connecting talent, capability and organizational design directly to business outcomes. Role will be based in Taipei and holds end-to-end accountability for the PX agenda across Taiwan's Commercial and Enabling functions, partnering directly with the Country Leadership and Regional/Global Leadership Teams on decisions that shape organizational performance, capability, and growth. Role will require synchronization and alignment with in-market PX and regional/global PX including PX Centre of Excellence to manage and deliver programs and projects to support colleague life cycle experiences is in line with Pfizer’s values. This position reports to Regional PX and is part of the Asia PX leadership team (South East Asia, Australia/New Zealand and Korea) ensuring Taiwan's people strategy is aligned to regional level and play an active role aligning with enterprise priorities while bringing forward Taiwan-specific market insight to shape those priorities. The role is also expected to provide regional leadership and represent Taiwan's perspective across critical cross-market projects and initiatives, including talent, succession, and organizational effectiveness programs. **Operating Model:** This role operates as a market-embedded strategic advisor and orchestrator. Impact is delivered primarily through influence, coalition-building, and mobilizing resources the incumbent does not directly own: above-market PX Centres of Excellence, GBS, regional PX, and cross-functional partners (Finance, Commercial Operations, Legal). Success depends on the incumbent's ability to negotiate competing priorities and move agendas forward across these boundaries without formal authority over the people or budgets involved. **Business Context & Workforce Implications:** Taiwan has an active and highly prioritized innovative brand portfolio that is transforming in ways of working and go-to-market— including field-force reshaping as legacy brands exit, a fast-ramping specialty/precision-medicine launch building toward a longer-term franchise ambition, and exploration of new growth engines. The incumbent will need to lead workforce and capability shaping proactively in response to these shifts — anticipating redeployment, reskilling, talent management, succession and critical-role pipeline needs. The key focus areas for this role includes: * Strategic business partnership & commercial enablement: Act as a full member of the Taiwan Leadership Team, bringing workforce, capability, and organizational design insight into commercial and business planning discussions. Connect people investments directly to Taiwan's growth priorities and revenue ensuring PX is seen as a driver of business performance rather than a support function. * \"> \">undefined * People & Culture strategy planning & execution: To develop and execute meaningful people plans that will deliver performance and achievement of business priorities in line with Country Leaders. The plans will need to deliver impact through measurable KPIs. * \"> \">undefined * Leadership coaching for impact & performance: * Be an active partner in coaching for performance that deliver impactful results. Being deeply engaged in insights from colleagues to enable coaching for performance. * ;\">Be an active partner in coaching for performance that deliver impactful results. Being deeply engaged in insights from colleagues to enable coaching for performance.;\">undefined * \"> \">undefined * Leading transformation with impactful change management principles: * Understanding the business priorities and implement programmatic plans to transform ways of working and inspire behaviour change. Being able to show progress and impact with metrics. * ;\">Understanding the business priorities and implement programmatic plans to transform ways of working and inspire behaviour change. Being able to show progress and impact with metrics.;\">undefined * Be AI-fluent and lead adoption of agentic/AI-enabled ways of working in Taiwan — translating regional AI-enabled operating model and workflow automation initiatives into local practice. * margin-top:0cm;\"> margin-top:0cm;\">undefined * Alignment to and with global and regional working principles and plans: Ensure effective partnership and alignment with relevant global & regional PX stakeholders to embrace and bring an enterprise, corporate perspective to the decision making related to market investments and activity. Leverage assets from HQ and other regions for the benefit of the local market. In line with simplicity, ensure the markets are focusing on high impact efforts, that are aligned to bring the biggest measurable impact. * Global Shared Services operating model ways of working: Critical to on an ongoing basis align, audit and execute with the Global Shared Services platform HR Operational support and services for the colleagues and managers of Taiwan inline with policy and market regulatory expectations. In addition to ensure the entire end to end People Experience can be a synchronized offering leveraging GBS, other COEs and local market People Experinece. * Workforce & skills agility: Proactively shape the workforce as the brand portfolio shifts — identifying redeployment, reskilling, and critical-role pipeline needs ahead of restructuring, rather than responding to it after the fact. * \"> \">undefined * Employee experience as a continuous, data-driven practice: Own a continuous listening and action loop (engagement pulse, sentiment, coaching signals, retention risk indicators) to drive targeted, data-triggered interventions rather than calendar-driven programs, ensuring colleague experience stays aligned to Pfizer's values in a fast-changing market. * \"> \">undefined * PX network leadership: * Contribute to the leadership, growth, and development of PX talent across the regional network — coaching and mentoring peers and above-market resources despite holding no formal reporting authority over them. * ;\">Contribute to the leadership, growth, and development of PX talent across the regional network — coaching and mentoring peers and above-market resources despite holding no formal reporting authority over them.;\">undefined **Critical Stakeholders:** * Taiwan Country Manager and Leadership Team – primary strategic partnership, with active participation in leadership team decision-making on organizational, talent, and growth priorities. * Partners closely with Global & Regional PX & COEs (Compensation, Global Benefits, Global Mobility, Org Development, Talent teams, CX, GBS – payroll/Operations etc) * Other internal stakeholders such as Finance, Commercial Operations etc. * External stakeholders (Employment related statutory authorities, Government agencies and other external parties that affects our equity as an Employer, vendors, legal firms). * ;\"> ;\">undefined **Qualifications & Key Experiences** * Bachelor’s or higher education will be highly regarded. * Employee relations experience essential/ Taiwan preferably. * Active listening skills, grounded in strong written and verbal communication ability. * Proven track record in stakeholder engagement and management (influencing ability, cultivating credible relationships and empathetic) * Experience in change management and driving performance impact with measurable outcomes. * Comfort working with people analytics and data (e.g. workforce, engagement, coaching impact, retention risk) to inform, rather than simply report, business decisions. * Demonstrated a",
+   "jd": "nan",
    "keywords": [
     "chief of staff"
    ]
   },
   {
    "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4477506006",
-   "title": "CIM & AI application Sr Manager 【Hsinchu, Taichung, Changhua, Chiayi, Tainan or oversea】",
-   "company": "Siliconware Precision Industries Co., Ltd.",
-   "location": "Hsinchu Metropolitan Area",
+   "url": "https://www.linkedin.com/jobs/view/4477570514",
+   "title": "Engineer, Taiwan Business Operations",
+   "company": "Micron Technology",
+   "location": "Taoyuan District, Taoyuan City, Taiwan",
    "datePosted": "2026-10-12",
    "salary": "None-None",
    "jd": "nan",
-   "keywords": [
-    "digital transformation",
-    "AI implementation",
-    "AI導入"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4477294125",
-   "title": "E-Commerce (Sr.)Product Manager 產品經理",
-   "company": "Yahoo Taiwan E-Commerce",
-   "location": "Neihu District, Taipei City, Taiwan",
-   "datePosted": "2026-10-12",
-   "salary": "None-None",
-   "jd": "nan",
-   "keywords": [
-    "digital transformation",
-    "AI導入"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4477291130",
-   "title": "(竹北) Senior Software Product Manager Enterprise Applications 系統",
-   "company": "Winbond",
-   "location": "Hsinchu City, Taiwan, Taiwan",
-   "datePosted": "2026-10-12",
-   "salary": "None-None",
-   "jd": "作 為華邦的(竹北) Senior Software Product Manager Enterprise Applications 系統 ，你將協助內部需求部門建置完善的資訊系統平台，促進企業內部運作並提升生產力。工作內容包含： ，以下為工作內容、工作條件以及重要通知。 **【工作內容】** * 負責記憶體半導體產品生命週期（PLM）及企業支援服務（Audit/Legal/IP）相關應用系統之軟體產品策略與發展規劃 * 深入理解業務流程與使用者需求，規劃企業應用系統之軟產品 Roadmap、需求優先順序及持續優化方向 * 主導軟體產品生命週期管理，涵蓋需求分析、方案評估、系統建置、測試驗收、上線導入與持續優化 * 獨立主導跨部門大型企業系統專案，整合業務需求、技術資源及利害關係人，推動流程數位化與系統整合 * 運用數據分析與使用者回饋，追蹤系統使用成效及業務價值，持續提升軟體產品效益 工作地點：竹北辦公室(新竹縣竹北市文興路二段539號) 聘僱性質：全職 **【條件要求】** 學歷要求：碩士 科系要求：資訊管理相關 │ 工業工程相關 │ 資訊工程相關 相關經驗：10年以上 語言能力：英文 高級 │ │ 管理責任：No 輪班需求：No 出差需求：無 外派需求：No 其他條件： [必要條件] * 10 年以上企業應用系統之軟體產品管理、系統開發或專案管理經驗 * 熟悉 PLM 或 Audit/Legal/IP 等企業應用領域之一，具備跨系統整合能力 * 具備軟體產品 Roadmap 規劃、需求優先順序管理及產品生命週期管理能力 * 具備獨立主導大型跨部門專案、管理複雜利害關係人及推動重大議題決策之能力 * 具備數據分析能力，熟悉 Agile/Scrum 或相關專案管理方法 [加分條件] * 具半導體、記憶體或電子製造業 PLM 系統導入及優化經驗佳 * 具企業系統選型、Build vs. Buy 或 Vendor Management 經驗佳 * 具 IT 架構、API Integration、Cloud Platform 或 AI 應用協作經驗佳",
    "keywords": [
     "digital transformation"
    ]
   },
   {
    "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4478385135",
-   "title": "Technical Project Manager",
-   "company": "E-Solutions",
-   "location": "Taipei, Taipei City, Taiwan",
+   "url": "https://www.linkedin.com/jobs/view/4477580009",
+   "title": "Senior Manager, HVM PROD AI Enablement",
+   "company": "Micron Technology",
+   "location": "Taoyuan District, Taoyuan City, Taiwan",
    "datePosted": "2026-10-12",
    "salary": "None-None",
-   "jd": "**We’re Hiring: Technical Project Manager (TPM) – AI Infrastructure & Cloud Platforms** 📍 **Location:** Taipei, Taiwan 💼 **Experience:** 5+ Years **Role Overview** We are looking for an experienced Technical Project Manager to drive cross-functional projects across cloud infrastructure, data centers, and AI/ML platforms. The ideal candidate will collaborate with engineering, operations, and leadership teams to deliver complex technical initiatives. **Key Requirements:** * 5+ years of Technical Project/Program Management experience in infrastructure, cloud platforms, systems engineering, or data centers. * Hands-on experience with **GCP, AWS, and/or Microsoft Azure** . * Strong understanding of compute, networking, storage, virtualization, and distributed systems. * Proven experience managing multiple teams and complex project dependencies. * Excellent stakeholder management, communication, and collaboration skills. * Ability to manage ambiguity, handle competing priorities, and deliver results in high-pressure environments. * Experience with AI/ML infrastructure is an advantage. 📩 **Interested candidates:** Please share your updated resume or connect with me to discuss this opportunity. Radhika.b@esolglobal.com",
+   "jd": "nan",
    "keywords": [
     "digital transformation",
-    "AI implementation"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4475684017",
-   "title": "Lead Consultant (SPICE專長)",
-   "company": "UL Solutions",
-   "location": "Taipei City, Taiwan",
-   "datePosted": "2026-10-12",
-   "salary": "None-None",
-   "jd": "**Job Description** We are seeking an experienced ASPICE Consultant to support consulting, training, assessment, and process improvement programs in the automotive industry. The ideal candidate has more than 10 years of experience in automotive electronics, engineering process management, software and/or systems development lifecycle, and R&D quality improvement. The candidate should possess strong expertise in Automotive SPICE implementation and process capability improvement and be capable of leading strategic consulting projects with OEMs and suppliers. Experience in Functional Safety (ISO 26262) and/or Automotive Cybersecurity (ISO/SAE 21434) is highly desirable. Practical software development, systems engineering, or testing experience is considered a strong advantage. **Responsibilities** * Lead Automotive SPICE consulting and process improvement projects for automotive customers. * Perform gap analyses and define improvement roadmaps aligned with Automotive SPICE requirements. * Coach customer engineering teams on process deployment, implementation, and continual improvement. * Support customers in achieving ASPICE capability targets and preparing for formal assessments. * Facilitate workshops, management reviews, and process definition activities across engineering organizations. * Review development processes and engineering work products throughout the system and software lifecycle. * Develop and deliver professional training courses related to ASPICE, engineering excellence, and R&D process management. * Advise customers on integrating Automotive SPICE with related standards and frameworks, including ISO 26262 and ISO/SAE 21434. * Lead customer discussions, manage project stakeholders, and provide executive-level recommendations. * Mentor junior consultants and contribute to the development of consulting methodologies, templates, and best practices. * Support business development activities, including technical proposal preparation and customer presentations. **Required** **QUALIFICATIONS** * Bachelor's degree or above in Electronics Engineering, Automotive Engineering, Computer Science, Software Engineering, Systems Engineering, or related disciplines. * Minimum 10 years of experience in automotive electronics, embedded systems, automotive software, systems engineering, engineering process management, or R&D quality management. * Strong knowledge of Automotive SPICE (ASPICE) and automotive development lifecycles. * Proven experience in process improvement, engineering governance, quality management, or development process deployment. * Solid understanding of system engineering and/or software engineering practices within automotive product development. * Strong consulting, communication, presentation, and stakeholder management skills. * Ability to lead customer engagements independently and manage multiple projects simultaneously. * Fluent English communication skills, both written and verbal. **Preferred** * Automotive SPICE Assessor certification (Provisional, Competent, or Principal Assessor). * Experience as an ASPICE assessor, coach, trainer, or process improvement consultant. * Knowledge of Functional Safety standards such as ISO 26262. * Knowledge of Automotive Cybersecurity standards such as ISO/SAE 21434. * Experience in automotive OEM, Tier 1 suppliers, semiconductor companies, or engineering service providers. * Hands-on experience in software development, systems development, software testing, validation, or embedded product development. * Experience working with Agile, V-Model, Systems Engineering, ASPICE for Cybersecurity, or related engineering frameworks. **About Us** A global leader in applied safety science, UL Solutions (NYSE: ULS) transforms safety, security and sustainability challenges into opportunities for customers in more than 110 countries. UL Solutions delivers testing, inspection and certification services, together with software products and advisory offerings, that support our customers’ product innovation and business growth. The UL Mark serves as a recognized symbol of trust in our customers’ products and reflects an unwavering commitment to advancing our safety mission. We help our customers innovate, launch new products and services, navigate global markets and complex supply chains, and grow sustainably and responsibly into the future. Our science is your advantage. **About The Team** Imagine getting your hands on new technology before it hits the shelves. To dig deep and ﬁgure out exactly how it works. That’s what we do. We lift the lid and test the boundaries on a huge range of products, from health-monitoring smart watches monitoring to electric vehicles loaded with the latest software. We’re always looking for people who are passionate about innovation, embrace change and love new and exciting challenges. Join our team, inﬂuence emerging technology and forge a successful career at the center of safety science.",
-   "keywords": [
-    "digital transformation"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4477296398",
-   "title": "Senior Full Stack Engineer, GenAI & Web Tools",
-   "company": "Overview AI",
-   "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-10-12",
-   "salary": "None-None",
-   "jd": "**About The Company** Overview.ai is transforming manufacturing quality control with an advanced edge-enabled AI vision system that combines cutting-edge deep learning with ease of use and quick setup. Our system handles a wide array of inspection tasks—from subtle assembly verification to defect detection and orientation checks—delivering real-time, high-accuracy inspections that seamlessly integrate into existing production lines. Trusted by leading manufacturers like Ford, Honda, Toyota, SpaceX, Milliken, and Flex-N-Gate, our cameras enable faster throughput, reduced scrap, and lower inspection costs—without the complexity and expense of traditional vision systems. **About The Role** We are seeking a **Senior Full-Stack Engineer** to build the web tools and GenAI applications that turn our edge-AI vision platform into products people use every day—both the customer-facing tool suite and the internal tooling that lets our teams move faster. This is a hands-on, full-stack role. You'll own tools end-to-end, from a React/TypeScript interface down to the Python services behind it, and you'll be building on the frontier: LLM-powered assistants, synthetic data generation, and agent-style workflow builders that sit on top of our vision system. Think products like **Auto-Defect Creator Studio** , and **Device Management Platform** —plus the utilities that make the platform easier to run. You'll operate with high autonomy in a small, fast team: you pick the approach, ship quickly, and iterate with real users. What you'll do **GenAI Application Development:** Design and build LLM-powered tools—AI copilots and expert assistants (documentation search, guided consultation), synthetic training-data generation, and agent-style flow builders—that make our vision platform smarter and easier to use. **Full-Stack Web Tools:** Own web tools end-to-end, from React/TypeScript frontends to Python backends and APIs, spanning both customer-facing products and internal utilities (e.g., optics calculators, recipe analysis, log/telemetry tooling). **0→1 Product Building:** Rapidly prototype new tools, get them in front of users, and iterate. You'll turn rough ideas into shipped products, then sharpen them based on real usage. **Platform Integration:** Connect the tools to our edge-AI stack—camera fleet, inference outputs, recipes, and firmware—so they work against real inspection data, not toy examples. **Quality & Craft:** Sweat performance, reliability, and UX. These tools are how customers and colleagues experience Overview; they should feel fast, clear, and trustworthy. What we're looking for * 4+ years building full-stack web applications, with a proven track record of shipping products end-to-end at a Senior or Staff level. * Strong proficiency in React and TypeScript for building modern, polished web interfaces. * Strong proficiency in Python for backend services, APIs, and data/tooling work. * Experience building LLM-powered / GenAI product features—calling LLM APIs, prompt engineering, RAG, or agent workflows—or a strong passion and demonstrated aptitude for it. * A product mindset: you care about the user, make good judgment calls under ambiguity, and can drive a tool from idea to shipped without a detailed spec. * Professional experience with (or a strong passion for) using AI agent tools to architect solutions and solve difficult problems efficiently. **Nice to have** * Hands-on experience with RAG infrastructure, vector databases, or agent-orchestration frameworks. * Experience with node-based / flow-builder UIs (e.g., React Flow), data visualization, or design systems. * Familiarity with computer vision, manufacturing, or industrial automation domains. * Docker and cloud deployment experience. **Why join** * High Agency, Zero Bureaucracy: You come in as a senior builder, not a ticket-taker. You define the tools, pick the stack, and decide how they get built. We hire smart people and get out of their way. * Build on the Frontier: GenAI is core to what we're building, not a bolt-on. You'll ship real LLM-powered products to real manufacturers—and see them used on the factory floor. * Work Smarter, Not Harder: We don't just build AI; we use it. If you can lean on an AI agent to automate the grunt work, we'll high-five you, not ask why you aren't typing. We measure leverage, not hours. * Growth: Join a fast-growing, fast-moving, and profitable startup.",
-   "keywords": [
-    "AI implementation",
     "AI導入"
    ]
   },
   {
    "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4469167750",
-   "title": "Technical Solution Engineer (Greater China Region)",
-   "company": "Appier",
-   "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-10-10",
+   "url": "https://www.linkedin.com/jobs/view/4439985466",
+   "title": "Energy Infrastructure Solution Architect_Delta Solution Office (Taipei)",
+   "company": "Delta Electronics",
+   "location": "Taipei City, Taiwan",
+   "datePosted": "2026-10-12",
    "salary": "None-None",
-   "jd": "**About Appier** Appier is a software-as-a-service (SaaS) company that uses artificial intelligence (AI) to power business decision-making. Founded in 2012 with a vision of democratizing AI, Appier’s mission is turning AI into ROI by making software intelligent. Appier now has 17 offices across APAC, Europe and U.S., and is listed on the Tokyo Stock Exchange (Ticker number: 4180). Visit www.appier.com for more information. **About The Role** As an Appier Technical Solutions Engineer (Greater China Region), you will work closely with Account Management and Sales teams to deliver seamless campaign onboarding, technical integration, and troubleshooting for clients. You will translate complex technical concepts into clear solutions for both internal teams and clients, and proactively optimize workflows to improve efficiency across the campaign lifecycle. You will also act as a domain expert, channeling market insights and client feedback to the product team to help shape and improve Appier's products. **Responsibilities** * Work closely with Account Management and Sales teams to support client onboarding and technical integration of Appier Solutions and tracking technologies into websites and mobile apps. * Troubleshoot and resolve technical issues across the campaign lifecycle; analyze campaign metrics to identify anomalies, diagnose root causes, and provide actionable recommendations. * Leverage AI tools and modern technologies to accelerate problem-solving, data analysis, and solution delivery across the campaign lifecycle. * Act as a domain expert by consolidating market insights and client feedback, and communicating requirements to the product team. **About You** [Minimum qualifications] * Bachelor's degree in Computer Science, Information Management, or a related field. * Solid understanding of website structures; able to read, trace, and debug HTML and JavaScript. * Proficiency in Python and SQL for data querying and analysis. * Hands-on experience using AI tools (e.g., LLM-based assistants or equivalent) to solve problems and improve productivity. * Excellent communication skills in both English and Mandarin, with a strong team-player mindset, a solution-oriented approach, and a fast-learning agility. [Preferred qualifications] * Knowledge of iOS and/or Android mobile app ecosystems (e.g., SDK integration). * Experience in digital advertising or the ad tech industry; familiarity with tracking pixels, Tag Management Systems (e.g., GTM), and mobile attribution platforms (e.g., AppsFlyer, Adjust, Branch). * Experience designing, developing, or extensively leveraging AI-powered tools and applications to solve complex technical challenges, enhance data analysis, or improve workflows.",
+   "jd": "**【Who we are】** We're Delta Solution Office (DSO). DSO serves as a critical enabler for solution transformation in Delta. DSO is a corporate function collaborating with Delta's business groups and regions to design, develop, and pilot solution business management mechanisms and initiatives across Delta. **【Job Brief】** We are seeking a Solution Strategy Architect with a proven track record in Energy Infrastructure solution strategy, portfolio planning, and customer-facing solution development across global and regional markets. This role translates market and customer needs into solution direction, integrated microgrid architectures, portfolio priorities, roadmaps, and commercially viable offerings. The candidate will support strategic customer opportunities from solution design and feasibility assessment through proposal development, validation, standardization, and reusable asset development. Close collaboration with global business units, product and technical teams, regional sales, and delivery organizations is crucial to this role. **【Responsibilities】** 1. **Solution Strategy Co-creation and Direction Setting:** Partner with business units, product managers, and technical teams to identify priority markets, target customers, pain points, and unmet needs, and translate these insights into Delta’s Energy Infrastructure solution direction, value propositions, portfolio priorities, roadmaps, and high-level technical architecture. 2. **Strategic Customer Opportunity Support:** Support strategic customer opportunities by co-developing integrated microgrid solution architectures across relevant hardware and software portfolios; assessing customer requirements, technical feasibility, portfolio gaps, risks, and high-level costs; coordinating third-party system integration and validation when required; and translating solutions into compelling value propositions, customer presentations, and proposals for sales and bidding activities, in alignment with Delta’s overall solution direction and portfolio roadmap. 3. **Solution Validation, standardization, and Life-Cycle Management:** Support the validation of strategic PoC, FOAK, SOAK, and lighthouse initiatives, translate project learning into product and roadmap improvements, and convert validated concepts into repeatable Solution Packs, reference architectures, playbooks, and go-to-market assets. 4. **Cross-Business Alignment and Execution Governance:** Align business groups, regions, product teams, technical organizations, sales, and delivery teams on solution scope, roles, resources, and priorities, and translate agreed strategies into actionable workstreams, ownership, milestones, RACI, stage-gates, and execution roadmaps. **【Qualifications】** 1. **Professional Experience:** A minimum of eight years of relevant experience in product management, product marketing, solution portfolio planning, solution strategy, technical business development, or customer-facing solution roles within the Energy Infrastructure, industrial technology, or global enterprise solution sectors. 2. **Industry and Technical Knowledge:** Demonstrated technical expertise in at least one of the following areas: Microgrid architecture and operations, Electrical power conversion (PCS, SST), Battery Energy Storage System, Energy Management Systems, Grid interconnection, protection, or distributed energy-resource integration, or Data-center power infrastructure 3. **Market Insight and Portfolio Translation:** Proven ability to identify priority markets and customer needs, and translate these insights into value propositions, portfolio gaps, solution requirements, and business cases 4. **Core Competencies:** Strong strategic thinking, analytical, facilitation, stakeholder-management, communication, presentation, problem-solving, and project-management skills. 5. **Language Proficiency:** Proficiency in both spoken and written English and Chinese (Mandarin). 6. **Educational Background:** A bachelor’s degree in electrical engineering, energy engineering, automation, computer engineering, or another relevant engineering discipline is preferred. A master’s degree is an additional advantage. **【Preferred Qualifications】** 1. **Executive Communication:** Ability to synthesize complex market, technical, commercial, and organizational inputs into clear strategic recommendations, executive narratives, presentations, and decision materials. Experience supporting senior management or CEO-level reviews is strongly preferred. 2. **Global Microgrid Industry Experience:** Experience in the global microgrid industry - preferably with a recognized industry leader - in Product Management, Product Marketing Management, Project Management, Solution Management or Strategic Planning is highly preferred. 3. **Digital and Emerging Technologies:** Familiarity with digital transformation, industrial IoT, cloud platforms, data analytics, AI, digital twins, or asset-management applications is an advantage.",
    "keywords": [
-    "AI implementation"
+    "digital transformation",
+    "策略規劃"
    ]
   },
   {
    "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4475247051",
-   "title": "[Music] Senior Data Engineer",
-   "company": "科科科技 KKCompany Technologies",
-   "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-10-09",
-   "salary": "None-None",
-   "jd": "**Team Segment : Music** **Team Information :** The main aim of the Data Platform team is leveraging data to provide insights and evidence to help stakeholders take meaningful business actions. With the help of key findings and reports from the team, the Business Leader will be all set to make informed decisions. In addition to supporting data-driven decision making, the team is also responsible for the development and ongoing operation of personalized recommendation systems. By integrating machine learning models—such as those powered by AWS Personalize—into our data platform, we aim to enhance user experiences through intelligent and scalable content recommendations, including music recommendation features in the near future. If you’re passionate about leveraging data to drive business and deliver personalized user experiences, we want to hear from you. **Responsibilities:** * Design and implement ETL/ELT processes to integrate data from a variety of internal and external sources into an analytical-based data model to support business analytics or product development. * Develop procedures for tracking data quality, completeness, redundancy, and improvement. * Work closely with data analysts and development teams to implement solutions that enable them to do their jobs. * Build and optimize recommendation pipelines, including implementing models using AWS Personalize for personalized content ranking and user-item interaction prediction. * Collaborate with cross-functional teams to explore and prototype personalized recommendation systems, especially in the context of music content delivery. * Contribute to strategic initiatives involving machine learning-driven personalization systems, with a focus on increasing product engagement through recommendation accuracy. **Requirements:** * 4+ years of experience in building and operating large-scale distributed systems or applications. * Strong programming skills in one or more of the following languages: Python / Scala / PySpark / SparkSQL. * Experience in ETL or ELT (designing, coding, and tuning data processes from various sources). * Experience in implementing machine learning algorithms. * Hands-on experience with AWS Personalize or similar recommendation engines. * Experience with cloud solutions like AWS or GCP. * Experience with tech stack tools such as Airflow / Jenkins. * Strong interest or prior experience in music recommendation systems or personalization use cases. * Team-oriented, open-minded, communicative and eager to learn. * A proactive, data-driven and logical mindset. **Nice to Have:** * Experience in container technology, such as Docker and Kubernetes. * Experience in backend system design and API development. * Experience in evaluating recommendation systems through offline metrics and online A/B testing.",
-   "keywords": [
-    "AI implementation"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4478369558",
-   "title": "自費處方藥與保健品事業部主管 Head of Business Unit, Pharma",
-   "company": "Bora Pharmaceuticals",
+   "url": "https://www.linkedin.com/jobs/view/4477504685",
+   "title": "醫療器材產品策略經理",
+   "company": "創智生物科技股份有限公司",
    "location": "Taipei, Taipei City, Taiwan",
    "datePosted": "2026-10-12",
    "salary": "None-None",
-   "jd": "**Role Overview** Lead and accelerate the growth of the pharmaceutical business of one of subsidiaries - SunWay Biotech by driving commercial excellence, in-licensing and business development initiatives, portfolio expansion, and end-to-end (upstream and downstream) 自費處方藥 product lifecycle management. This role is responsible for developing and executing strategic marketing and sales plans, building strong partnerships across clinic and hospital channels, and ensuring full compliance with regulatory and industry standards. **Key Responsibilities** 1. Commercial Leadership * Develop and execute commercial strategies to drive sustainable revenue growth and market share expansion. * Lead sales operations across clinic, specialty physician, and hospital channels, either directly or through distributors and contract sales organizations (CSOs). * Define product positioning and develop integrated marketing strategies to maximize brand performance. * Manage and optimize the performance of sales teams, distributor networks, and channel partners. 2. Portfolio Management & Business Development * Oversee the licensed-in pharmaceutical portfolio and ensure successful commercialization. * Lead licensing, partnership, and business development initiatives to strengthen and expand the product pipeline. * Collaborate with cross-functional teams to support both upstream and downstream product development activities. * Drive product lifecycle management, including launch planning, portfolio optimization, and regulatory milestones. 3. Organizational Leadership * Build, develop, and retain high-performing teams while establishing a strong succession pipeline. * Foster a culture of accountability, collaboration, and continuous improvement across functions. * Promote organizational values and ensure alignment with the company's vision, mission, and strategic objectives. 4. Stakeholder Engagement & Compliance * Establish and maintain strong relationships with key opinion leaders (KOLs), medical societies, healthcare professionals, distributors, and strategic partners. * Ensure all commercial activities adhere to pharmaceutical industry regulations, ethical standards, and compliance requirements. * Partner closely with Medical Affairs, Regulatory Affairs, and Market Access teams to support business objectives. 5. Financial & Business Performance * Own and deliver revenue, profitability, and operating margin targets. * Develop business plans, forecasts, and resource allocation strategies to optimize return on investment * Monitor market dynamics, competitive activities, and business performance to identify growth opportunities and mitigate risk. **Qualifications** * Advanced degree in Pharmacy, Pharmaceutical Sciences, or a related healthcare discipline preferred. * Fluent in Mandarin Chinese and English, with the ability to effectively engage with local and international stakeholders. **Candidates should possess either of the following qualification:** **1. In-Licensing & Business Development** * Proven track record of successfully leading or supporting pharmaceutical licensing-in initiatives, including opportunity evaluation, partner negotiations, and deal execution. **OR** **2. Product Development & Commercialization (具自費處方藥經驗)** * Strong understanding of pharmaceutical product development processes, with hands-on experience in both upstream activities (portfolio strategy, licensing, product selection, and development planning) and downstream activities (commercialization, product launch, lifecycle management, and market expansion).",
+   "jd": "職位：醫療器材產品策略經理 工作地點：台北辦公室上班（全職） 薪資：月薪新臺幣 50,000 元以上，依經驗與能力核定。 回報對象：策略長、總經理。 關於這個職位 我們正在尋找一位能從市場需求出發，提出產品方向並推動執行的產品策略經理。你將負責醫療器材的市場策略、產品引進評估與商業成長，與原廠及公司各部門合作，把有潛力的產品與服務帶進市場。 主要工作內容 1. 分析醫院、診所及居家照護市場、競品與客戶需求，提出優先投入的市場與成長機會。 2. 尋找合適的原廠與產品，評估臨床證據、法規準備、成本、售價及售後服務需求，提出產品引進建議。 3. 規劃產品定位、目標客群、價格與通路，評估器材銷售、租賃及服務搭配方案的可行性與獲利。 4. 制定上市時程、預算及成效目標，協調原廠、業務、行銷、法規及服務團隊完成產品導入。 5. 與國外原廠、醫療專家及合作院所溝通，整理市場回饋，支援產品教育訓練與市場推廣。 6. 追蹤營收、毛利、成交率與客戶採用情形，向策略長及總經理提出改善與成長建議。 必要條件 • 3 年以上醫療器材或相關醫療產業的產品管理、產品行銷或商業開發經驗。 • 曾主導至少一項產品上市、市場拓展或產品引進專案，能說明自己的決策、執行方式及實際成果。 • 能分析市場、售價、成本與毛利，提出有依據的商業建議。 • 能閱讀醫療專業資料，並與法規及專業人員合作確認產品定位與推廣內容。 • 英文能力足以閱讀原廠文件、書信往來及參與產品會議。 • 具備清楚的提案簡報、跨部門溝通與專案推動能力。 • 大學以上；生醫、醫療、商管等相關背景皆可，重視實際成果。 加分經驗 • 5 年以上相關經驗，曾獨立負責產品線。 • 睡眠、呼吸照護、神經刺激、居家醫療或數位健康經驗。 • 國際原廠合作、代理產品引進或醫療院所通路經驗。 • 自費醫療、器材租賃或器材搭配服務的商業規劃經驗。 歡迎透過本 LinkedIn 職缺投遞履歷，並附上一項你曾主導的產品上市、市場拓展或產品引進案例。請簡要說明目標、你的角色、主要決策及成果，並移除前公司或客戶的機密資料。",
    "keywords": [
-    "經營企劃",
     "策略規劃"
    ]
   },
   {
    "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4437648575",
-   "title": "[Music] Senior Product Planner",
-   "company": "科科科技 KKCompany Technologies",
-   "location": "Taipei City, Taiwan",
-   "datePosted": "2026-10-09",
+   "url": "https://www.linkedin.com/jobs/view/4475698750",
+   "title": "Strategic Partnership and Business Development Manager",
+   "company": "Thermo Fisher Scientific",
+   "location": "Taipei, Taipei City, Taiwan",
+   "datePosted": "2026-10-12",
    "salary": "None-None",
-   "jd": "**About the Team:** We are looking for individuals with strategic thinking, data-driven decision-making skills, and strong cross-functional and cross-border collaboration abilities. In this role, you will be expected to align with external vendors to co-create and envision new products, drive these products from 0 to 1, and ensure the continuous growth and optimization of existing products. This role will cover multiple product areas. If you are user-centric, skilled at analyzing market trends and product data, and curious about how AI can be integrated with music streaming, KKBOX will be the perfect stage to showcase your talents! **Job Responsibilities:** * **Define Product Strategy & Vision** : Develop and execute long-term product roadmaps based on market trends, data analysis, and user needs, ensuring alignment with business goals. * **Cross-Border & Cross-Functional Collaboration** : Communicate with external vendors to co-create product concepts. Internally, work closely with design, engineering, marketing, and business teams across regions to ensure smooth product development that meets both business and user needs. * **Product Development & Optimization** : Lead the full product development lifecycle (from conceptualization and scoping to launch), drive new products from 0 to 1, and continuously iterate to enhance user experience and product value. * **Data-Driven Decision Making & Experimentation** : Leverage data analysis and user research to identify pain points and opportunities, drive A/B testing, and ensure product growth is closely aligned with market demand. * **Focus on User Needs** : Deeply understand user behavior and core needs, ensuring product decisions effectively address real user problems and enhance user engagement. * **Improve User Engagement & Retention** : Optimize user experience and interaction mechanisms to increase engagement and retention on the platform. * **Explore AI & Personalization Applications** : Actively integrate AI technologies into products and continuously explore the possibilities of combining AI with music streaming and fan engagement. **Job Requirements:** * Work Experience: 3+ years of internet product management experience. * User-Centric Mindset: Strong ability to understand user behavior and translate needs into effective product strategies and features. * Strategic Thinking & Execution: Ability to independently develop and drive product strategies, ensuring successful implementation and landing of projects. * Data-Driven Decision Making: Familiarity with user behavior analysis, A/B testing, and key product metrics, with the ability to leverage insights for optimization. * Excellent Communication & Collaboration Skills: Strong stakeholder management skills with the ability to align cross-functional teams, drive collaboration, and resolve development challenges effectively. * Market & Competitive Analysis: Ability to track industry trends, analyze competitors, and identify opportunities for innovation and growth. * Cross-Border Communication & Language Skills: Excellent English communication and writing skills, with the ability to smoothly conduct business and technical discussions with international teams and external vendors. **Preferred Qualifications:** * Experience in music, content platforms, social media, entertainment, or AI-related products is highly preferred. * Proficiency in Japanese (experience in Japanese business communication or Taiwan-Japan cross-border project collaboration is a plus). * Passion for AI applications or hands-on experience in launching AI-related features (e.g., recommendation algorithms, LLM applications, generative AI, etc.). * Proven track record of successfully driving a new product or core feature from 0 to 1 to a successful launch.",
+   "jd": "nan",
    "keywords": [
     "策略規劃"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4477577904",
+   "title": "Healthcare Consulting Fellowship – 2-Year Early Career Program 醫療健康策略與管理顧問－兩年期分析師計畫",
+   "company": "Xelay Acumen",
+   "location": "Taipei, Taipei City, Taiwan",
+   "datePosted": "2026-10-12",
+   "salary": "None-None",
+   "jd": "nan",
+   "keywords": [
+    "策略規劃"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4477940537",
+   "title": "Developer Relations Manager - Agentic AI",
+   "company": "NVIDIA",
+   "location": "Taipei, Taipei City, Taiwan",
+   "datePosted": "2026-10-13",
+   "salary": null,
+   "jd": "nan",
+   "keywords": [
+    "AI導入"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4477952859",
+   "title": "Sr. Regional Digital Marketing & E-Commerce Specialist, APAC",
+   "company": "ViewSonic",
+   "location": "New Taipei City, New Taipei City, Taiwan",
+   "datePosted": "2026-10-13",
+   "salary": null,
+   "jd": "**Vision & Strategic Impact** To elevate regional digital marketing from a traditional support function into a proactive revenue growth engine. In this role, you will champion a data-driven culture across APAC by leveraging Salesforce CRM and cross-channel marketing analytics. Your ultimate mission is to build high-converting lead generation funnels, turn digital engagement into Qualified Sales Leads (QSLs), and empower country heads (NS Heads) with actionable growth strategies that fuel business expansion across the region. **Role Purpose** Independently architect and execute data-driven regional digital marketing strategies with a primary focus on full-funnel demand generation and CRM optimization. Be able to leverage Salesforce CRM and marketing analytics to build lead generation funnels, drive MQL-to-QSL conversions, and formulate actionable growth strategies, and collaborate with APAC country heads with data insights, optimize e-commerce GTM performance, and maximize digital ROAS and revenue velocity. **Key Responsibilities** **CRM Strategy & Pipeline Creation (Salesforce):** * Architect end-to-end B2B and B2C demand generation funnels within Salesforce CRM, driving automated lead nurturing workflows to accelerate movement from lead capture to Qualified Sales Leads (QSL). * Establish granular Lead Scoring matrices, database segmentation, and seamless lead handover/routing mechanisms to empower local sales teams across APAC. **Data Analytics, Attribution & Strategic Direction:** * Utilize advanced analytics (GA4, GTM, Salesforce reporting, cross-channel attribution modeling) to identify regional market opportunities and shape APAC-wide digital roadmaps. * Provide persuasive, data-backed strategic guidance and OMO frameworks to NS Heads across APAC, aligning local targets with regional digital initiatives. **Consumer GTM & Regional E-Commerce Growth:** * Execute digital Go-To-Market (GTM) operational plans for consumer product launches (specifically LCD monitors). * Oversee regional e-commerce channel positioning, conversion rate optimization (CRO), and full-funnel digital media campaigns to maximize ROAS and traffic acquisition. **Digital Infrastructure, Search & AI Workflow Integration:** * Execute continuous SEO/SEM performance audits across regional web infrastructures to fuel top-of-funnel traffic. * Implement innovative AI tools (e.g., ChatGPT, Claude, Midjourney) for copywriting, creative drafting, and data analysis to optimize operational efficiency and campaign iteration speed. **Qualifications & Experience** * **Education:** Bachelor's or Master's degree in Marketing, Business Administration, Information Management, or related fields. * **Years of Experience:** 5+ years of hands-on experience in data-driven digital marketing, performance marketing, CRM operations, or e-commerce growth. * **Industry Background:** Industry background in Consumer Electronics, LCD displays, or IT hardware is strongly preferred. * **Language Proficiency:** Professional fluency in English (both written and spoken) for regional cross-functional collaboration, presentation, and reporting. **Special Experience & Technical Skills** * **Salesforce CRM & Pipeline Management** : Hands-on experience in Salesforce CRM, including lead routing workflows, database segmentation, lead scoring setup, and QSL conversion tracking. * **Data Analytics & Attribution:** Proficiency in GA4 setup, GTM tag management, dashboard reporting, and multi-channel attribution modeling. * **Performance Marketing & ROAS:** Proven ability to run full-funnel paid media campaigns (Meta, Google Ads) with a focus on ROAS optimization. * **E-Commerce & CRO:** Experience in e-commerce platform management, product listing optimization, and conversion rate optimization. * **AI Tools & Workflow Efficiency:** Ability to leverage generative AI tools to enhance productivity in content generation and analytics. **Preferred Qualifications** * **Amazon Management:** Proven experience with Amazon platform management (e.g., Amazon JP, Amazon AZ, A+ content generation) is preferred. * **GTM Operations:** Proven experience in executing Go-to-Market (GTM) operational plans or new product launches in the consumer tech space is preferred.",
+   "keywords": [
+    "AI導入"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4477567586",
+   "title": "OMT OI AI Manager",
+   "company": "Micron Technology",
+   "location": "Taoyuan District, Taoyuan City, Taiwan",
+   "datePosted": "2026-10-12",
+   "salary": null,
+   "jd": "nan",
+   "keywords": [
+    "AI導入"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4478561666",
+   "title": "AI & Automation Specialist",
+   "company": "Not Another Headhunting Company",
+   "location": "Taipei City, Taiwan",
+   "datePosted": "2026-10-12",
+   "salary": null,
+   "jd": "nan",
+   "keywords": [
+    "AI導入"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4478589992",
+   "title": "AI Specialist / AI Software Engineer",
+   "company": "Flexii",
+   "location": "Taipei, Taipei City, Taiwan",
+   "datePosted": "2026-10-12",
+   "salary": null,
+   "jd": "nan",
+   "keywords": [
+    "AI導入"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4478392648",
+   "title": "Physical AI Team Lead (AI-AOI)",
+   "company": "訊凱國際 Cooler Master Co., Ltd.",
+   "location": "Taipei City, Taiwan",
+   "datePosted": "2026-10-12",
+   "salary": null,
+   "jd": "**\\*是否錄取為Team Lead以面試評估結果為主，亦有可能先以Principal/Senior Engineer敘職\\*** 工作職責 1. 帶領 Metropolis 視覺 AI 檢測團隊，負責專案管理、技術規劃及品質管理。 2. 制定 AI 視覺檢測系統導入策略，規劃部署架構與技術方案。 3. 與 NVIDIA 及內部團隊合作，推動 Metropolis、DeepStream、TAO 等平台應用。 4. 分析製造場域需求，規劃 AI 視覺檢測解決方案。 5. 管理跨部門與跨團隊資源，確保專案如期交付。 6. 建立 AI 視覺檢測模型評估機制，持續提升模型效能與準確率。 7. 協助制訂AI監管機制（AI Governance），確保符合未來客戶與政府監管需求。 8. 持續追蹤 NVIDIA Metropolis 生態系發展，導入新技術與最佳實務 必備條件 1. 5 年以上電腦視覺或AI系統開發管理經驗，具備技術專案主責（Tech Lead）經驗。 2. 熟悉 NVIDIA Metropolis、DeepStream或Jetson等平台。 3. 具備邊緣計算(Edge AI)部署經驗。 4. 製造業品質管理或自動化檢測背景優先。 5. 具良好中英文溝通能力，可與海外團隊及客戶合作。 加分條件 1. 具 AOI（自動光學檢測）或智慧製造專案經驗。 2. 熟悉NVIDIA TAO Toolkit 3. 具 PMP 或 Agile Scrum 等專案管理相關證照。 -- **\\*Whether or not you are hired as a Team Lead will primarily depend on the interview evaluation results. You may also initially be appointed as a Principal/Senior Engineer.\\*** **About the Role** Cooler Master seeks an experienced **AI Team Lead** specializing in **Physical AI** and **Automated Optical Inspection (AI-AOI)** on the **NVIDIA Metropolis** platform. In this role, you will lead a dedicated computer vision and edge AI engineering team to architect, deploy, and scale intelligent visual inspection solutions within manufacturing environments. You will work closely with NVIDIA ecosystem partners and internal cross-functional teams to integrate DeepStream, TAO, and Jetson technologies, driving operational excellence and state-of-the-art AI governance in smart manufacturing. **Key Responsibilities** * **Team Leadership & Project Management:** Lead and mentor the Metropolis Visual AI Inspection team, overseeing technical planning, project execution, and quality control. * **Architecture & Strategy:** Formulate AI visual inspection deployment strategies; design system architectures and technical roadmaps tailored for manufacturing shop floors. * **NVIDIA Partnership & Integration:** Partner with NVIDIA and internal R&D to implement and optimize applications using NVIDIA Metropolis, the DeepStream SDK, the TAO Toolkit, and Jetson platforms. * **Manufacturing Solution Design:** Analyze factory operational requirements to conceptualize and deliver scalable AI visual inspection (AOI) solutions. * **Cross-Functional Resource Management:** Coordinate across inter-departmental and remote teams to manage project resources and guarantee on-time delivery. * **Model Evaluation & Optimization:** Establish robust model evaluation frameworks to continuously improve inference performance, accuracy, and throughput. * **AI Governance & Compliance:** Help develop AI Governance frameworks to ensure system safety, reliability, and alignment with upcoming client and regulatory standards. * **Ecosystem Tracking & Innovation:** Monitor developments within the NVIDIA Metropolis ecosystem to continuously adopt new technologies, edge tooling, and industry best practices. **Basic Qualifications** * **Experience:** **5+** years of experience in Computer Vision (CV), Edge AI system development, or technical management (tech lead) experience. * **NVIDIA Platform Expertise:** Hands-on familiarity with the NVIDIA Metropolis ecosystem (e.g., DeepStream SDK, Jetson platform). * **Edge AI Deployment:** Proven experience deploying and optimizing Edge AI models on real-world hardware. * **Domain Knowledge:** Prior background in manufacturing quality control (QC/QA) or automated inspection systems. * **Languages & Communication:** Fluency in **English** and **Mandarin** (written and spoken), with strong collaboration skills for global clients and cross-border teams. **Preferred Qualifications** * **AOI & Smart Manufacturing:** Direct project experience with Automated Optical Inspection (AOI) or Smart Manufacturing / Industry 4.0 initiatives. * **NVIDIA TAO Toolkit:** Hands-on experience with NVIDIA TAO Toolkit for transfer learning, fine-tuning, and model pruning. * **Project Management Certifications:** PMP, Agile Scrum Master (CSM/PSM), or equivalent project management certifications.",
+   "keywords": [
+    "AI導入"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4477582271",
+   "title": "Staff Data Scientist",
+   "company": "Coupang",
+   "location": "Taipei, Taipei City, Taiwan",
+   "datePosted": "2026-10-12",
+   "salary": null,
+   "jd": "**Description** **Company Introduction:** Coupang is reimagining the shopping experience with the goal of wowing each customer from the instant they open the Coupang app to the moment an order is delivered to their door. Our services in Taiwan include “Rocket Delivery” which offers next-day delivery for a wide selection of items at affordable prices, “Rocket Oversea” which offers free international delivery on millions of best-selling products from Korea, the U.S., and beyond. We are looking for talents to help us lead Coupang’s expansion in Taiwan. This is an exceptional opportunity to become a part of Coupang’s growth in Taiwan and create a world where our customers wonder, “How did I ever live without Coupang?” **Role Overview:** We're in search of a Staff Data Scientist to join our Catalog technology team. This role is ideal for someone deeply passionate about bringing applied research in AI and AI agents to enrich data - incl. product information, images, videos, reviews, prior customer service interactions and more - so that customers can make purchase decisions quickly, easily and confidently. This role works at the intersection of product, operations, engineering and business. The successful candidate will therefore thrive in an interdisciplinary environment, adept at developing production solutions from scratch or enhancing existing ones, and will play a pivotal role in shaping and executing our mission to make our Catalog technology a competitive advantage. **What You Will Do:** * Design the next generation of Catalog systems that work at scale across extraction, query-based enrichment, dynamic product info like product highlights, defect reduction, etc. using agentic and automated workflows. You will influence metric definition and will raise the bar on quality, completeness, readability and accessibility. * Set the technical direction for how we evolve existing successful methods and models into scalable, cost-effective systems that can impact the quality of tens of millions of listings. * Conduct comprehensive research and analysis to inform model development, leveraging multi-modal LLMs and classical statistics/ ML. * Collaborate closely with cross-functional teams, including product, engineering, and business, to identify opportunities for enhancing our technology products, translating ambiguous business requirements into practical solutions. * Provide analysis for launched solutions to quantify outcomes based on real-world results, identifying areas for improvement and opportunities for future development * Be a cross-organization thought leader on both AI as a technology as well as on the next generation of challenges such as evaluations, inconsistent/ dirty labels. **Basic Qualifications** * Bachelor's/Master's degree in mathematics/statistics, computer science/engineering, or any other quantitative disciplines, with 8+ years of relevant experience working in industry or academia * Deep hands-on experience across statistics and ML fundamentals, with a track record of applying them to production systems * Strong critical thinking skills and ability to solve ambiguous problems, with proven experience in designing data science solutions to meet business problems * Ability to conduct analysis independently for a business problem through data manipulation, hypothesis formulation, experiment design, and statistical analysis * Excellent written and verbal communication skills to effectively engage with technical and business stakeholders at all levels, including presentation development and delivery **Preferred Qualifications:** * Production LLM/ agentic system experience * Strong ability to model ambiguous business and operational problems at the appropriate level of abstraction, with a focus on delivering practical solutions * Ability to think in systems that scale: pipelines, LLM-embedded workflows, Human In The Loop workflows, hybrid pipelines with context-specific agentic capabilities, etc. * Advanced proficiency with machine learning frameworks and tools, including Python, TensorFlow, and PyTorch, and using them in conjunction with LLMs * A deep understanding of the e-commerce business domain and the ability to apply cutting-edge models into production environments, driving measurable results **Recruitment Process** * Application Review - Phone Interview - Onsite (or Virtual Onsite) Interview – Offer * The exact nature of the recruitment process may vary according to the specific job and may be changed due to scheduling or other circumstances. * Interview schedules and the results will be informed to the applicant via the e-mail address submitted at the application stage. **Details to Consider** * This job posting may be closed prior to the stated end date for application if all openings are filled. * Coupang has the right to rescind an offer of employment if a candidate is found to have submitted false information as part of the application process. * Coupang does not discriminate against disabled applicants or those with veteran status. * We are proud to offer equal opportunities for all applicants. **Privacy Notice** * Your personal information will be collected and managed by Coupang as stated in the Application Privacy Notice is located below. https://privacy.coupang.com/en/land/jobs/",
+   "keywords": [
+    "AI導入"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4478394650",
+   "title": "Digital Twin Team Lead (Omniverse)",
+   "company": "訊凱國際 Cooler Master Co., Ltd.",
+   "location": "Taipei City, Taiwan",
+   "datePosted": "2026-10-12",
+   "salary": null,
+   "jd": "**\\*是否錄取為Team Lead以面試評估結果為主，亦有可能先以Principal/Senior Engineer敘職\\*** 工作內容： 我們正在尋找具備數位孿生（ **Digital Twin** ）與 **3D** 模擬專案經驗的技術主管，帶領團隊打造新世代 AI 與智慧製造平台。 您將負責 **NVIDIA Omniverse** 平台相關專案規劃與團隊管理，串聯研發、製造與客戶需求，推動數位工廠與虛實整合技術落地。 工作職責： 1. 帶領 Omniverse 數位孿生專案團隊（約 10 人），負責專案管理、技術規劃與品質控管。 2. 制定並推動 Omniverse 平台開發策略，包含 OpenUSD 場景建構、物理模擬與即時視覺化應用。 3. 與客戶及內部團隊合作，進行需求分析、技術評估與解決方案規劃。 4. 與CM各工廠端對接需求，確保孿生環境與實際製造流程高度一致。 5. 管理台灣、中國及越南的跨國團隊，進行資源協調與工作分配。 6. 主持技術審查與專案會議，確保系統架構與開發品質符合標準。 7. 持續追蹤 NVIDIA Omniverse 生態系發展，導入最佳實務與新技術。 必備條件： 1. 7 年以上軟體開發或相關技術專案管理經驗（Tech Lead）。 2. 具 3D 模擬、數位孿生（Digital Twin）或工業模擬相關專案經驗。 3. 熟悉 NVIDIA Omniverse、OpenUSD 或相關 3D 平台技術架構。 4. 具跨部門與跨國團隊管理經驗。 5. 具良好中英文溝通能力，可與海外團隊及客戶合作。 6. 台灣合法工作身分。 加分條件： 1. 具製造業、自動化、智慧工廠相關背景。 2. 熟悉 CAE、CFD、FEA 或工業模擬工具。 3. 具 AI、機器學習、Computer Vision 相關專案經驗。 4. 具 NVIDIA 生態系（Isaac Sim、Metropolis等）相關經驗。 5. 曾帶領 10 人以上研發團隊。 -- **\\*Whether you are appointed as a Team Lead will primarily depend on the results of your interview evaluation. You may also be initially appointed as a Principal/Senior Engineer.\\*** **Job Description:** We are seeking a **Technical Lead** with experience in **Digital Twin** and **3D** simulation projects to lead a team in building a next-generation AI and smart manufacturing platform. You will lead project planning and team management for the **NVIDIA Omniverse** platform, connecting R&D, manufacturing, and customer needs to drive the implementation of AI factories and virtual-physical integration technologies. **Responsibilities:** 1. Lead the Omniverse Digital Twin project team (approximately **10** people), responsible for project management, technical planning, and quality control. 2. Develop and drive the Omniverse platform development strategy, including OpenUSD scene construction, physical simulation, and real-time visualization applications. 3. Collaborate with customers and internal teams to conduct requirements analysis, technology evaluation, and solution planning. 4. Liaise with CM's various factory sites across APAC to ensure a high degree of consistency between the digital twin environment and actual manufacturing processes. 5. Manage multinational teams in Taiwan, China, and Vietnam, coordinating resources and allocating tasks. 6. Lead technical reviews and project meetings to ensure system architecture and development quality meet standards. 7. Continuously track the development of the NVIDIA Omniverse ecosystem and implement best practices and new technologies. **\\*\\*Required Qualifications:\\*\\*** 1. **7+** years of experience in software development or related technical project management (Tech Lead). 2. Experience in 3D simulation, digital twin, or industrial simulation projects. 3. Familiarity with NVIDIA Omniverse, OpenUSD, or related 3D platform technical architectures. 4. Experience in cross-departmental and multinational team management. 5. Excellent communication skills in both **Chinese** and **English** , and the ability to collaborate with overseas teams and clients. 6. Legally allowed to work in Taiwan. **\\*\\*Bonus Qualifications:\\*\\*** 1. Background in manufacturing, automation, or smart factories. 2. Familiarity with CAE, CFD, FEA, or industrial simulation tools. 3. Experience in AI, machine learning, or Computer Vision projects. 4. Experience with the NVIDIA ecosystem (Isaac Sim, Metropolis, etc.). 5. Experience leading a research and development team of 10 or more people.",
+   "keywords": [
+    "AI導入"
    ]
   }
  ]
