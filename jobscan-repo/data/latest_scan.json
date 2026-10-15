@@ -1,8 +1,8 @@
 {
- "merged_at": "2026-10-14T05:17:06Z",
+ "merged_at": "2026-10-15T05:06:55Z",
  "per_source": {
   "cake_new.json": {
-   "scanned_at": "2026-10-14T05:13:43.332Z",
+   "scanned_at": "2026-10-15T05:02:02.496Z",
    "total_listed": 0,
    "new_count": 0,
    "group_stats": {
@@ -89,7 +89,7 @@
    }
   },
   "104_new.json": {
-   "scanned_at": "2026-10-14T05:15:26Z",
+   "scanned_at": "2026-10-15T05:03:46Z",
    "total_listed": 0,
    "new_count": 0,
    "group_stats": {
@@ -104,25 +104,25 @@
    }
   },
   "jobspy_new.json": {
-   "scanned_at": "2026-10-14T05:17:06Z",
-   "total_listed": 66,
-   "new_count": 21,
+   "scanned_at": "2026-10-15T05:06:55Z",
+   "total_listed": 94,
+   "new_count": 29,
    "group_stats": {
-    "linkedin:business operations": 0,
+    "linkedin:business operations": 25,
     "indeed:business operations": 0,
-    "linkedin:chief of staff": 10,
+    "linkedin:chief of staff": 20,
     "indeed:chief of staff": 1,
-    "linkedin:strategy and operations": 10,
+    "linkedin:strategy and operations": 25,
     "indeed:strategy and operations": 0,
-    "linkedin:digital transformation": 10,
-    "indeed:digital transformation": 8,
-    "linkedin:AI implementation": 25,
-    "indeed:AI implementation": 9,
+    "linkedin:digital transformation": 25,
+    "indeed:digital transformation": 14,
+    "linkedin:AI implementation": 10,
+    "indeed:AI implementation": 16,
     "linkedin:經營企劃": 25,
-    "indeed:經營企劃": 0,
-    "linkedin:策略規劃": 0,
-    "indeed:策略規劃": 1,
-    "linkedin:AI導入": 10,
+    "indeed:經營企劃": 5,
+    "linkedin:策略規劃": 25,
+    "indeed:策略規劃": 5,
+    "linkedin:AI導入": 0,
     "indeed:AI導入": 0
    }
   }
@@ -132,88 +132,154 @@
   "cake_new.json: total_listed=0，橫跨全部 8 組關鍵字 — 極可能是被封鎖或解析失敗，不是真的零筆新職缺",
   "104_new.json: total_listed=0，橫跨全部 8 組關鍵字 — 極可能是被封鎖或解析失敗，不是真的零筆新職缺"
  ],
- "new_count": 21,
+ "new_count": 29,
  "new_jobs": [
   {
    "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4478133830",
-   "title": "Head of Business Operations",
-   "company": "Crescendo Lab",
-   "location": "Taipei–Keelung Metropolitan area",
-   "datePosted": "2026-10-13",
-   "salary": "None-None",
-   "jd": "nan",
-   "keywords": [
-    "chief of staff",
-    "strategy and operations",
-    "經營企劃"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4478787818",
-   "title": "Business Services Manager",
-   "company": "Fidelity International",
+   "url": "https://www.linkedin.com/jobs/view/4478410640",
+   "title": "Associate Director, Cluster Commercial Service & Transformation Lead",
+   "company": "MSD Taiwan",
    "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-10-13",
-   "salary": "None-None",
-   "jd": "nan",
-   "keywords": [
-    "chief of staff",
-    "strategy and operations",
-    "經營企劃"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4477979321",
-   "title": "Business Operations Manager",
-   "company": "inline",
-   "location": "Taipei City, Taiwan",
-   "datePosted": "2026-10-13",
-   "salary": "None-None",
-   "jd": "**About inline** inline is a software startup focused on maximizing restaurant efficiency by managing tables and reservations. We have thousands of restaurants including leading chain brands, Michelin-starred restaurants, shopping malls, and busy brick-and-mortar restaurants. We also partner with food-tech platforms, social apps, and various media services to grow exposure and business for inline restaurant customers. Our team is launching and exploring more global opportunities in key cities, including Tokyo, Osaka, Hong Kong, Taiwan, Kuala Lumpur, Vancouver, Melbourne, Sydney, and the cities in the US. For people with solid professional skills and talent, who are highly motivated to expand their careers and learn in a fast, flexible environment, we have several opportunities to build the business with our team and write the legend inline for the next thousand partners at a rapid pace. **The Role** At Inline, the primary responsibility of the Data Manager, Business Operations is to enhance the efficiency and effectiveness of our Customer Success Management team by means of analysis and process optimization, with a focus on customer maintenance and retention. To succeed at Inline, you must possess traits such as being highly organized, having a strategic mindset, being results-driven with a strong emphasis on quantitative outcomes, being adept at analysis, and the ability to demonstrate exceptional leadership and planning skills within a rapidly evolving environment. You will collaborate closely with various departments, including Sales, Customer Success, Revenue, Finance, and more. This role is central to the long-term development of our customer success management team and restaurant organization in Taiwan. If this sounds like you – read on! **Key Responsibilities** 1. Strategic Alignment - Collaborate closely with senior management and leaders across different countries to align market strategies with quarterly and annual company objectives. - Gain insights into market realities to develop team targets that are both feasible. 2. Data Analysis and Forecasting - Utilize data analysis and client trend assessment to identify potential customer and sales opportunities, contributing to informed decision-making. - Conduct thorough research and data analysis to provide accurate revenue forecasts. 3. Performance Targets and Bonus Structure - Set clear and attainable team targets that drive growth and revenue in accordance with company objectives. - Design a comprehensive bonus structure that incentivizes high performance. - Develop performance tracking reports that enable managers to effectively monitor pipelines and provide teams with insights into their performance progress. 4. Process Optimization and Automation Tool Development - Optimize existing processes while being able to construct new workflows, define prioritization for optimization, and clearly identify which process improvements will yield enhanced sales efficiency. - You will be responsible for developing and managing automated tools, ensuring the end-to-end process remains seamless and refined. 5. Project Management - Facilitate collaborations with cross-functional teams including revenue, finance, CSM, product, and global teams to ensure project success. 6. Team Management - Recruit, coach, mentor, and develop operation team and nurture an environment where they can excel through encouragement and empowerment **Preferred Experience & Personal Traits：** - Minimum of 8 years relevant work experience in Sales Strategy, Sales Operations, Sales, Customer Success, or equivalent roles - Minimum of 2 years leading operational teams and managing people managers - Deep knowledge of sales strategies, systems, data, and processes - Skills for framing business questions with data, translating business needs into strategies, and implementing tactics and process improvements - Experience working with large sets of unstructured data and synthesizing them into business insights (e.g. using SQL, Excel, Salesforce, Google Apps Script) - A natural problem-solver who can work through challenges and navigate comfortably in ambiguity. - Self-motivated, works independently and has a sense of priority.",
-   "keywords": [
-    "chief of staff",
-    "strategy and operations",
-    "經營企劃"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4478114103",
-   "title": "Director, Project Management",
-   "company": "ICON plc",
-   "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-10-13",
-   "salary": "None-None",
-   "jd": "Director, Project Management- Taiwan- Office or Home ICON is a global healthcare intelligence and clinical research organisation united by a mission to bring new medicines and treatments to patients faster. As a values-driven organisation, integrity, collaboration, agility, and inclusion are at the heart of how we work and interact with each other, customers, patients and suppliers. As a Director, Project Management at ICON, you will lead the planning, execution, and delivery of projects that advance clinical research initiatives. **What You Will Do** You will direct project and programme management activities, ensuring quality, efficiency, and alignment with business objectives. **Key Responsibilities Include** * Driving the development and execution of project management strategies to enhance efficiency and effectiveness in clinical trial operations. * Collaborating with cross-functional teams to identify project objectives, timelines, and resource requirements. * Overseeing project progress, managing risks, and implementing solutions to ensure timely and successful delivery. * Providing strategic guidance on project prioritization, stakeholder communication, and alignment with broader organizational objectives. * Establishing partnerships with external stakeholders to facilitate project success and share best practices in project management. **Your Profile** You will bring significant project and programme management experience, with a track record of building high-performing teams and delivering results. **Required Qualifications And Experience** * Bachelor's degree in a relevant scientific discipline or healthcare-related field; advanced degree preferred * Extensive experience in project management within the clinical research or healthcare sectors. * Strong leadership skills and proven ability to manage cross-functional teams in a collaborative environment. * Expertise in project management methodologies and tools, with a focus on delivering results. * Excellent communication, interpersonal, and stakeholder management skills, with the ability to influence and drive change in a complex organization. * Willingness to travel as required (approximately 20%) **What ICON Can Offer You** Our success depends on the quality of our people. That’s why we’ve made it a priority to build a diverse culture that rewards high performance and nurtures talent. In addition to your competitive salary, ICON offers a range of additional benefits. Our benefits are designed to be competitive within each country and are focused on well-being and work life balance opportunities for you and your family. **Our Benefits Examples Include** * Various annual leave entitlements * A range of health insurance offerings to suit you and your family’s needs. * Competitive retirement planning offerings to maximize savings and plan with confidence for the years ahead. * Global Employee Assistance Programme, LifeWorks, offering 24-hour access to a global network of over 80,000 independent specialized professionals who are there to support you and your family’s well-being. * Life assurance * Flexible country-specific optional benefits, including childcare vouchers, bike purchase schemes, discounted gym memberships, subsidized travel passes, health assessments, among others. Visit our careers site to read more about the benefits ICON offers. At ICON, inclusion & belonging are fundamental to our culture and values. We’re dedicated to providing an inclusive and accessible environment for all candidates. ICON is committed to providing a workplace free of discrimination and harassment. All qualified applicants will receive equal consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status. If, because of a medical condition or disability, you need a reasonable accommodation for any part of the application process, or in order to perform the essential functions of a position, please let us know or submit a request here Interested in the role, but unsure if you meet all of the requirements? We would encourage you to apply regardless – there’s every chance you’re exactly what we’re looking for here at ICON whether it is for this or other roles. Are you a current ICON Employee? Please click here to apply",
-   "keywords": [
-    "chief of staff"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4479036998",
-   "title": "Patient Journey Partner (南區, Breat Cancer)",
-   "company": "Roche",
-   "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-10-13",
-   "salary": "None-None",
-   "jd": "nan",
-   "keywords": [
-    "chief of staff"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4478421045",
-   "title": "Sr. Manager, Process Innovation",
-   "company": "Coupang",
-   "location": "Taoyuan City, Taiwan",
    "datePosted": "2026-10-14",
    "salary": "None-None",
    "jd": "nan",
+   "keywords": [
+    "business operations",
+    "chief of staff",
+    "strategy and operations",
+    "digital transformation",
+    "經營企劃"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4477994083",
+   "title": "(HQ) Control Tower Manager (VIP Accounts)",
+   "company": "Morrison Express",
+   "location": "Taipei, Taipei City, Taiwan",
+   "datePosted": "2026-10-13",
+   "salary": "None-None",
+   "jd": "Based at Global Headquarters, this role is responsible for leading the global Control Tower function to strengthen operational support, drive cross-regional alignment, and ensure execution excellence throughout the network. The position will establish standardized operating practices, provide governance and performance oversight, facilitate collaboration among regional operations teams, and ensure timely resolution of operational issues and enhance customer satisfaction, and drive operational excellence on a global scale. **KEY RESPONSIBILITIES** This role plays a critical role in supporting the company's VIP semiconductor customers by ensuring operational stability, executive-level visibility, and consistent service delivery across the global network. **1. Global Control Tower Alignment:** * Manage the Control Tower team to provide centralized operational oversight for assigned global semiconductor accounts. * Establish and maintain standardized operating procedures, governance processes, and service standards across all participating stations. **2. Operational Coordination & Execution** * Act as the primary operational escalation point for overseas stations and internal stakeholders. * Ensure seamless shipment execution, timely milestone management, and proactive handling of service exceptions. * Coordinate cross-functional teams to resolve operational issues and minimize supply chain disruptions. * Attend conference calls outside regular office hours, including occasional late-night meetings with overseas as required. * Travel domestically and internationally as required for customer, operational, and business needs. **3. Performance Management & Continuous Improvement** * Monitor operational KPIs and service performance across global locations. * Conduct root cause analysis and implement corrective and preventive actions for recurring service issues. * Drive operational excellence initiatives to improve service quality, productivity, visibility, and customer satisfaction. **4. Customer & Stakeholder Management** * Support Global Account Managers in customer reviews, business updates, and strategic operational discussions. * Build strong working relationships with customers, regional operations teams, and internal stakeholders. * Provide timely updates on critical operational matters, potential risks, and mitigation actions. **5. Account Implementation & Business Support** * Support customer onboarding, operational implementation, and SOP deployment for new business opportunities. * Ensure operational readiness and alignment among all participating stations during account transitions and business expansions. **6. Reporting & Analytics** * Analyze operational data and performance trends to identify improvement opportunities. * Prepare and support Monthly Business Reviews (MBR), Quarterly Business Reviews (QBR), management reports, and customer presentations. * Utilize data analytics and AI-enabled tools to enhance reporting effectiveness and operational insights. **ESSENTIAL JOB QUALIFICATIONS** **Education/Technical Skills** * Bachelor's degree or above in Business Administration, Logistics, Supply Chain Management, International Trade, Engineering, or related disciplines. * Strong command of both written and spoken English and Chinese, with effective communication skills for collaboration across Asia-Pacific, Americas, and Europe offices * Microsoft Office (PowerPoint, Excel, Word, Outlook); Good working knowledge of AI applications and data analytics tools. * Strong negotiation and stakeholder management skills. **Knowledge/ Work Experience** * Minimum 8 years of experience in freight forwarding key account management. * At least 3 years of leadership or supervisory experience preferred. * Experience managing multinational or strategic key accounts, preferably within the semiconductor, technology, or high-tech manufacturing sectors. * Proven experience coordinating operations across multiple countries and regions. * Familiarity with KPI management, operational governance, continuous improvement, and customer escalation management. **Key Behavioral Competencies** * Strong logical thinking and problem-solving ability. * Detail-oriented and precise, with a strong mindset for customer service and operation improvement. * Excellent time management skills; able to handle multiple tasks efficiently. * A strong team player with effective cross-functional collaboration skills, while also capable of working independently. * Proactive, accountable, and results oriented.",
+   "keywords": [
+    "business operations",
+    "strategy and operations"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4479041299",
+   "title": "MNC FMCG Logistic Manager",
+   "company": "Michael Page",
+   "location": "Taipei, Taipei City, Taiwan",
+   "datePosted": "2026-10-13",
+   "salary": "None-None",
+   "jd": "nan",
+   "keywords": [
+    "business operations"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4478755966",
+   "title": "Logistics Manager",
+   "company": "Framework",
+   "location": "Taipei City, Taiwan",
+   "datePosted": "2026-10-13",
+   "salary": "None-None",
+   "jd": "**Who We Are** At Framework, we believe the time has come for products that are designed to last. Founded in San Francisco in 2020, our mission is to remake Consumer Electronics to respect people and the planet. We've started with two award-winning products, the Framework Laptop 13 and 16. Our laptops are thin, light, high-performance notebooks that can be upgraded, customized, and repaired in ways that no other notebook can. Alongside this, we've launched the Framework Marketplace to enable an ecosystem of parts and modules. In 2026, we introduced Framework Laptop 13 Pro, a ground-up redesign built for power users and developers, bringing a massive leap in battery life, a new CNC aluminum chassis, and our first Ubuntu Certified system, all while remaining repairable, upgradeable, and entirely yours. We've seen a fantastic reception to Framework Laptop 13 Pro, with MKBHD calling it our “best build yet,\" Linus Tech Tips declaring \"The Framework Pro 13 is peak laptop,\" and Gizmodo naming it \"The Best Modular Laptop Ever Made.\" That builds on years of recognition from outlets like Ars Technica and multiple Wirecutter reviews (including a recommendation among the best Windows Ultrabooks of 2024), along with making TIME's Best Inventions lists in 2021 and 2023. We're incredibly proud to be recognized as #5 on Fast Company's Most Innovative Companies of 2026, proof of our growth since first appearing on the list at #35 on Fast Company's Most Innovative Companies of 2022. We come from successful consumer electronics startups including the founding team of Oculus, and have closed multiple rounds of funding to fuel our roadmap. Even better (and maybe unusually for an early stage startup), we're in a financially healthy position going forward off of our product revenue. We care deeply about building a diverse and inclusive team, and we hope you do too! ****The Position**** We are looking for a Logistics Manager who is excited to take on the challenges that come with delivering innovative and modular products to customers worldwide, while upholding our commitment to respect both people and our planet. In this role, you will drive and execute the department’s high level logistics fulfillment strategy, managing global fulfillment efforts, developing processes that support our internal team and our customers as we scale and expand into new regions, and owning all cross-functional engagement with internal teams. You will also cultivate key vendor partnerships, representing the logistics teams in internal projects, spearheading stock availability for preorder fulfillment, and enhancing operational performance through deep internal integrations and strategic alliances. As a member of the Logistics Team, you will handle some of the critical “last touch” movements before our products reach our customers’ hands, and will have a high level of influence on the consumer experience as well as our internal logistics practices and initiatives going forward. This is a full-time hybrid position in Taiwan, with 10% travel required (when travel is reasonable) and a preference for candidates residing in Northern Taiwan (e.g. Taipei, Taoyuan, and Hsinchu). We have an office in XinYi Dist that you can work from. **What You'll Do** * Departmental Strategy & Goals - Lead the execution of logistics department strategy and operational goals, ensuring alignment with high-level business objectives. * Vendor & Relationship Management - Manage critical relationships with EU, North American, and in-country service providers (3PLs, carriers, freight providers) including performance reviews (QBRs/KPIs), onboarding, and RFQ oversight. * Cross-Functional Leadership - Act as the primary logistics representative and SME for internal partners (Engineering, Quality, CX, B2B, Finance) on sensitive shipments, special projects, and strategic integrations. * Operational Efficiency - Drive systemic solutions for recurring shipping issues and spearhead initiatives to improve fulfillment performance and minimize operational redundancies. * Fulfillment & Pre-order Management - Own end-to-end pre-order management and supervise daily fulfillment activities for global 3PLs to ensure strict contractual SLA adherence. * Compliance & Trade SME - Serve as the Subject Matter Expert for customs and trade compliance, managing all shipments and ensuring VAT/EORI/ART23 adherence for EU logistics. * Inventory & Asset Control - Lead mid-year and year-end inventory reconciliations and manage strategic SKU conversion, kitting, and repack projects to optimize costs. * Financial Oversight - Audit and approve all vendor invoices for 3PLs and carriers, while monitoring cost performance and developing leadership dashboards. * Escalation Management - Act as the primary in-country escalation point for the logistics team, providing support for fulfillment, shipping, and complex compliance hurdles. * Systems & IT Integration - Provide strategic support for new IT integrations and system setups to enhance data sharing and operational visibility with vendor partners. **What You Need** * Excellent communication skills, with fluency in English * Experience in E-commerce 3PL based fulfillment and logistics * 5+ years of experience in global shipping including trade compliance * 3+ years of experience managing 3PL & small parcel vendor relationships in Asia * 3+ years of experience in consumer electronics or similar regulated industries * Working knowledge of Google Workspace, relational databases and ERP systems (e.g. SAP or Netsuite) * Proven understanding of supply chain processes (e.g. inventory planning, procurement, multi-region fulfillment) * Experience in data-driven decision making and reporting **What's Nice To Have** * Customs brokerage license * Familiarity with OEM/ODM manufacturing. * FedEx global shipping and consolidation (IPD) experience * Global logistics experience with emphasis on trade compliance * Strong analytical mind with enthusiasm for problem-solving **What You'll Love** * Competitive salary, equity, and health benefits * Paid company holidays plus 20 PTO days per year * Paid Parental Leave * Annual Health Checks * Flexible work hours and locations, including every other Monday off! * The chance to work at a startup that is making a positive social and environmental impact. ****Equal Opportunity**** **We are also committed to providing reasonable accommodations for all qualified individuals with disabilities. If you require an accommodation to participate in the application or interview process, please let us know by reaching out to accommodations@frame.work.** **Additional Notes** Please be aware that we only post jobs directly on our career site, LinkedIn, ZipRecruiter, Monster, Talent.com, MyJobHelper, Adzuna, Jora, and Jooble. We do not use Indeed. For the safest experience, please apply directly on our career site. We also follow a rigorous hiring process, meaning we do not extend offers without multiple rounds of live interviews. Most importantly, we do not issue checks to candidates and will never ask for personal financial information, such as bank details or credit card numbers, during the interview and offer process. We manage onboarding through our HRIS platform and provide all necessary equipment directly to our employees. All official communications during the interview process only come from @ats.rippling.com and @frame.work. If you receive a suspicious message, email, or job offer, please do not click on any links and report this incident to us at hiring-team@frame.work.",
+   "keywords": [
+    "business operations"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4478394798",
+   "title": "Operation Manager",
+   "company": "Hytech",
+   "location": "Taipei, Taipei City, Taiwan",
+   "datePosted": "2026-10-12",
+   "salary": "None-None",
+   "jd": "**About Hytech** Hytech is a leading management consulting firm headquartered in Australia and Singapore, specializing in digital transformation for fintech and financial services companies. We partner with top trading platforms and cryptocurrency exchanges, providing consulting, risk analytics, and technology solutions that power institutional trading desks across the globe. With a global team of over 2,000 professionals, Hytech has established a strong presence worldwide, with offices in Australia, Singapore, Malaysia, Taiwan, Philippines, Thailand, Morocco, Cyprus, and more. **About the Role** As an Operations Manager, you will play a pivotal role in driving the efficiency, scalability, and excellence of Hytech’s operational teams, aligning closely with our global mission to deliver top-tier digital transformation solutions to fintech and financial services clients. You will lead a team of operational professionals, oversee end-to-end operational workflows, and collaborate cross-functionally with sales, technology, risk, and client success teams to ensure seamless service delivery. This role requires a strategic mindset paired with hands-on operational expertise, as you will balance day-to-day team management with long-term process optimization, directly contributing to the success of our institutional trading and cryptocurrency exchange partnerships. **Key Responsibilities** * Overseeing daily team operations, managing work assignments for team members, setting quarterly and annual KPIs, and conducting comprehensive performance reviews. * Proactively coordinating and resolving issues within the team, across other company functional departments, and with third-party vendors. * Facilitating seamless communication between front-end sales and back-end support teams, ensuring smooth workflows and optimizing end-to-end operational processes. * Mastering full business workflows, providing hands-on support, training, and guidance to team members to collectively meet and exceed work objectives. * Reporting team performance, work progress, and presenting actionable solutions to team challenges to department leadership on a monthly basis. * Prioritizing business processing tasks based on client needs and real-time operational status to drive team efficiency. **Requirements** * **Professional Experience & Management Expertise** : Minimum 10 years of working experience in operations, with at least 5 years of proven management experience * **Industry Background** : Strong background from fintech or brokerage companies; candidates with experience in Taiwan's local securities industry, brokerage firms, fintech space are highly preferred. * **Language Proficiency** : Proficient in both spoken and written English and Mandarin, capable of communicating effectively in cross-functional and international settings. * **Leadership & Teamwork** : Exceptional teamwork spirit, strong leadership capabilities, excellent communication skills * **Operational & Personal Competencies** : High self-discipline, proactive learning ability, and a solution-oriented mindset with strong logical and critical thinking",
+   "keywords": [
+    "business operations",
+    "chief of staff"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4478845099",
+   "title": "Head of People and Operations",
+   "company": "DRIVE Catalyst",
+   "location": "Taipei, Taipei City, Taiwan",
+   "datePosted": "2026-10-15",
+   "salary": "None-None",
+   "jd": "**Head of People & Operations** Taipei | DRIVE & DRIVE Catalyst We are looking for an experienced Head of People & Operations to help build the next stage of DRIVE and DRIVE Catalyst. This is not a traditional HR administration role. We are looking for a senior operator who combines strong people judgment with an organizational builder mentality: someone who can attract exceptional talent, develop managers, strengthen how the organization operates, and build practical systems that improve clarity, accountability and execution. You will join a lean, highly specialized organization and have significant ownership from the beginning. **What You Will Own** **Organizational Design & Operating Effectiveness** * Assess how the organization operates and identify opportunities to improve structure, workflows and accountability. * Help design and implement an effective operating model across the organization. * Clarify roles, responsibilities, interfaces and decision-making processes. * Develop and continuously improve practical **SOPs, workflows and operating standards** . * Strengthen documentation, knowledge sharing, handovers and organizational continuity. * Improve management cadence, accountability and cross-functional follow-through. * Lead implementation of organizational changes and ensure new ways of working are adopted effectively. * Continuously simplify processes, reduce duplication and improve organizational effectiveness. **Recruiting & Talent** * Lead recruiting for senior, specialist and high-impact roles. * Source and assess candidates directly while managing external search partners where appropriate. * Build disciplined hiring processes and strong talent pipelines. * Strengthen onboarding, succession planning and talent development. * Ensure organizational structure and hiring priorities remain aligned with business needs. **People & Leadership Development** * Partner with leaders and managers on performance, feedback, development, workload and retention. * Build practical performance-management and employee-development processes. * Identify organizational and people issues early and bring thoughtful recommendations to leadership. * Strengthen management capability, including delegation, communication, accountability and people development. * Support leadership in addressing capability gaps, team effectiveness and organizational needs. **Operations & Cross-Functional Execution** * Strengthen ownership, coordination and follow-through across important cross-functional priorities. * Lead selected operational projects from planning through implementation. * Establish appropriate tracking, accountability and reporting mechanisms. * Coordinate effectively with internal stakeholders and external partners. * Identify and resolve operational bottlenecks before they become larger organizational issues. * Help create a more disciplined, responsive and scalable operating environment. **AI, Systems & Process Improvement** * Identify opportunities to use **AI, automation, technology and analytics** across recruiting, people management and operations. * Build or implement practical workflows that reduce manual work and improve visibility. * Introduce tools and management information that support stronger decision-making and accountability. * Apply technology thoughtfully while recognizing where human judgment remains essential. * Continuously improve systems and processes without creating unnecessary bureaucracy. **Who We Are Looking For** **We are looking for someone with:** * Approximately **10+ years of relevant experience** across People Operations, HR, organizational development, business operations or related functions. * Meaningful experience in a **technology, high-growth, multinational or sophisticated international organization** . * Demonstrated experience improving organizational structures, operating models, processes or systems. * Experience building or implementing **SOPs, workflows and cross-functional operating processes** . * Strong hands-on recruiting capability, including senior and specialist talent. * Experience partnering directly with senior leaders and managers. * Strong judgment around organizational effectiveness, performance, development and retention. * A track record of building and improving systems rather than simply administering established ones. * Comfort using **AI, automation, analytics and digital tools** to improve how work gets done. * Excellent project-management, change-management and execution skills. * Fluent Mandarin and strong professional English. * The confidence to identify issues, bring considered recommendations and challenge constructively. * A practical, low-ego and hands-on approach. * International education or substantial international work experience is strongly preferred. **The Right Person for This Role** You may be a strong fit if you have worked inside a sophisticated technology or multinational organization and now want **broader ownership, greater autonomy and closer proximity to decision-making** . You should enjoy both strategy and execution. You may be evaluating organizational structure one day, recruiting a senior leader the next, redesigning an operating process, building an SOP or using AI to eliminate unnecessary manual work. You should be comfortable entering an environment where there is an opportunity to **build, improve and professionalize** , rather than simply maintain established systems. **We are looking for someone who naturally asks:** **How should this work? Who should own it? How can we make it simpler, clearer and more effective?** And then has the ability to make the answer real. We are looking for someone who wants to **build with us** , not simply inherit an existing function. **Working Style** This role works closely with senior leadership and functional leaders across DRIVE and DRIVE Catalyst and carries significant responsibility for organizational effectiveness and execution. Success will require discretion, sound judgment, strong communication and the ability to operate independently while building trust across the organization. **Location** Taipei, Taiwan This is an in-person leadership role requiring close collaboration with the broader team.",
+   "keywords": [
+    "chief of staff"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4477518611",
+   "title": "Head of Commercial",
+   "company": "Dot Connections IOM Limited",
+   "location": "Da'an District, Taipei City, Taiwan",
+   "datePosted": "2026-10-12",
+   "salary": "None-None",
+   "jd": "nan",
+   "keywords": [
+    "chief of staff"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4475681653",
+   "title": "Project/Program Manager",
+   "company": "Brooks Automation",
+   "location": "Hsinchu County, Taiwan, Taiwan",
+   "datePosted": "2026-10-12",
+   "salary": "None-None",
+   "jd": "nan",
+   "keywords": [
+    "chief of staff"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4479560182",
+   "title": "Product Lifecycle Project Manager",
+   "company": "Cisco",
+   "location": "Taipei, Taipei City, Taiwan",
+   "datePosted": "2026-10-14",
+   "salary": "None-None",
+   "jd": "**Meet the Team** The Product Operations team plays a critical role in delivering Cisco’s next-generation hardware products on a scale. Working at the intersection of engineering, supply chain, and manufacturing, the team ensures seamless product lifecycle execution—from new product introduction to high-volume production and customer delivery. With a strong focus on reliability, efficiency, and operational excellence, the team drives impact across global operations and enables successful product outcomes. **Your Impact** The Cisco Product Operations team is seeking a seasoned Product Lifecycle Program Manager (PLPM) to provide strategic leadership over global cost management and the end-to-end product lifecycle from inception to End-of-Life (EOL). This is a high-visibility, senior-level role that requires the ability to influence cross-functional stakeholders—including Manufacturing, Engineering, Marketing, and Executive Leadership—to align on strategy and execution for a portfolio of complex product solutions. You will be responsible for defining and implementing the frameworks that ensure operational efficiency and market competitiveness across our global manufacturing footprint. Key Responsibilities * Strategic Cost Management & Lifecycle Oversight: Serve as the primary architect for end-to-end product lifecycle strategy, driving rigorous cost management protocols from launch through EOL to ensure sustained profitability. * Engineering Change Governance: Provide authoritative oversight for Engineering Change Management, ensuring seamless technical transitions and minimal operational disruption. * Product Quality & Financial Stewardship: Maintain stringent control over product quality benchmarks and cost structures, ensuring alignment with organizational financial targets. * Complex Problem Resolution: Lead the mitigation of critical sustaining issues, including line-stop resolutions, CAP account management, AVL optimization, and continuous manufacturing process improvement. * EOL Strategy & Orchestration: Direct the development and execution of holistic EOL strategies, partnering with integrated product teams to ensure smooth sunsetting of legacy solutions. * Enterprise Risk Management: Oversee proactive risk assessment, including multi-source technology evaluation, component-level analysis, cost variance mitigation, and comprehensive supply chain reviews throughout the lifecycle. * Field Performance & Margin Optimization: Lead strategic action planning for product field performance and spearhead initiatives to drive continuous improvement in gross margins. **Minimum Qualifications** * Bachelor’s degree in Engineering, Supply Chain Management, or related technical field. * 5-10 years of progressive experience in Supply Chain management within the high-tech sector. * Proven track record in complex Program Management and executive-level stakeholder management. * Advanced knowledge of supply chain dynamics, specifically within high-tech environments, product costing, and sophisticated margin analysis. * Comprehensive knowledge of Product Lifecycle Management (PLM) and sustaining product support **Preferred Qualifications** * Master’s degree in Engineering or Supply Chain Management and/or MBA. * Knowledge of New Product Introduction (NPI) processes. * Six Sigma Green or Black Belt certification. * Experience using Agile methodologies and advanced MSFT tools. * Experience in the high-tech electronics industry and large-scale electronics manufacturing. * Great executive communication, negotiation, and presentation skills. Why Cisco? At Cisco, we’re revolutionizing how data and infrastructure connect and protect organizations in the AI era – and beyond. We’ve been innovating fearlessly for 40 years to create solutions that power how humans and technology work together across the physical and digital worlds. These solutions provide customers with unparalleled security, visibility, and insights across the entire digital footprint. Fueled by the depth and breadth of our technology, we experiment and create meaningful solutions. Add to that our worldwide network of doers and experts, and you’ll see that the opportunities to grow and build are limitless. We work as a team, collaborating with empathy to make really big things happen on a global scale. Because our solutions are everywhere, our impact is everywhere. We are Cisco, and our power starts with you.",
+   "keywords": [
+    "strategy and operations",
+    "經營企劃"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4479216999",
+   "title": "Sr. Global Commodity Manager, Amazon Devices Supply Chain & Sustainability",
+   "company": "Amazon",
+   "location": "Taipei, Taipei City, Taiwan",
+   "datePosted": "2026-10-14",
+   "salary": "None-None",
+   "jd": "**Description** At Amazon Devices, we are a world-class research and development hub dedicated to creating transformative consumer electronics. Since launching the pioneering Kindle in 2007, we have spent nearly two decades developing iconic products in the eReader and eNote spaces. Our commitment to innovation has expanded our portfolio to include household names such as Fire Tablets, Fire TV, Amazon Echo, Ring, and Blink. With innovation at our core, we invite you to shape the future of technology with us. What will you help us create next? Amazon Devices is looking for passionate and creative candidates to join our operations team in Taipei. Key job responsibilities * Drive end-to-end program management, overseeing the full product development lifecycle from the RFI phase to successful high-volume manufacturing (HVM) ramp-up. * Fast learner & problem solving: Quick to master complex domains, applying rigorous analytical thinking to resolve critical business bottlenecks. * Driving strategic initiatives: Spearheaded the successful execution of high-level business strategies from conception to completion. * Data interpretation: Adept at synthesizing intricate data sets into high-value, actionable recommendations that guide executive decision-making. * Communication: Articulate communicator skilled at translating technical, operational, and commercial complexities for both technical teams and cross-border executives. * Cross-functional teamwork: Thrives in fast-paced environments, collaborating seamlessly with matrixed teams while maintaining strong independent accountability. * Priority management: Proven track record of navigating shifting priorities and resource constraints to deliver key milestones ahead of schedule. A day in the life As a Sr. Global Commodity Manager, your day is a dynamic mix of display & subcomponent strategic planning, technical problem-solving, and supplier engagement. You manage technical and commercial sourcing strategy for multiple programs from pre-concept stages to mass production in collaboration with engineering, NPI operations, legal and suppliers. You’ll collaborate with engineering teams to influence design decisions while aligning with technical and business goals. Your role involves negotiating with suppliers to secure competitive pricing and favorable terms, optimizing supply chain processes to reduce lead times and costs, and resolving complex engineering or supply chain challenges. You’ll stay ahead of market trends, pricing dynamics, and technological advancements to refine sourcing strategies, ensuring Amazon remains competitive. Cross-functional leadership is key, as you partner with legal, NPI operations, and planning teams to assess future sourcing needs and develop risk mitigation plans. You’ll also lead supplier evaluations, conduct business reviews to ensure performance meets expectations, and report progress to senior leadership, demonstrating how your strategies drive the success of Amazon Devices. **Basic Qualifications** * 8+ years of related industry experience * 6+ years of high volume manufacturing operations or sourcing environments experience * 8+ years of program, project or product management, or leading product implementation experience * 6+ years of data analysis using tools such as Excel, Pivot Tables, SQL, Tableau, or equivalent experience * Experience in global supply chain management, managing cross-functional teams in a fast-paced consumer electronics product company * Solid working background in the display touch and supporting subcomponent industries, with the competence to cooperate with engineering team daily to carry out core work covering, for example Design for Manufacturability (DFM) and Failure Analysis (FA). **Preferred Qualifications** * Master's degree in Supply Chain, Business, Engineering, or a related field * Experience in negotiations with global suppliers with a proven track record in cost reduction * Experience in procurement practices working with engineering, supply chain and Tier 1 OEM partners * Experience practicing best-in-class procurement processes (category management, benchmarking, should-cost models, RFX, reverse auction, contracting, or equivalent) Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner. **Company** - Amazon Development Center Taiwan Limited Job ID: A10577244",
+   "keywords": [
+    "strategy and operations"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4479504062",
+   "title": "【凱基銀行/金融科技處.科技創新部】科技策略規劃人員",
+   "company": "凱基銀行 KGI Bank",
+   "location": "Taipei–Keelung Metropolitan area",
+   "datePosted": "2026-10-14",
+   "salary": "None-None",
+   "jd": "Join us to build a leading financial company in Asia! Job Family 數位創新/Digital and Innovation (Job Family) **Job Description** **[工作職掌]** * 數位科技趨勢研究與政策執行管理 * 執行創新技術可行性評估與 PoC 驗證實作 * 追蹤專案執行進度與跨單位溝通協調 * FinTech 合作夥伴評估與技術導入執行 **[需求條件]** * 具備策略規劃、跨部門溝通、需求訪談與系統分析能力，能將業務需求轉化為技術流程圖或功能規格 * 具備數位轉型、產品、AI導入經驗 3.3年以上金融或科技產業數位轉型、產品、AI導入經驗 Education – Degree / Field of Study Work Shift 正常工時 (Regular) - 需打卡 (Taiwan)",
    "keywords": [
     "strategy and operations",
     "digital transformation",
@@ -222,89 +288,129 @@
   },
   {
    "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4477520556",
-   "title": "Operation Team Assistant Manager (運營團隊副理)",
-   "company": "Hytech",
-   "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-10-12",
+   "url": "https://www.linkedin.com/jobs/view/4479274445",
+   "title": "SS&P - Senior Sourcing and Supply Chain TL - Linkou / Tainan",
+   "company": "ASML",
+   "location": "Linkou District, New Taipei City, Taiwan",
+   "datePosted": "2026-10-14",
    "salary": "None-None",
-   "jd": "nan",
+   "jd": "**Introduction to the job** We are seeking a dynamic and experienced Team Lead to manage the Tactical Buyer(TB) group within our Supplier Operations team. This role is pivotal in ensuring operational excellence, driving strong supplier relationship and in driving supplier performance, and fostering a high-engagement culture within the Supplier Operations TB team. The successful candidate will be a strong leader who can lead a team focused on material availability, cost optimization, and continuous improvement initiatives, while developing strong stakeholder relationships and empowering and developing the team members to achieve their full potential. **Role and responsibilities** **Leadership & People Development** * Lead and develop a team of Supplier Operations professionals, ensuring clear goals, accountability, and continuous growth. * Drive employee engagement initiatives to create a positive, inclusive, and high-performing work environment. * Coach and mentor team members to enhance capabilities and career development. **Stakeholder Management** * Act as the primary interface between internal teams and external suppliers for the TB team on Supplier Operations matters. * Build and maintain strong relationships with key stakeholders (clusters sourcing / Q&L, factory, PLM, Repair & Reuse, HR and finance business partners) to align on priorities and resolve challenges effectively. * Communicate effectively with global and regional leadership to report progress and escalate challenges. **Operational Performance & Continuous Improvement** * Ensure operational targets are met, including material availability, cost efficiency, and efficiency targets * Identify and implement process improvements to enhance productivity and reduce waste. * Monitor KPIs and lead root cause analysis for performance gaps. **Supplier Performance Management** * Oversee the supplier performance for TB team in Linkou and Tainan, ensuring compliance with cost and (logistics) material delivery targets * Drive supplier performance improvement initiatives focusing on material availability and cost competitiveness. * Implement strategies to optimize supplier collaboration and operational efficiency. * Monitor and mitigate supply chain risks, ensuring business continuity. **Education and experience** * Bachelor’s degree in Engineering, Supply Chain Management, or related field; Master’s degree is a plus. * Minimum 7+ years of experience in supplier operations, supply chain, or procurement, with at least 3 years in a leadership role. **Skills** * Proven track record in employee engagement and team leadership. * Excellent stakeholder management, communication skills and problem solving skills. * Fluent in English and Mandarin; additional languages are a plus. * Strong understanding of mechanical and mechatronic components and their supply chain dynamics. * Familiarity with continuous improvement methodologies (e.g., Lean, Six Sigma) is a plus. **Other information** * Strategic thinking with hands-on execution capability. * Strong interpersonal and influencing skills. * Ability to manage complexity and drive results under pressure. * Continuous improvement mindset and adaptability to change. **Inclusion and diversity** ASML is an Equal Opportunity Employer that values and respects the importance of a diverse and inclusive workforce. It is the policy of the company to recruit, hire, train and promote persons in all job titles without regard to race, color, religion, sex, age, national origin, veteran status, disability, sexual orientation, or gender identity. We recognize that inclusion and diversity is a driving force in the success of our company. Need to know more about applying for a job at ASML? Read our frequently asked questions.",
    "keywords": [
     "strategy and operations"
    ]
   },
   {
    "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4476099795",
-   "title": "Application Consultant-Banking Application Modernization",
-   "company": "IBM",
+   "url": "https://www.linkedin.com/jobs/view/4477512908",
+   "title": "Operation Team Leader 營運團隊組長",
+   "company": "Hytech",
    "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-10-13",
+   "datePosted": "2026-10-12",
    "salary": "None-None",
-   "jd": "nan",
+   "jd": "**About Hytech** Hytech is a leading management consulting firm headquartered in Australia and Singapore, specializing in digital transformation for fintech and financial services companies. We partner with top trading platforms and cryptocurrency exchanges, providing consulting, risk analytics, and technology solutions that power institutional trading desks across the globe. With a global team of over 2,000 professionals, Hytech has established a strong presence worldwide, with offices in Australia, Singapore, Malaysia, Taiwan, Philippines, Thailand, Morocco, Cyprus, and more. **About the Role** As an Operations Assistant Manager, you will play a pivotal role in driving the efficiency, scalability, and excellence of Hytech’s operational teams, aligning closely with our global mission to deliver top-tier digital transformation solutions to fintech and financial services clients. You will lead a team of operational professionals, oversee end-to-end operational workflows, and collaborate cross-functionally with sales, technology, risk, and client success teams to ensure seamless service delivery. This role requires a strategic mindset paired with hands-on operational expertise, as you will balance day-to-day team management with long-term process optimization, directly contributing to the success of our institutional trading and cryptocurrency exchange partnerships. **Key Responsibilities** * Overseeing daily team operations, managing work assignments for team members, setting quarterly and annual KPIs, and conducting comprehensive performance reviews. * Proactively coordinating and resolving issues within the team, across other company functional departments, and with third-party vendors. * Facilitating seamless communication between front-end sales and back-end support teams, ensuring smooth workflows and optimizing end-to-end operational processes. * Mastering full business workflows, providing hands-on support, training, and guidance to team members to collectively meet and exceed work objectives. * Reporting team performance, work progress, and presenting actionable solutions to team challenges to department leadership on a monthly basis. * Prioritizing business processing tasks based on client needs and real-time operational status to drive team efficiency. **Requirements** * **Professional Experience & Management Expertise** : Minimum 5 years of working experience in operations, with at least 3 years of proven management experience * **Industry Background** : Strong background from fintech or brokerage companies; candidates with experience in Taiwan's local securities industry, brokerage firms, fintech space are highly preferred. * **Language Proficiency** : Proficient in both spoken and written English and Mandarin, capable of communicating effectively in cross-functional and international settings. * **Leadership & Teamwork** : Exceptional teamwork spirit, strong leadership capabilities, excellent communication skills * **Operational & Personal Competencies** : High self-discipline, proactive learning ability, and a solution-oriented mindset with strong logical and critical thinking",
+   "keywords": [
+    "strategy and operations"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4478832386",
+   "title": "IT Manager (3010439)",
+   "company": "Accurate愛客獵 - 1111Headhunt",
+   "location": "Taipei, Taipei City, Taiwan",
+   "datePosted": "2026-10-15",
+   "salary": "None-None",
+   "jd": "產業類別： 百貨相關 職責要求 • 規劃公司整體IT策略及資訊系統發展藍圖。 • 負責ERP、POS、CRM、會員、電子支付及相關營運系統管理。 • 統籌總部及各營運據點之網路、Server、Wi-Fi、VPN及資訊設備。 • 建立IT服務管理、Help Desk及使用者支援機制。 • 負責資訊系統維運、異常處理及服務可用性管理。 • 規劃資訊安全、權限管理、備份、災難復原及資安防護機制。 • 推動雲端服務、系統整合及資訊基礎架構優化。 • 主導ERP／POS／CRM等系統導入、升級及整合專案。 • 透過BI、數據分析及報表系統協助管理階層掌握營運績效。 • 評估AI、RPA、數位工具及自動化應用，推動企業數位轉型。 • 管理資訊設備、軟體授權、IT供應商及外包廠商。 • 編列IT年度預算並進行成本控管。 • 建立IT SOP、資訊安全制度及系統維運文件。 • 管理資訊團隊，負責工作分配、人才培訓、績效管理及資源配置。 任職資格 • 大學以上，資訊工程、資訊管理、電機、資工或相關科系。 • 8年以上IT相關經驗，具3年以上資訊主管／IT Manager經驗。 • 具零售、百貨、商場、餐飲、飯店、連鎖或多據點企業IT管理經驗尤佳。 • 熟悉ERP、POS、CRM、會員系統或零售資訊系統。 • 具網路、Server、Cloud、資安及資訊基礎架構管理經驗。 • 具IT專案管理及系統導入經驗。 • 熟悉供應商管理、IT預算及外包管理。 • 具資訊安全、備份及災難復原概念。 • 具數位轉型、BI、AI或流程自動化經驗者佳。 加分條件： • 有多據點／商場型企業資訊管理經驗者優先。",
    "keywords": [
     "digital transformation"
    ]
   },
   {
    "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4477999343",
-   "title": "ERP Consultant / Senior Consultant (Japanese required)",
-   "company": "RSM Hong Kong",
-   "location": "Taipei City, Taipei City, Taiwan",
-   "datePosted": "2026-10-13",
+   "url": "https://www.linkedin.com/jobs/view/4478400904",
+   "title": "專案經理",
+   "company": "Gamania Digital Entertainment",
+   "location": "Neihu District, Taipei City, Taiwan",
+   "datePosted": "2026-10-14",
    "salary": "None-None",
-   "jd": "Why Join Us? At RSM, our Technology Consulting practice spans over 20 countries across 5 continents. We partner with industry-leading enterprises to drive large-scale digital transformations—modernizing core operations through market-leading cloud platforms and next-generation AI integrations. As part of our global consulting practice, you won't just configure software—you will act as a trusted advisor to C-suite executives and operational leaders, solving complex business challenges and building resilient, agile organizations. We invest heavily in our people, providing structured career paths, continuous professional development, and full sponsorship for industry certifications (Oracle NetSuite, SAP, Kyriba, Microsoft, and AI technology suites). **Responsibilities:** * Client Advisory & Business Process Transformation: Partner with executive stakeholders to map end-to-end business workflows, identify operational bottlenecks, and architect scalable cloud and AI-driven solutions. * Full-Lifecycle Enterprise Implementation: Lead and execute full-lifecycle implementations, system enhancements, and cross-platform integrations using RSM’s global delivery framework. * Functional Execution & Technical Design: Author high-quality project deliverables—including business requirement documents (BRDs), functional specifications, process flowcharts, and test scripts. Configure core platform modules and oversee data migrations and custom builds. * AI & Automation Enablement: Identify opportunities to embed AI tools, predictive analytics, and automated workflows into enterprise business applications to enhance client productivity. * Testing & Quality Assurance: Lead multi-phase testing initiatives (unit, integration, and UAT) to ensure high-performance deployments. * Global Collaboration: Partner with cross-border project managers, solution architects, and functional leads across Asia-Pacific and global regions. **Requirements:** * Bachelor’s Degree in any discipline. * Senior Consultant should possess 2+ years of on experience implementing, configuring, or supporting cloud ERP or other business applications (e.g., NetSuite, SAP, Oracle, Kyriba, or Microsoft Dynamics), less experienced may be considered for the position of Consultant. * Fresh graduates are welcome to apply. * Working proficiency in spoken and written Japanese, English, and Chinese. * Good interpersonal, communication and problem-solving skills. * Willing to travel. **Application Procedure** **We offer attractive rewards package to the right candidates. Applicants please send your CV in English, quoting the reference TMC-TW** , with **full career details** , **availability** and **expected salary** to **hrcpa@rsmhk.com** . *(Data collected will be used for recruitment purpose only)*",
+   "jd": "As a Project Manager, you will step onto the front lines of diverse business units to confront established operational habits and identify process bottlenecks. You will assess the feasibility of AI and automation initiatives, lead cross-functional alignment with engineering teams, and guide business operators from 0 to 1 through hands-on onboarding and workflow transition—ensuring every transformation project takes root and delivers measurable business value. **<Responsibilities>** Workflow Diagnosis & Transformation Blueprinting: Conduct in-depth operational audits and process mapping across business units to pinpoint pain points, translating unstructured needs into actionable, executable digital/AI adoption roadmaps. 1. **Complex Stakeholder Management & Alignment** : Act as the strategic liaison across business heads, operational end-users, senior leadership, and R&D. Proactively align conflicting priorities, manage organizational resistance to change, and foster consensus. 2. **Solution Scoping & Milestone Delivery** : Define end-to-end project roadmaps, user stories, and acceptance criteria (UAT), breaking down complex business requirements into clear execution stages for engineering teams. 3. **R&D Collaboration & Feasibility Validation** : Partner with engineers, architects, and designers to evaluate implementation complexity, data readiness, and AI solution feasibility, ensuring all delivered solutions are robust and production-ready. 4. **End-to-End Project Governance & Blocker Resolution** : Oversee project delivery timelines, proactively identify bottlenecks across functional silos, mitigate delivery risks, and keep implementations on schedule. 5. **Change Enablement & Business Impact Measurement** : Drive rollout strategies, training sessions, and user enablement to ensure sustained tool adoption. Establish key operational metrics to measure workflow time reduction, cost efficiency, and overall transformation ROI. **<Required Skills>** * **Proven Transformation Track Record** : 3+ years of hands-on experience driving internal digital transformation, workflow automation, or enterprise AI adoption with proven, measurable landing success. * **Stakeholder Management:** Exceptional interpersonal and conflict-resolution skills, capable of bridging conversations between C-level executives, frontline business operators, and engineering teams. * **Process & Specification Skills** : Proven ability in business process mapping, writing technical requirements (PRD / User Stories), and overseeing UAT. * **AI & Tech Literacy:** Working familiarity with Generative AI capabilities, workflow automation tools, and their practical deployment constraints within enterprise workflows.",
    "keywords": [
     "digital transformation"
    ]
   },
   {
    "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4479269196",
-   "title": "Software Engineer",
-   "company": "E-Solutions",
-   "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-10-14",
-   "salary": "None-None",
-   "jd": "**Job Title: Software Engineer** **Location : Taipei, Taiwan** **Role Overview:** We are seeking a highly skilled Software Engineer to troubleshoot and fix complex technical issues related to large-scale AI workloads on TPUs. This role focuses on distributed training, inference optimization, performance tuning, and debugging complex issues for production-grade AI systems. You will work at the intersection of ML systems, distributed computing, and cloud infrastructure, enabling high-performance and cost-efficient LLM deployments. You will partner closely with cross-functional, cross-regional teams to ensure our AI/ML infrastructure delivers exceptional value and drives success for our customers. **Key Responsibilities** Deep Technical Troubleshooting · Reproduce complex customer issues in Google's internal environments · Leverage AI to discover the root cause of a technical problem and verify it. · Engage with partner engineering teams to understand how a complex system works. LLM Deployment & Distributed Systems · Load, configure, and deploy LLM models on TPU clusters at scale · Work with frameworks such as JAX, Pytorch, or vLLM for large-scale model training and serving · Design and manage distributed training strategies across multi-node environments Performance Optimization · Optimize LLM inference or training performance, autotuning scripts, and advanced TPU tuning techniques · Improve throughput, latency, and cost efficiency for production AI workloads · Identify and eliminate bottlenecks across compute, memory, and network layers Kubernetes & Infrastructure Debugging · Debug and optimize GKE / Kubernetes clusters for ML workloads · Troubleshoot issues related to scheduling, networking, TPU utilization, and cluster performance · Improve system reliability, scalability, and fault tolerance **Required Qualifications** · Bachelor’s or Master’s degree in Computer Science, Engineering, or related field · Strong experience in troubleshooting complex technical problems that often require multiple iterations with partner teams or customers. · Proven experience driving multi-team execution and a good team player. · Operate effectively in fast-paced, ambiguous environments, bringing structure, prioritization, and clarity with minimal guidance. · Strong programming skills in Python and/or C++ **Preferred Qualifications** · Strong experience in distributed systems and large-scale infrastructure · Experience with Kubernetes (GKE preferred) and cluster debugging · Familiarity with LLM · Experience with GPU or TPU · Experience with profiling tools (NCCL, DCGM, XLA profiling, etc.) If you are interested in this position please share your updated resume with the details at **rajat.singh@esolglobal.com** Current salary- Expected salary- Notice period- Total years of experience- Reason for job change- Nationality- Visa-",
-   "keywords": [
-    "AI implementation"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4478401824",
-   "title": "Physical AI Engineer",
-   "company": "VicOne",
-   "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-10-14",
-   "salary": "None-None",
-   "jd": "nan",
-   "keywords": [
-    "AI implementation"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4479255983",
-   "title": "Project Manager",
-   "company": "E-Solutions",
-   "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-10-14",
-   "salary": "None-None",
-   "jd": "nan",
-   "keywords": [
-    "AI implementation"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4477986546",
-   "title": "Customer Engineer, High Performance Computing (English)",
+   "url": "https://www.linkedin.com/jobs/view/4478480099",
+   "title": "Customer Engineer, Application Modernization, Google Cloud",
    "company": "Google",
    "location": "Taipei, Taipei City, Taiwan",
+   "datePosted": "2026-10-14",
+   "salary": "None-None",
+   "jd": "Google welcomes people with disabilities. **Minimum qualifications:** * Bachelor's degree or equivalent practical experience. * 4 years of experience with cloud native architecture in a customer-facing or support role. * Experience with cloud engineering, on-premise engineering, virtualization, or containerization platforms. * Experience engaging with, or presenting to, technical stakeholders or executive leaders. **Preferred qualifications:** * Experience selling technical solutions in one or more of the following: infrastructure modernization, application modernization, data management, data analytics, cloud AI, networking, migrations, security. * Experience with security concepts (e.g., encryption, identity management, access control, attack vectors, pen-testing). * Experience migrating applications and services to cloud platforms. * Experience driving the entire business cycle (e.g., defining the delivery and consumption plan and transitioning it for execution). * Experience working with, the startup ecosystem, and with prospecting, building and maintaining new customer relationships from scratch, with excitement for building out Greenfield territories. * Experience building long-term technical strategies to uncover workloads with customers. **About The Job** The Google Cloud Platform team helps customers transform and build what's next for their business — all with technology built in the cloud. Our products are developed for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. Our teams are dedicated to helping our customers — developers, small and large businesses, educational institutions and government agencies — see the benefits of our technology come to life. As part of an entrepreneurial team in this rapidly growing business, you will play a key role in understanding the needs of our customers and help shape the future of businesses of all sizes use technology to connect with customers, employees and partners. As a Platform Customer Engineer (CE), you will partner with technical Sales teams to differentiate Google Cloud to the customers. You will serve as the customer’s primary technical partner and trusted advisor, engaging in technical-led conversations. You will troubleshoot technical questions and roadblocks, engage in proofs of concepts and demos, and use your expertise to architect cross-pillar cloud solutions that solve business challenges. You will drive the technical win and define the delivery and consumption plans. You will use your business acumen and presentation skills to engage with technical and business leaders, present solutions on Google Cloud. You will identify, pursue, and win new business workloads and drive engagement within existing ones. You will have technical expertise, spanning infrastructure modernization, application modernization, data analytics and more. You will blend business expertise, market knowledge and direct technical engagement to prove the value of the Google Cloud portfolio. Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems. **Responsibilities** * Develop and own the technical account plan and strategy, participate in planning and supporting business activities. * Combine sales, programming, and solutions architecture expertise to prove the value of Google Cloud Platform across the portfolio through complex demos, pilots and workshops. * Architect cross-pillar solutions, drive technical wins, and define initial delivery plans for customers, and continue to lead the technical engagement in the solution phase. * Facilitate the post-sales transition by supporting pricing activities and transition the final delivery plan to implementation teams. * Maintain awareness of progress against the delivery plan, provide support to cross-functional teams during ramp, delivery, migration or implementation phases. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .",
+   "keywords": [
+    "digital transformation"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4479551088",
+   "title": "Solutions Architect",
+   "company": "TradeBeyond",
+   "location": "Taipei, Taipei City, Taiwan",
+   "datePosted": "2026-10-14",
+   "salary": "None-None",
+   "jd": "For more than 20 years, **TradeBeyond** has been advancing a more efficient, responsible supply chain. Responding to retail sourcing’s need for smarter, automated workflows and data transparency, we developed the industry’s leading supply chain platform, CBX, which is relied on by many of the largest brands and retailers around the world. As consumers, businesses, and governments alike have increased their commitment to sustainability, Fortune 500 companies such as The Home Depot, REI, Safeway, Lidl, and Lululemon have turned to TradeBeyond to help optimize product development, manage suppliers, reduce waste, and improve quality and compliance. Learn more at TradeBeyond.com **About the Role** TradeBeyond provides a supply chain IT solution platform that goes beyond a traditional Product Lifecycle Management (PLM) solution for large retail corporations. We are seeking a Senior Solution Architect to join our global organization to drive our product vision, roadmap and architecture, as well as to advise clients on adoption of our technology solution. The ideal candidate will bring experience leading the design and implementation of enterprise-grade solutions for large retail corporations, as well as experience leading and guiding solution architects and consultants. **Responsibilities:** * Partner closely with Account Executives to drive qualified enterprise opportunities through the sales cycle, from discovery to successful close. * Lead discovery sessions to understand customer business challenges, priorities and success criteria. * Develop and deliver compelling, business-led product demonstrations tailored to each customer's objectives and use cases. * Position TradeBeyond's platform by clearly articulating business value, competitive differentiation and measurable customer outcomes. * Help to build and maintain high-quality demonstration environments, data and supporting materials that showcase TradeBeyond's capabilities. * Support customer workshops, proof of concepts, RFI/RFP responses and other solution validation activities. * Collaborate with Product, Professional Services and Customer Success to ensure proposed solutions are aligned with customer requirements and implementation best practices. * Contribute to opportunity strategy by identifying risks, recommending solution approaches and supporting successful deal progression. * Share customer and market insights with Product and Marketing to help influence messaging, positioning and future product development. * Contribute to the continuous improvement of Solution Consulting methodologies, reusable assets, demo content and best practices. * Support the enablement of Sales teams through product knowledge, industry expertise and solution coaching. * Maintain accurate opportunity information and customer engagement activities within CRM and other internal systems. * Represent Solution Consulting in customer meetings, internal initiatives and cross-functional projects, contributing to the continued growth of the function. **Requirements** * 5+ years' experience in a Solution Consulting, Sales Engineering or Pre-Sales role supporting enterprise software sales. * Proven ability to lead customer discovery sessions and deliver compelling, business-focused product demonstrations. * Experience supporting complex, consultative B2B sales cycles alongside Account Executives. * Experience working with software that supports retail, supply chain, sourcing, product development, supplier management, quality, compliance or related business processes. * Excellent presentation, communication and stakeholder management skills, with the ability to engage both business and technical audiences. * Ability to translate customer challenges into business value and solution outcomes. * Comfortable working independently while collaborating effectively within a global, cross-functional team. * Fluent spoken English and Mandarin * Eligible to work in Taipei without sponsorship * Willingness to travel as required to support customers, events and internal meetings. You will have an advantage if you have: * Experience working directly with retailers, brands, manufacturers or suppliers. * Deep knowledge of product development, sourcing, supplier management, quality, compliance or broader supply chain business processes. * Experience building and maintaining demonstration environments, demo data and reusable demonstration assets. **TradeBeyond Offers** You will work in a flat and open team environment where your experience and expertise are valued. You will work in partnership with a leadership team who have profound domain knowledge in their functional areas and are keen to work with you to continuously make positive impacts for our customers and employees. Externally, you will be engaging with a client network on a global footprint. We offer competitive compensation in a dynamic, high growth and global environment. At TradeBeyond, we value the diversity of our employees and partners. We believe that our company thrives when we support and celebrate our differences. Interested parties, please apply together with resume, stating current and expected salary, and send it via APPLY NOW. ***We are an equal opportunity employer and welcome applications from all qualified candidates. All information provided by applicants will be treated in strictest confidence and handled confidentially for recruitment-related purposes within the company and our associated company. Applicants may be considered for other suitable positions within the company over a one-year period, after which their personal data will be destroyed***",
+   "keywords": [
+    "digital transformation"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4479518102",
+   "title": "GenAI Specialist Solutions Architect, Solutions Architecture",
+   "company": "Amazon Web Services (AWS)",
+   "location": "Taipei, Taipei City, Taiwan",
+   "datePosted": "2026-10-14",
+   "salary": "None-None",
+   "jd": "nan",
+   "keywords": [
+    "digital transformation",
+    "AI implementation"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4476492950",
+   "title": "IT- SAP FI/CO SR System Analyst",
+   "company": "SHL Medical",
+   "location": "Taoyuan City, Taoyuan City, Taiwan",
+   "datePosted": "2026-10-14",
+   "salary": "None-None",
+   "jd": "**Company Overview** SHL Medical is the world-leading solution provider in the design, development, and manufacturing of advanced drug delivery systems with more than 5000 employees worldwide. Our customers include top pharmaceutical and biotech companies from around the globe that require innovative devices such as auto injectors or pen injectors to effectively deliver their drugs. Headquartered in Switzerland since late 2018, with sites in Sweden, Taiwan, and the Unites States. **Job Overview** SHL Medical is a world-leading solution provider in the design, development and manufacturing of advanced drug delivery systems, with more than 5,000 employees worldwide. Our customers include leading pharmaceutical and biotech companies who rely on innovative delivery devices such as auto injectors and pen injectors. Headquartered in Switzerland, SHL continues to expand globally, with Taiwan serving as a key innovation and operational hub. The IT Finance Competence Center (FICC) is responsible for delivering and governing enterprise finance solutions, ensuring standardized processes, system integration, and scalable capabilities across the organization. The team plays a critical role in supporting global finance operations, digital transformation, and compliance with corporate governance standards. The SAP Functional Sr Analyst (FI/CO Focus) is a key member of the FICC team in SHL Medical's global IT organization, responsible for supporting, enhancing, and driving SAP Financial Accounting and Controlling capabilities across regions. This role acts as a subject matter expert for SAP FI-related global initiatives while also supporting CO-related process alignment, system enhancements, rollouts, and continuous improvement activities. This role helps standardize finance and controlling processes, strengthen cross-regional alignment, and enable scalable business operations at a global level. **Main Responsibilities** **SAP Finance Operations** * Support finance daily operations within SAP and other supporting digital systems, including period-end and year-end closing activities on a global level. * Provide expert-level support for SAP FI modules (AP/AR/GL/AA) and solid functional support for SAP CO processes, with general understanding of manufacturing and supply chain processes. * Ensure financial posting accuracy, general ledger integrity, and alignment between FI and CO processes, including costing-related support where applicable. **System Enhancement & Solution Delivery** * Drive and support global SAP FI/CO enhancement and rollout initiatives by coordinating requirements, testing, documentation, and stakeholder communication across regions. * Evaluate, shape, and implement enhancement/change requests raised by global and local business stakeholders, providing process solutions aligned with SAP best practices and enterprise standards. * Contribute to global solution and process design discussions to ensure SAP FI/CO solutions are practical, scalable, well-aligned with business requirements, and effectively implemented across sites. * Support data migration activities as part of system implementation or upgrade initiatives. * Promote harmonized SAP FI/CO processes by identifying regional gaps, facilitating alignment with global templates, and supporting adoption of standardized solutions. **User Support & Training** * Provide user training for both daily operations and newly deployed enhancement projects. * Contribute to ongoing support across other SAP modules based on business needs. **Continuous Improvement & Stakeholder Management** * Drive global continuous improvement initiatives for finance processes, identifying automation, standardization, and efficiency opportunities across business units. * Administrate and support OpenText Vendor Invoice Management (VIM) integration with SAP. * Manage SAP Concur administration as needed. * Maintain strong communication across regional business units, global IT teams, and external vendors; support prioritization and delivery coordination for SAP FI/CO-related global initiatives. **Required Skills & Qualifications** * Mandatory (Must — max 5): + 8+ years of experience supporting SAP FI/CO modules, including GL/AP/AR/AA, SAP S/4HANA Financial Accounting configuration, and CO processes such as cost center accounting, internal orders, profit center accounting, and product costing. + Experience supporting global SAP FI/CO enhancement and roll-out initiatives in a multinational environment, including requirements gathering, testing coordination, stakeholder communication, and cross-regional alignment. + Good understanding of OpenText Vendor Invoice Management (VIM) and its integration with SAP. + Ability to review SAP technical logic and support issue analysis by interpreting ABAP code and debugging. + Strong communication and influencing skills, with the ability to drive alignment across global and regional stakeholders in a matrix organization. **Desirable (Nice To Have)** * General knowledge of manufacturing processes and supply chain. * Experience with SAP Concur. * Experience working with formal project delivery processes is a plus. * Exposure to global process harmonization initiatives in an international or matrix organization is a plus. **Relevant Qualification / Education & Training** * Bachelor's degree or above in Accounting, Finance, Information Systems, Computer Science, or a related field. * SAP certification or relevant SAP training is a plus. **Language Skills** **Mandatory (Must):** * Fluent in both English and Mandarin Chinese. * Additional language skills are a plus. **Desirable (nice to have)** * Knowledge of SAP S/4HANA CO and PS modules. * Proven experience working in multinational corporations within matrix organizational structures. * Knowledge of data migration, reporting, and analytics tools. * SAP certifications and familiarity with project management tools. **We Offer** * An exciting opportunity in a fast-growing international medical device company * A modern working environment, with multicultural and dynamic teams * Flexible working hours",
+   "keywords": [
+    "digital transformation"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4476417393",
+   "title": "Business Analyst (Insurance Sector)",
+   "company": "Infosys",
+   "location": "Taipei, Taipei City, Taiwan",
    "datePosted": "2026-10-13",
+   "salary": "None-None",
+   "jd": "**About Infosys** Infosys is a global leader in next-generation digital services and consulting. We enable clients in 56+ countries to navigate their digital transformation. With over four decades of experience in managing the systems and workings of global enterprises, we expertly steer our clients through their digital journey. We do it by enabling the enterprise with an AI-powered core that helps prioritize the execution of change. We also empower the business with agile digital at scale to deliver unprecedented levels of performance and customer delight. Our always-on learning agenda drives their continuous improvement through building and transferring digital skills, expertise, and ideas from our innovation ecosystem. Visit www.infosys.com to see how Infosys (NYSE: INFY) can help your enterprise navigate your next. **Responsibilities** * Gather and analyze business requirements for application and database migration activities. * Translate business needs into clear specifications, workflows and documentation. * Collaborate with development, testing, architecture and infrastructure teams. * Support testing cycles with scenario preparation, validation and requirement traceability. * Prepare business documents, user guides and communication materials. * Ensure business requirements align with quality expectations and acceptance criteria. **Skills/Competencies** * Background in Information Technology, Business or related fields. * Experience in business analysis for enterprise systems or migration initiatives. * Strong analytical skills with the ability to interpret complex business scenarios. * Excellent communication and team collaboration abilities. * Knowledge of system workflows, integration behavior and testing support. **Additional Skills** * Excellent customer interfacing skills. * Excellent written and verbal communication skills. * Strong attention to detail and strong problem-solving skills. * English,Taiwanese language is required. **EEO Statement** At Infosys, we recognize that everyone has individual requirements. If you are a person with disability, illness, or injury and require adjustments to the recruitment and selection process, please contact our Recruitment team for adjustment either via the following email Infosys\\_ta@infosys.com or call 1-866-472-0935. Alternatively, you can include your preferred method of communication in email, and someone will be in touch. Please note in order to protect the interest of all parties involved in the recruitment process, Infosys does not accept any unsolicited resumes from third-party vendors. In the absence of a signed agreement, any submission will be deemed as non-binding and Infosys explicitly reserves the right to pursue and hire the submitted profile. All recruitment activity must be coordinated through the Talent Acquisition department. “All aspects of employment at Infosys are based on merit, competence and performance. We are committed to embracing diversity and creating an inclusive environment for all employees. Infosys is proud to be an equal opportunity employer.”",
+   "keywords": [
+    "digital transformation"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4478841274",
+   "title": "Forward Deployed Engineer / Solutions Engineer",
+   "company": "IrisGo",
+   "location": "Taipei, Taipei City, Taiwan",
+   "datePosted": "2026-10-15",
    "salary": "None-None",
    "jd": "nan",
    "keywords": [
@@ -313,106 +419,107 @@
   },
   {
    "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4478412127",
-   "title": "PM (Manager to Sr. Manager) - WIFI/ Bluetooth/ 無線通訊 (Embedded/ 林口園區)",
-   "company": "Advantech",
-   "location": "New Taipei City, Taiwan",
-   "datePosted": "2026-10-14",
+   "url": "https://www.linkedin.com/jobs/view/4479760550",
+   "title": "Category Planning & Activation Manager",
+   "company": "Mondelēz International",
+   "location": "Taipei, Taipei City, Taiwan",
+   "datePosted": "2026-10-15",
    "salary": "None-None",
    "jd": "nan",
    "keywords": [
-    "經營企劃"
+    "經營企劃",
+    "策略規劃"
    ]
   },
   {
    "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4476617028",
+   "url": "https://www.linkedin.com/jobs/view/4479766147",
    "title": "(MB10)專案與產品規劃工程師(PM)",
    "company": "Nuvoton Technology Corporation",
    "location": "Zhubei City, Taiwan, Taiwan",
+   "datePosted": "2026-10-15",
+   "salary": "None-None",
+   "jd": "工作說明 * 市場趨勢分析及市場策略 * 規劃MCU產品計畫 * 跨團隊協調資源並執行計畫 * Market trend analysis and market strategy. * Planning MCU product projects. * Coordinating resources across teams and executing plans. 教育程度 碩士 管理責任 否 工作經驗 3-5 年 5-10 年 工作技能 * 研究所以上，電子電機計算機相關領域尤佳 * 至少3年以上產品管理工作經驗, IC晶片設計，MCU相關產業領域尤佳 3 熟悉市場管理與行銷技巧 (行銷活動企劃,定價策略,等…) * 良好人際溝通技巧 * 自我驅動 創造力及量化思維, 市場敏銳，觀察力與洞察力 * 流利英文，日文韓文加分 * 需配合出差，一年累積兩個月以下 * Master's degree or above in the field of electronics, electrical engineering, or computer science. * Minimum of 2 years of product management experience, preferably in IC chip design and the MCU industry. * Familiarity with market management techniques such as marketing campaign planning and pricing strategies. * Excellent interpersonal communication skills. * Self-driven with creativity, quantitative thinking, market sensitivity, observation skills, and insight. * Fluent in English, with knowledge of Japanese or Korean as a plus. * Willingness to travel, with a maximum of two months of accumulated travel per year.",
+   "keywords": [
+    "經營企劃"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4478420665",
+   "title": "Head of Supply Chain",
+   "company": "APP Group",
+   "location": "Taipei City, Taiwan",
    "datePosted": "2026-10-14",
    "salary": "None-None",
-   "jd": "nan",
+   "jd": "**About Asia Pulp & Paper and Golden Century Paper** **Asia Pulp & Paper (APP)** is one of the **world’s largest integrated paper group** with over 100,000 employees. APP products are sold in over 150 countries worldwide with manufacturing units around the world. **Golden Century Paper** , a dynamic member of the Asia Pulp & Paper (APP) family, has been enriching lives through our PASEO, Virjoy and Livi tissue products in Taiwan since 2009. Our vertically integrated business model ensures unmatched competitiveness, from seedling growth to product processing. Our mission is to uplift lives with quality tissue products, making every day a bit more comfortable and enjoyable. **Position Overview** We are seeking an experienced SCM Head to oversee and manage our supply chain operations in Taiwan.The SCM Head oversees end-to-end operations, from raw material import to final product delivery. This role balances strategic planning with real-time problem-solving to optimize inventory flow, manufacturing schedules, line capacities, and vendor relations for seamless execution. **Responsibilities** * Lead the Sales and Operations Planning (S&OP) process to effectively align and balance market demand with supply capacities. * Establish, review, and supervise master production schedules and material control plans to ensure seamless manufacturing execution. * Allocate work orders strategically based on production line capacities, machinery limits, and timeline constraints. * Monitor daily manufacturing output and resolve production bottlenecks or schedule disruptions in real time. * Set strategic inventory targets and oversee the flow and levels of both raw materials and finished goods to optimize carrying costs. * Manage global import processes and logistics operations to ensure the department consistently meets warehouse management, cost, and delivery targets. * Oversee raw material requirements planning and coordinate supplier deliveries to prevent production downtime. * Conduct on-site factory visits to evaluate outsourcing capacities, negotiate yield rates, and discuss new product capacities. * Manage supply chain risks, coordinate rapid responses to major disruptions, and drive continuous system, project, and workflow improvements. * Lead cross-departmental alignment for product launches, approve key purchase requisitions, manage budgets, and oversee the execution of weekly/monthly performance reports. **Qualifications** * Hands-on experience managing supply chain operations. FMCG or manufacturing industry experience is preferred. * Strong understanding of business needs. Demonstrated mindset of continuous improvement. * Strong interpersonal and communication skills with a collaborative, team-oriented approach. * **Language:** Fluent in English is a plus.",
    "keywords": [
     "經營企劃"
    ]
   },
   {
    "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4479040546",
-   "title": "General Manager - Apparel Merchandising",
+   "url": "https://www.linkedin.com/jobs/view/4479282963",
+   "title": "【凱基銀行/金融科技處.科技創新部】科技策略規劃人員",
+   "company": "凱基銀行 KGI Bank",
+   "location": "Taipei–Keelung Metropolitan area",
+   "datePosted": "2026-10-14",
+   "salary": "None-None",
+   "jd": "Join us to build a leading financial company in Asia! Job Family 數位創新/Digital and Innovation (Job Family) **Job Description** **[工作職掌]** * 數位科技趨勢研究與政策執行管理 * 執行創新技術可行性評估與 PoC 驗證實作 * 追蹤專案執行進度與跨單位溝通協調 * FinTech 合作夥伴評估與技術導入執行 **[需求條件]** * 具備策略規劃、跨部門溝通、需求訪談與系統分析能力，能將業務需求轉化為技術流程圖或功能規格 * 具備數位轉型、產品、AI導入經驗 3.3年以上金融或科技產業數位轉型、產品、AI導入經驗 Education – Degree / Field of Study Work Shift 正常工時 (Regular) - 需打卡 (Taiwan)",
+   "keywords": [
+    "策略規劃"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4479296093",
+   "title": "Product Manager - Oncology",
    "company": "Michael Page",
    "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-10-13",
+   "datePosted": "2026-10-14",
    "salary": "None-None",
-   "jd": "nan",
+   "jd": "* \\* Lead a high-impact oncology brand with exciting launch opportunities * \\* Partner with regional and global teams to shape market strategy **About Our Client** A global healthcare company committed to advancing innovative therapies and improving patient outcomes. The organisation offers a collaborative environment with strong investment in specialty care and oncology. **Job Description** * Ensure compliance with industry regulations and company policies.Develop and execute marketing and brand strategies to achieve business objectives * Lead product lifecycle management and upcoming launch preparations * Analyse market trends, customer insights, and competitive intelligence * Generate accurate forecasts through internal and external market data * Align local strategies with regional and global brand direction * Monitor brand performance and optimise initiatives based on market feedback * Manage resources and marketing investments with a focus on ROI * Build relationships with key opinion leaders and external stakeholders * Collaborate closely with Sales, Medical, Market Access, Supply Chain, and Commercial teams * Partner with regional and global colleagues to drive business success **The Successful Applicant** * Bachelor's degree in Life Sciences, Pharmacy, Medicine, Biology, or related field * MBA or Master's degree is a plus * Minimum 2 years of pharmaceutical marketing experience * Oncology experience required; prostate cancer experience preferred * Experience in specialty care products is advantageous * Proven success in product launch and brand management * Strong analytical, strategic, and communication skills * Results-oriented with the ability to manage multiple priorities * Fluent in Mandarin with good written and spoken English **What's on Offer** * Opportunity to manage a strategic oncology portfolio * Exposure to high-profile product launches **Quote job ref: JN-102026-7125302**",
    "keywords": [
-    "經營企劃"
+    "策略規劃"
    ]
   },
   {
    "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4478769441",
-   "title": "Manager, Product Strategy, Innovation and Transformation",
-   "company": "PCA Life Assurance Co Ltd. (保誠人壽)",
+   "url": "https://www.linkedin.com/jobs/view/4479541450",
+   "title": "Marketing Lead - Food Serivce",
+   "company": "Michael Page",
    "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-10-13",
+   "datePosted": "2026-10-14",
    "salary": "None-None",
-   "jd": "nan",
+   "jd": "* Stable business with harmonious working environment * Market leader with proud of the brand **About Our Client** Our client is a leading global foodservice solutions provider serving professional chefs, restaurants, hotels, and catering operators. They are now looking for a sophisticated Marketing Lead to shapre their marketing strategy in Taiwan. **Job Description** * Develop and execute comprehensive marketing strategies and annual business plans aligned with regional priorities and local market opportunities. * Drive sustainable category growth, strengthen brand equity, and expand market share through effective portfolio and channel strategies. * Identify growth opportunities and translate market trends into actionable business initiatives. * Lead portfolio strategy, product lifecycle management, and innovation pipelines. * Ensure successful execution of new product launches and business initiatives from concept through commercialization. * Drive customer relevance and differentiation through strong product propositions and market-focused innovation. * Establish and maintain strong relationships with agencies, media partners, industry associations, key customers, and strategic partners. * Represent the organization within relevant industry forums and business networks. * Lead the development and execution of integrated marketing campaigns across multiple channels. * Accelerate digital marketing capabilities, leveraging data and technology to enhance customer engagement and campaign effectiveness. * Build organizational capabilities to support long-term business growth. **The Successful Applicant** * 10+ years of progressive marketing experience, including leadership positions within FMCG, foodservice, hospitality, or related industries. * Familiar with Food service channels including HORECA, chain restaurants as well as distributor management * Strong track record in developing and executing strategic marketing plans that deliver measurable business results. * Deep expertise in digital marketing, customer engagement, and data-driven marketing approaches. * Strong understanding of Taiwan's foodservice landscape, customer behaviors, and market dynamics. * Proven ability to lead and develop teams while influencing stakeholders across a matrix organization. * Strong commercial acumen, analytical capabilities, and project management skills. * Excellent communication, presentation, and stakeholder management skills. * Fluent in both Mandarin and English. **What's on Offer** * Competitive salary package and benefits * Strong ownership of marketing strategy in Taiwan * Collaborative and supportive company culture **Quote job ref: JN-102026-7124410**",
    "keywords": [
-    "經營企劃"
+    "策略規劃"
    ]
   },
   {
    "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4477980218",
-   "title": "(4477980218)經管採購分析副理",
-   "company": "Wonderland Group",
+   "url": "https://www.linkedin.com/jobs/view/4478424862",
+   "title": "Market Access Manager",
+   "company": "Stryker",
    "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-10-13",
+   "datePosted": "2026-10-14",
    "salary": "None-None",
-   "jd": "nan",
+   "jd": "**About the job:** The Market Access Manager is responsible for developing and executing market access, reimbursement, and pricing strategies to ensure successful adoption and sustainable business growth of the company’s portfolio in Taiwan. This role serves as the key bridge between government authorities, hospital decision-makers, clinical leaders, and internal cross-functional teams to secure optimal reimbursement pathways and to maximize patient access while strengthening the value proposition of innovative technologies. **What you will be doing:** * Market Access & Reimbursement Strategy * Develop local market access strategies for new product introductions (NPI) and existing products. * Lead reimbursement applications * Evaluate regulatory and reimbursement trends, identify potential access risks/opportunities, and propose strategic actions. * Ensure alignment with global and regional market access frameworks. * Health Economics & Value Communication * Develop, adapt, commission, or critically evaluate value dossiers and health economic analyses, including budget impact and cost-effectiveness models * Translate clinical and economic evidence into hospital-friendly value propositions * Support internal teams with economic messaging for tenders, pricing, and value-based selling. * Stakeholder Engagement * Build strong relationships with National Health Insurance Administration (NHIA) and relevant HTA stakeholders, medical societies and clinical leaders * Conduct stakeholder mapping and engagement plans to influence access policies and hospital decision-making. * Collaborate with KOLs to support clinical evidence generation that strengthens reimbursement position. * Pricing & Tender Strategy * Lead local pricing strategy design based on competitive landscape, tender structure, and reimbursement status. * Provide pricing guidance to the sales team and evaluate tender opportunities to maximize profitability. * Manage price governance and ensure compliance with internal approval processes. * Cross-functional Collaboration * Partner with RA/QA, Clinical/Medical Affairs, Marketing, Sales, and Finance to ensure aligned market access execution. * Partner with Region, Division, and Corporate Market Access, Health Economics and Outcomes Research, Clinical, Medical, Regulatory, and Government Affairs teams to address complex access challenges in Taiwan and partner on market access requirements for NPD. * Participate in business planning, forecast discussions, and NPI commercialization processes as the Market Access representative. * Support data collection for HTA, post-market studies, and real-world evidence (RWE). * Policy Monitoring & Advocacy * Track reimbursement policy changes, DRG updates, NHI budget planning, and procurement regulations. * Develop advocacy proposals with medical societies and external stakeholders to support patient access and technology adoption. * Provide timely and concise updates to Taiwan, Region, Division, and Corporate leadership, including recommended actions and business implications **Who are we looking for:** * Bachelor’s degree in health economics, public health, health policy, epidemiology, pharmacy, medicine, biomedical engineering, life sciences, economics, statistics, or another relevant discipline * Master’s degree in health economics, public health, health policy, epidemiology, outcomes research, business administration, or a related field is preferred * Formal training or demonstrated experience in health technology assessment, evidence-based medicine, economic evaluation, outcomes research, or evidence synthesis is strongly preferred * Minimum 10 years’ experience in market access, reimbursement, government affairs, health economics, or pricing within medical device, pharmaceutical, or healthcare consulting. * Experience in NHI reimbursement applications or hospital tender processes is a strong advantage. * Strong understanding of Taiwan NHI system, reimbursement pathways, and hospital procurement mechanisms. * Ability to translate complex evidence into clear reimbursement strategies, value propositions, executive recommendations, and stakeholder communications. * Strategic thinking with strong communication and negotiation skills. Demonstrated ability to build trusted relationships with commercial stakeholders, healthcare professionals, government stakeholders, and cross-functional partners. * Fluency in Mandarin Chinese and English, including the ability to review technical evidence and communicate effectively with local, regional, and global stakeholders. Stryker is a global leader in medical technologies and, together with its customers, is driven to make healthcare better. The company offers innovative products and services in MedSurg, Neurotechnology, Orthopaedics and Spine that help improve patient and healthcare outcomes. Alongside its customers around the world, Stryker impacts more than 150 million patients annually.",
    "keywords": [
-    "經營企劃"
+    "策略規劃"
    ]
   },
   {
    "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4477581931",
-   "title": "PCB Supply Chain Program Manager",
-   "company": "Google",
-   "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-10-12",
+   "url": "https://www.linkedin.com/jobs/view/4479504215",
+   "title": "Sr. Product Manager",
+   "company": "Supermicro",
+   "location": "New Taipei City, New Taipei City, Taiwan",
+   "datePosted": "2026-10-14",
    "salary": "None-None",
-   "jd": "Google welcomes people with disabilities. **Minimum qualifications:** * Bachelor's degree in Data Analytics, Supply Chain Analytics, Industrial Engineering, or a related technical field, or equivalent practical experience. * 4 years of experience in multi-disciplined procurement, leading strategy development, execution and sourcing or a related function. **Preferred qualifications:** * 3 years of experience in building scalable data models, database schemas, and pipelines. * Experience building demand/supply models, CTB trackers, operation performance via Material Requirements Planning (MRP)/ERP/Kinaxis/E2Open data analysis. * Expert proficiency in SQL and Python for data transformation, automation, and analytics. **About The Job** Commodity Managers work with Engineering teams to make sure Google has the supplies and equipment to put into production the innovative products coming from our Engineering teams. As a Commodity Manager, you use your wide industry knowledge and strategic supplier relationships to optimize our total cost of ownership for our global -- and growing -- infrastructure. The scale at which Google operates means that savings on just one piece of hardware can have a huge impact on Google's bottom line. Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google's product portfolio possible. We're proud to be our engineers' engineers and love voiding warranties by taking things apart so we can rebuild them. We keep our networks up and running, ensuring our users have the best and fastest experience possible. **Responsibilities** * Model multi-tier supply assurance, allocation splits, and buffer health across New Product Introduction (NPI)/sustaining lifecycles using predictive analytics to preempt bottlenecks. * Establish high-fidelity Clear-to-Build (CTB) dashboards to proactively identify allocation gaps, yield fluctuations, material risks, supplier lead-time drift, etc. * Architect scalable planning models reconciling aggregate forecasts with tier-1 fab capacity, tier-2 material constraints, and multi-source Enterprise Resource Planning (ERP)/Kinaxis/E2Open data. * Build automated pipelines tracking daily production line utilization, Work-in-Progress (WIP) stages, lot throughput, and supplier delivery adherence. * Partner with sourcing, engineering, and contract manufacturers to implement AI/agent-driven readiness frameworks, standardize taxonomies, and streamline workflows. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .",
+   "jd": "****Job Req ID: 30199**** **About Supermicro** Supermicro® is a Top Tier provider of advanced server, storage, and networking solutions for Data Center, Cloud Computing, Enterprise IT, Hadoop/ Big Data, Hyperscale, HPC and IoT/Embedded customers worldwide. We are the #5 fastest growing company among the Silicon Valley Top 50 technology firms. Our unprecedented global expansion has provided us with the opportunity to offer a large number of new positions to the technology community. We seek talented, passionate, and committed engineers, technologists, and business leaders to join us. **Essential Duties And Responsibilities** * Develop strategies to activate, engage and retain customers (channel customers and DC customers) * Develop trigger campaigns to improve engagement and purchase frequency * Analyze channel partners behavioral patterns and develop relevant promotion program * Create strategies to increase revenue and the frequency of repeat purchase * Support and enhance market, customer and vertical segmentation and establish a consistent process in engagement, communication and reward down the supply chain * Support sales team in new market segments/verticals development and engage server system products and services package in support of identified strategic market segments * Align regional focus to global strategy and direction **Qualifications** * Bachelor degree preferably in Engineering required. * MBA or Master’s Degree preferred in EE or Computer science * 7+ years of OEM/ODM/major account experience * Strong business management skills with the ability to plan and implement strategic and tactical programs. * Strong communication, organization, and problem solving skills. * Strong analytical skills with the ability to generate campaign and program analysis and derive insights to drive business actions. * Proven track record in business growth and development * Fluent in English (write and speak) * Experience collaborating with internal and external resources to develop strategies that meet department goals within budget and established timelines. * Thorough knowledge of sales and marketing operations. ****EEO Statement**** Supermicro is an Equal Opportunity Employer and embraces diversity in our employee population. It is the policy of Supermicro to provide equal opportunity to all qualified applicants and employees without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, protected veteran status or special disabled veteran, marital status, pregnancy, genetic information, or any other legally protected status.",
    "keywords": [
-    "經營企劃"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4478572286",
-   "title": "E-commerce Operations Manager",
-   "company": "Not Another Headhunting Company",
-   "location": "Taipei City, Taiwan",
-   "datePosted": "2026-10-12",
-   "salary": "None-None",
-   "jd": "This is the sole operations role for a growing consumer brand building out its Taiwan market, so you will own the entire operations function single-handedly rather than inherit an established team. The scope runs end to end: international import and product certification, inbound and outbound logistics, inventory planning, the D2C online store, and day-to-day customer experience. The core challenge is standing up reliable, data-driven operations in a lean environment — sharpening demand forecasting, lifting inventory turnover, and creating the automation and SOPs the function currently lacks. As the brand expands its sales channels, you will also assess warehouse capacity and lead cost improvement across inventory and logistics. **What You'll Do** * Own demand forecasting and inventory planning across all sales channels, continuously improving forecast accuracy, inventory turnover, and allocation while reducing stockouts and slow-moving stock * Manage international ordering, import, and customs clearance, including product inspection and certification applications such as BSMI and NCC * Run daily inbound and outbound operations, including shipping, receiving checks, and stock movements, and coordinate 3PL and logistics partners * Assess warehouse relocation or expansion as inventory volumes grow, and lead cost improvement across inventory and logistics * Operate the Shopify back office end to end, maintaining orders, product, and inventory data * Respond to customer inquiries daily and manage after-sales service, returns, exchanges, and complaints, while building SOPs, KPIs, and automation to raise efficiency **Core Essentials** * 5-7 years of experience in supply chain, logistics, or e-commerce operations * Hands-on ownership across import, inbound/outbound, and inventory management, with the ability to run the full operations process independently * Demonstrated experience in demand forecasting and inventory management * Proven experience managing 3PL or external logistics vendors * Strong Excel and data analysis skills, with the ability to turn operational data into concrete improvement proposals * Comfortable with daily hands-on execution and able to work proactively and independently in a small team * Able to read and write English to collaborate with an overseas headquarters **Bonus Skills** * Hands-on experience with the Shopify back office * Experience applying for product inspection and certification such as BSMI or NCC * Multi-channel inventory experience across marketplaces such as Shopee or momo * D2C online store background, or experience in process design, automation projects, or SOP building within a startup or small team We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses and identifying potential inconsistencies or verification signals in application materials based on available information. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us.",
-   "keywords": [
-    "經營企劃"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4475697130",
-   "title": "Senior Supply Chain Manager / Supply Chain Specialist",
-   "company": "PEGATRON",
-   "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-10-12",
-   "salary": "None-None",
-   "jd": "**工作內容：** 1. 負責產品供應鏈規劃與管理 2. 支援 RFQ 報價及 BOM Cost Analysis 3. 掌握關鍵零組件供應狀況，建立風險管理與缺料因應方案 4. 推動替代料導入及 Cost Down 專案 5. 參與 NPI 至 MP 量產各階段之供應鏈管理 6. 與 PM、RD、採購、工廠及供應商跨部門合作，確保專案順利量產 **優先條件:** 1. 5年以上 Supply Chain / Procurement / Program SCM 經驗尤佳 2. 具5G、ORAN、Telecom 或 Server產品經驗尤佳 3. 熟悉 RFQ、NPI、BOM Cost Analysis 4. 具缺料管理、供應商管理及風險控管能力 5. 具跨部門專案管理能力",
-   "keywords": [
-    "經營企劃"
+    "策略規劃"
    ]
   }
  ]
