@@ -1,8 +1,9 @@
 {
- "checked_at": "2026-10-12T01:09:42.359Z",
+ "checked_at": "2026-10-19T00:03:54.073Z",
  "summary": {
-  "open": 23,
-  "unknown": 32
+  "open": 21,
+  "unknown": 33,
+  "closed": 1
  },
  "results": [
   {
@@ -114,8 +115,8 @@
    "url": "https://www.linkedin.com/jobs/view/4423912300",
    "company": "NIQ",
    "title": "Strategic Analytics & Insights Analyst",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "unknown",
+   "evidence": "HTTP 429, thin content"
   },
   {
    "url": "https://www.linkedin.com/jobs/view/4379774988/",
@@ -380,8 +381,8 @@
    "url": "https://www.cake.me/companies/cathayins/jobs/health-and-injury-insurance-planner",
    "company": "國泰世紀產險",
    "title": "策略企劃人員",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "closed",
+   "evidence": "HTTP 404"
   },
   {
    "url": "https://www.104.com.tw/job/8nlax",
