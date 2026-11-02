@@ -1,8 +1,8 @@
 {
- "checked_at": "2026-10-26T00:01:04.802Z",
+ "checked_at": "2026-11-02T01:25:19.356Z",
  "summary": {
-  "open": 22,
-  "unknown": 32,
+  "open": 16,
+  "unknown": 38,
   "closed": 1
  },
  "results": [
@@ -17,15 +17,15 @@
    "url": "https://www.linkedin.com/jobs/view/4432081134/",
    "company": "TSMC",
    "title": "AI Product Manager",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "unknown",
+   "evidence": "HTTP 429, thin content"
   },
   {
    "url": "https://www.linkedin.com/jobs/view/4430418530/",
    "company": "Winbond",
    "title": "AI Enablement & Adoption PM",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "unknown",
+   "evidence": "linkedin authwall"
   },
   {
    "url": "https://www.104.com.tw/job/8bdt1",
@@ -129,8 +129,8 @@
    "url": "https://www.linkedin.com/jobs/view/4430899990/",
    "company": "OnRampLab",
    "title": "Product Manager",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "unknown",
+   "evidence": "HTTP 429, thin content"
   },
   {
    "url": "https://www.104.com.tw/job/8u56s",
@@ -178,8 +178,8 @@
    "url": "https://www.linkedin.com/jobs/view/4428489359/",
    "company": "KGI銀行",
    "title": "數位科技策略人才",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "unknown",
+   "evidence": "linkedin authwall"
   },
   {
    "url": "https://www.linkedin.com/jobs/view/4429775029/",
@@ -262,8 +262,8 @@
    "url": "https://www.linkedin.com/jobs/view/4439960346/",
    "company": "凱基證券",
    "title": "策略企劃及專案管理人員",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "unknown",
+   "evidence": "linkedin authwall"
   },
   {
    "url": "https://www.104.com.tw/job/87nzr",
@@ -283,8 +283,8 @@
    "url": "https://www.linkedin.com/jobs/view/4233477917",
    "company": "待確認",
    "title": "經營分析管理師",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "unknown",
+   "evidence": "linkedin authwall"
   },
   {
    "url": "https://www.linkedin.com/jobs/view/4431460650",
