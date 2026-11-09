@@ -1,8 +1,8 @@
 {
- "checked_at": "2026-11-02T01:25:19.356Z",
+ "checked_at": "2026-11-09T01:34:50.598Z",
  "summary": {
-  "open": 16,
-  "unknown": 38,
+  "open": 21,
+  "unknown": 33,
   "closed": 1
  },
  "results": [
@@ -17,15 +17,15 @@
    "url": "https://www.linkedin.com/jobs/view/4432081134/",
    "company": "TSMC",
    "title": "AI Product Manager",
-   "status": "unknown",
-   "evidence": "HTTP 429, thin content"
+   "status": "open",
+   "evidence": "HTTP 200, content ok"
   },
   {
    "url": "https://www.linkedin.com/jobs/view/4430418530/",
    "company": "Winbond",
    "title": "AI Enablement & Adoption PM",
-   "status": "unknown",
-   "evidence": "linkedin authwall"
+   "status": "open",
+   "evidence": "HTTP 200, content ok"
   },
   {
    "url": "https://www.104.com.tw/job/8bdt1",
@@ -129,8 +129,8 @@
    "url": "https://www.linkedin.com/jobs/view/4430899990/",
    "company": "OnRampLab",
    "title": "Product Manager",
-   "status": "unknown",
-   "evidence": "HTTP 429, thin content"
+   "status": "open",
+   "evidence": "HTTP 200, content ok"
   },
   {
    "url": "https://www.104.com.tw/job/8u56s",
@@ -178,8 +178,8 @@
    "url": "https://www.linkedin.com/jobs/view/4428489359/",
    "company": "KGI銀行",
    "title": "數位科技策略人才",
-   "status": "unknown",
-   "evidence": "linkedin authwall"
+   "status": "open",
+   "evidence": "HTTP 200, content ok"
   },
   {
    "url": "https://www.linkedin.com/jobs/view/4429775029/",
@@ -262,8 +262,8 @@
    "url": "https://www.linkedin.com/jobs/view/4439960346/",
    "company": "凱基證券",
    "title": "策略企劃及專案管理人員",
-   "status": "unknown",
-   "evidence": "linkedin authwall"
+   "status": "open",
+   "evidence": "HTTP 200, content ok"
   },
   {
    "url": "https://www.104.com.tw/job/87nzr",
@@ -283,8 +283,8 @@
    "url": "https://www.linkedin.com/jobs/view/4233477917",
    "company": "待確認",
    "title": "經營分析管理師",
-   "status": "unknown",
-   "evidence": "linkedin authwall"
+   "status": "open",
+   "evidence": "HTTP 200, content ok"
   },
   {
    "url": "https://www.linkedin.com/jobs/view/4431460650",
@@ -339,8 +339,8 @@
    "url": "https://www.linkedin.com/jobs/view/4428023387",
    "company": "Dell",
    "title": "Strategic BD Senior Consultant",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "unknown",
+   "evidence": "HTTP 429, thin content"
   },
   {
    "url": "https://www.104.com.tw/job/91f6i",
