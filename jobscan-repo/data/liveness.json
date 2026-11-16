@@ -1,8 +1,8 @@
 {
- "checked_at": "2026-11-09T01:34:50.598Z",
+ "checked_at": "2026-11-16T01:42:41.283Z",
  "summary": {
-  "open": 21,
-  "unknown": 33,
+  "open": 22,
+  "unknown": 32,
   "closed": 1
  },
  "results": [
@@ -339,8 +339,8 @@
    "url": "https://www.linkedin.com/jobs/view/4428023387",
    "company": "Dell",
    "title": "Strategic BD Senior Consultant",
-   "status": "unknown",
-   "evidence": "HTTP 429, thin content"
+   "status": "open",
+   "evidence": "HTTP 200, content ok"
   },
   {
    "url": "https://www.104.com.tw/job/91f6i",
