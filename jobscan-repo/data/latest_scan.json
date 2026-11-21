@@ -1,8 +1,8 @@
 {
- "merged_at": "2026-11-20T07:44:12Z",
+ "merged_at": "2026-11-21T07:39:12Z",
  "per_source": {
   "cake_new.json": {
-   "scanned_at": "2026-11-20T07:39:37.289Z",
+   "scanned_at": "2026-11-21T07:35:06.187Z",
    "total_listed": 0,
    "new_count": 0,
    "group_stats": {
@@ -89,7 +89,7 @@
    }
   },
   "104_new.json": {
-   "scanned_at": "2026-11-20T07:41:20Z",
+   "scanned_at": "2026-11-21T07:36:51Z",
    "total_listed": 0,
    "new_count": 0,
    "group_stats": {
@@ -104,9 +104,9 @@
    }
   },
   "jobspy_new.json": {
-   "scanned_at": "2026-11-20T07:44:12Z",
-   "total_listed": 88,
-   "new_count": 20,
+   "scanned_at": "2026-11-21T07:39:12Z",
+   "total_listed": 83,
+   "new_count": 11,
    "group_stats": {
     "linkedin:business operations": 25,
     "indeed:business operations": 0,
@@ -114,15 +114,15 @@
     "indeed:chief of staff": 0,
     "linkedin:strategy and operations": 25,
     "indeed:strategy and operations": 0,
-    "linkedin:digital transformation": 25,
-    "indeed:digital transformation": 11,
-    "linkedin:AI implementation": 25,
-    "indeed:AI implementation": 6,
+    "linkedin:digital transformation": 0,
+    "indeed:digital transformation": 8,
+    "linkedin:AI implementation": 20,
+    "indeed:AI implementation": 8,
     "linkedin:經營企劃": 25,
     "indeed:經營企劃": 0,
-    "linkedin:策略規劃": 10,
-    "indeed:策略規劃": 1,
-    "linkedin:AI導入": 20,
+    "linkedin:策略規劃": 25,
+    "indeed:策略規劃": 8,
+    "linkedin:AI導入": 10,
     "indeed:AI導入": 0
    }
   }
@@ -132,44 +132,17 @@
   "cake_new.json: total_listed=0，橫跨全部 8 組關鍵字 — 極可能是被封鎖或解析失敗，不是真的零筆新職缺",
   "104_new.json: total_listed=0，橫跨全部 8 組關鍵字 — 極可能是被封鎖或解析失敗，不是真的零筆新職缺"
  ],
- "new_count": 20,
+ "new_count": 11,
  "new_jobs": [
   {
    "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4491685852",
-   "title": "Business Operations Specialist",
-   "company": "Diebold Nixdorf",
+   "url": "https://www.linkedin.com/jobs/view/4492954179",
+   "title": "Merchant Operations Manager, Offers Product & Affordability",
+   "company": "Uber",
    "location": "Taipei City, Taiwan",
    "datePosted": "2026-11-20",
    "salary": "None-None",
-   "jd": "**Job Description** We are seeking a highly organized and detail-oriented professional to support operational processes, business transactions, data administration, and cross-functional coordination activities across the organization. The role works closely with internal stakeholders, customers, and regional teams to ensure accurate execution of business transactions, data integrity, and efficient process delivery. The successful candidate will leverage ERP systems and business tools to support daily operations and contribute to process improvement initiatives within a multinational environment. **Responsibilities** **Key Responsibilities** **Operations & Transaction Support** * Support day-to-day operational and transaction-related activities in accordance with established procedures. * Ensure business transactions are processed accurately, completely, and within agreed timelines. * Investigate, resolve, or escalate operational issues and transaction discrepancies when required. * Maintain supporting documentation and records to ensure process accuracy and traceability. **ERP & Data Management** * Utilize ERP systems and business applications to process, maintain, and validate business information. * Monitor and maintain data accuracy across systems and reports. * Identify data discrepancies and coordinate with relevant stakeholders to ensure timely resolution. * Generate and maintain operational reports to support business activities and decision-making. **Process Coordination & Stakeholder Support** * Coordinate with internal teams, customers, and external stakeholders to support smooth execution of operational processes. * Facilitate communication and follow-up activities related to transactions, operational requests, and issue resolution. * Support process documentation and standardization efforts across business functions. * Participate in process improvement initiatives to enhance efficiency and service quality. **Governance & Compliance** * Support adherence to company policies, procedures, and operational requirements. * Maintain accurate records and documentation to support internal controls and audit readiness. * Assist with operational reviews and compliance-related activities when required. **Qualifications** **Required Qualifications** * 3+ years of experience in Finance Operations, Shared Services, Business Operations, Order Management, Customer Operations, Accounting Support, or related functions. * Experience working with ERP systems (e.g. SAP, Oracle, Microsoft Dynamics, or similar platforms). * Experience supporting transaction processing, operational administration, reporting, or business process coordination. * Strong analytical skills with attention to detail and data accuracy. * Ability to prioritize tasks and manage multiple activities in a fast-paced environment. * Good written English communication skills. * Proficiency in Microsoft Excel and other business applications. * Experience working in multinational or regional environments is an advantage. **About Us** *Why should you join Diebold Nixdorf?* *Brightest minds + technology and innovation + business transformation The people of Diebold Nixdorf are 23,000+ teammates of diverse talents and expertise in more than 130 countries, harnessing future technologies to deliver personalized, secure consumer experiences that connect people to commerce. Our culture is fueled by our values of collaboration, decisiveness, urgency, willingness to change, and accountability.* *–Diebold Nixdorf is an equal opportunity employer and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, gender identity, age, marital status, veteran status, or disability status.* * To all recruitment agencies: Diebold Nixdorf does not accept agency resumes. Please do not forward resumes to our jobs alias, Diebold Nixdorf employees or any other organization location. Diebold Nixdorf is not responsible for any fees related to unsolicited resumes\\*\\* *We are a global Company operating in multiple Locations and Entities. As we are keen to find the best solution for our candidates several legal entities might be applicable for a Job offer. A List of our operating entities can be found* *here -* *https://www.dieboldnixdorf.com/en-us/about-us/global-locations*",
-   "keywords": [
-    "business operations"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4492551806",
-   "title": "平台營運經理 Platform Operations Manager",
-   "company": "Hahow 好學校",
-   "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-11-20",
-   "salary": "None-None",
-   "jd": "nan",
-   "keywords": [
-    "business operations",
-    "經營企劃"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4491608343",
-   "title": "Project & Continuous Improvement Lead",
-   "company": "Thermo Fisher Scientific",
-   "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-11-19",
-   "salary": "None-None",
-   "jd": "nan",
+   "jd": "**About The Role** Uber Eats is looking for a Merchant Operations Manager to join the Merchant Growth & Affordability team in Taiwan. In this role, you will help merchant partners grow **through effective Offers products while improving the affordability and competitiveness of our marketplace.** Your scope will focus approximately 60% on serving as Taiwan’s Offers product champion and 40% on MPI and affordability strategy. As the Offers product champion, you will bridge Global and Regional Product teams with local business teams, translating merchant needs into product feedback and driving go-to-market planning, experimentation, adoption, and ongoing product improvements. On affordability, you will analyze menu price inflation (MPI), identify opportunities to improve price competitiveness, and develop initiatives that balance consumer value, merchant economics, and business sustainability. This role combines analytical problem-solving, product operations, and cross-functional program management. You will work closely with Account Management, Consumer Operations, Commercial Operations, Finance, Legal, and Global and Regional Product teams to turn insights into measurable business outcomes. **What You Will Be Doing In Role** **Offers Product Championship — approximately 60%** * Act as Taiwan’s Offers product champion: Serve as the local point of contact for Global and Regional Product teams. Consolidate merchant and internal stakeholder feedback, identify local use cases, and translate business needs into actionable product recommendations. * Drive product go-to-market and adoption: Own local launch planning and operational readiness for Offers products and features, including stakeholder alignment, merchant targeting, internal communications, training, and operational playbooks. * Lead experimentation and rollout: Partner with Product, Analytics, and local teams to define hypotheses, success metrics, and execution plans. Coordinate pilots and experiments, evaluate results, and recommend whether and how to scale. * Monitor and improve product performance: Track adoption, usage, and business impact; identify friction points and growth opportunities; and coordinate product issue escalations and resolution with relevant teams. * Connect product capabilities with commercial priorities: Partner with Offers Strategy and Account Management teams to ensure product launches and improvements support merchant needs and local growth objectives. **MPI & Affordability Strategy — approximately 40%** * Develop actionable affordability insights: Analyze MPI, merchant pricing behavior, and marketplace trends to identify the drivers of price gaps and prioritize opportunities by merchant segment and potential business impact. * Develop and operationalize affordability initiatives: Build recommendations and coordinate prioritized initiatives, including In-Store Price (ISP) pilots and related pricing programs, with clear objectives, milestones, and measurement plans. * Evaluate commercial trade-offs: Partner with Finance and business stakeholders to assess the expected impact of affordability initiatives on consumer value, merchant economics, and platform profitability. * Build performance tracking and recommendations: Use SQL, analytical models, and dashboards to monitor key metrics, evaluate initiative effectiveness, and translate findings into clear recommendations for stakeholders and leadership. **The Basic Qualifications You’ll Bring** * Relevant experience: Minimum 3 years of professional experience in operations, product operations, strategy, analytics, or project management. * GTM & Project Autonomy: Demonstrated capability to design, launch, and optimize high-impact GTM strategies or complex cross-functional programs from ideation to execution with complete autonomy. * Stakeholder management: Strong communication and collaboration skills, with the ability to align local and international stakeholders and influence without direct authority. * Analytical problem-solving: Ability to structure ambiguous business problems, analyze complex data, size opportunities, and translate findings into practical recommendations. Proficiency in SQL and Excel or Google Sheets. * Project ownership and execution: Demonstrated ability to manage projects from planning through execution and measurement, coordinate dependencies, and prioritize across multiple workstreams in a fast-paced environment. * Commercial Acumen & P&L Understanding: Strong grasp of business financials, revenue operations, or P&L governance, with the ability to translate technical data analysis into actionable commercial recommendations. * Language proficiency: Fluency in written and spoken English and Mandarin. **Preferred Qualifications** * Experience in product operations, product launches, or go-to-market planning, particularly in partnership with regional or global Product teams. * Experience in eCommerce, marketplace platforms, food delivery, retail technology, or other high-growth operating environments. * Experience designing and evaluating experiments, A/B tests, or incrementality studies. * Familiarity with pricing, promotions, merchant economics, or affordability initiatives. * Experience building financial or performance models and dashboards using tools such as Tableau or Looker. * Experience developing sales enablement materials, operational playbooks, or scalable processes for merchant-facing teams. **Ready to Ride?** This isn't the kind of place where you follow a playbook — it's where you help write one. If you're driven by impact, energized by challenge, and ready to shape how the world moves — we'd love to hear from you. You may be eligible for bonuses, equity, and other compensation, as well as a range of benefits. Explore our benefits. Offices remain key to collaboration and Uber's culture. Unless approved for full remote work, employees must spend at least 50% of their time in-office. Some roles, like those at greenlight hubs, require full-time in-office presence. Ask your Recruiter for details about this role's requirements. Uber is proud to be an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know by completing this form.",
    "keywords": [
     "business operations",
     "strategy and operations",
@@ -178,82 +151,27 @@
   },
   {
    "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4492142638",
-   "title": "Associate Manager, Strategic Partnership, Centre of Excellence",
-   "company": "Agoda",
-   "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-11-19",
+   "url": "https://www.linkedin.com/jobs/view/4492580648",
+   "title": "Head of Operations (Launch & Growth) – Core Team",
+   "company": "Wonders.ai",
+   "location": "Taipei City, Taipei City, Taiwan",
+   "datePosted": "2026-11-20",
    "salary": "None-None",
-   "jd": "nan",
+   "jd": "Wonders.ai is seeking an exceptional operations leader to own and scale the operations of darlin™ (www.darlin.ai). Join our 10–15-person AI startup in a hands-on leadership role working directly with the founder to drive launches, community operations, customer experience, and organizational execution. We seek someone with exceptional execution, strong judgment, and relentless attention to detail. You must independently identify problems, build solutions, and ensure results—not simply coordinate meetings, track tasks, or report progress. Responsibilities 1. Launch Operations: Own product launch planning, operational readiness, communication, incident escalation, and post-launch reviews. 2. Community & Customer Support: Lead Japan, Taiwan, and global community operations; build support workflows, FAQs, escalation systems, and feedback reporting. 3. Release Coordination: Organize testing, verify user-facing flows, coordinate fixes, and escalate release risks with product and engineering teams. 4. Marketing & Growth: Execute campaigns, creator/IP collaborations, events, community growth, and user acquisition initiatives. 5. Campaign Execution: Manage crowdfunding, pre-orders, promotional launches, and related operational planning when required. 6. Operational Systems: Establish SOPs, accountability systems, task tracking, performance metrics, and efficient internal workflows. 7. Cross-Functional Leadership: Coordinate product, engineering, design, marketing, and support teams to resolve blockers and ensure delivery. 8. Problem Solving: Proactively identify operational weaknesses, take corrective action, and ensure problems are resolved. 9. Team Leadership: Guide 0–3 operations/support staff as assigned, establish standards, and improve team performance. Requirements • Proven experience leading product launches, operations, or growth campaigns. • Exceptional execution, organization, and independent problem-solving. • Hands-on community management, customer support, and operational experience. • Strong user empathy, product awareness, and attention to detail. • Experience creating SOPs, tracking KPIs, and managing cross-functional deliverables. • Chinese and English required; Japanese strongly preferred. • Interest in anime, gaming, AI characters, and Japanese entertainment. • Ability to contribute immediately and take ownership within one month. +++++ We seek a hands-on operations leader who takes ownership, solves problems without waiting for instructions, and ensures important work actually gets completed. A high-impact core team position with competitive compensation and long-term growth opportunities! +++++ Preferred Qualifications • Experience launching consumer apps, games, AI products, creator products, entertainment products, or hardware/software products. • Experience with Japanese communities, anime/game users, fandom-driven products, Discord, X/Twitter, YouTube, or creator channels. • Experience running crowdfunding, pre-order, beta launch, or public waitlist campaigns. • Experience building customer support systems from zero. • Experience using Notion, Slack, Discord, Google Sheets, GitHub/Jira/Linear, analytics tools, CRM tools, or support-ticket systems. Chinese and English required; Japanese strongly preferred. No upfront equity. Long-term upside may be considered later based on contribution, results, and company stage.",
    "keywords": [
     "business operations",
-    "strategy and operations",
-    "經營企劃"
+    "strategy and operations"
    ]
   },
   {
    "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4492128875",
-   "title": "營運副理(第三方物流倉)",
-   "company": "Coupang",
-   "location": "Taoyuan City, Taiwan",
-   "datePosted": "2026-11-19",
-   "salary": "None-None",
-   "jd": "Coupang 正在重新構想購物體驗，目標是讓每位顧客從打開Coupang 應用程式起至訂單送達家門的每一刻都驚嘆不已。 我們在台灣的包括「火箭速配」，以實惠的價格為多種精選商品提供隔日到貨服務。「火箭跨境」供應來自韓國、美國等地數百萬種暢銷商品，並提供國際速配服務。 我們正在尋覓人才協助我們帶領 Coupang 台灣拓展業務。這是個難得的機會，一同參與 Coupang 在台灣的成長，打造一個讓我們的顧客自問「沒有 Coupang，我該怎麼生活？」的世界。 **職務概覽：** * 協助3PL 監控每日進出貨（IB/OB）進度並處理異常情況 * 追蹤各外倉的關鍵績效指標（如 EXSD、出貨能力、進貨能力） * 整理每日／每週報表，並提供初步分析與建議 * 協助執行 EF／ICQA 專案（如多品項驗收、資本支出追蹤） * 支援流程優化與效率提升的相關專案（如產能擴充、補貨追蹤） 招募條件: * 2年以上供應鏈、營運管理或相關領域經驗 * 了解庫存管理和品質控制 * 具有深入分析營運流程和流程改善的經驗。 * 具有識別根本原因和尋找解決方案的能力。 * 熟悉Excel運用 **加分條件：** * 臨場反應快速，能快速判斷工作優先順序 * 對電子商務市場具備高度熱情 · 可接受輪班制工作 * 善溝通協調者，具團隊管理經驗 招募流程： * 申請資格審核 – 電話面試 – 現場(或線上面對面)面試 – 錄取通知 * 招募流程實況可能因職缺而異，亦可能因為時程安排或其他原因變動 * 將透過應徵者在申請階段提供的電子郵件，告知面試時程和結果 注意事項 ： * 若所有職缺皆招募完成，本公告可能在所示截止日期前關閉 * 若應徵者在申請過程中提供假造資訊，酷澎有權收回錄取通知 * 酷澎不會歧視殘障人士或退伍軍人，對所有應徵者都提供平等的競爭機會",
-   "keywords": [
-    "business operations"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4492438077",
-   "title": "Operations Supervisor",
-   "company": "FedEx",
+   "url": "https://www.linkedin.com/jobs/view/4492909625",
+   "title": "Commodity Strategy Program Manager, Commercial Personal Systems",
+   "company": "HP",
    "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-11-19",
-   "salary": "None-None",
-   "jd": "On Road; Handling; Dispatch; Service Assurance; Network Control; Transport Scheduling; Customer Service; Contract Management/ Sourcing; Domestic Special Services; Commercial Airline Management; Spot Management; Lift; Hub Control Centre; Clearance & Brokerage Operations; Clearance Admin Inbound/ Outbound; Export Controls; Customer Services; Dangerous Goods; Cross-border Linehaul; Vendor Management; Admin & Support; Weight & Balance (Ramp Operations); Domestic Hub Operations; Linehaul Operations; Road Linehaul (Transport Scheduling, Fleet Management); Quality Management; Vehicle & Equipment Maintenance; Spot Management **Job Profile Summary** Responsible for leading and developing an effective team, overseeing vendor performance, and optimizing daily operations. This role also requires collaboration with internal and external stakeholders, strategic alignment with management, and provision of guidance and support to the team to ensure team effectiveness. **Job Description** * Manages and oversees the work of vendors, fostering collaboration and ensuring team's adherence to agreements and deadlines * Provides guidance, support and development opportunities to the team to optimize individual and team effectiveness * Supervises daily operations, resolving issues and identifying opportunities for improvement * Collaborates with internal management to align operational goals and address strategic priorities * Maintains open and clear communication with internal and external stakeholders, addressing cocerns and fostering positive relationships * Generates operational reports and presents findings to management, articulating successes and areas of opportunity * Performs other duties as assigned **Requirements** Minimum Education Certificate or Bachelor degree in Logistics, Supply Change Management, Business Management or similar highly desired. **Minimum Experience** At least four (4) years of relevant work experience **Knowledge, Skills And Abilities** * Strong leadership and problem-solving skills * Proven expertise in planning & organizing, with a strong accuracy & attention to detail * Proficiency in computer applications, including MS Office and logistics software FedEx was built on a philosophy that puts people first, one we take seriously. We are an equal opportunity/affirmative action employer and we are committed to a diverse, equitable, and inclusive workforce in which we enforce fair treatment, and provide growth opportunities for everyone. All qualified applicants will receive consideration for employment regardless of age, race, color, national origin, genetics, religion, gender, marital status, pregnancy (including childbirth or a related medical condition), physical or mental disability, or any other characteristic protected by applicable laws, regulations, and ordinances. Our Company FedEx is one of the world's largest express transportation companies and has consistently been selected as one of the top 10 World’s Most Admired Companies by \"Fortune\" magazine. Every day FedEx delivers for its customers with transportation and business solutions, serving more than 220 countries and territories around the globe. We can serve this global network due to our outstanding team of FedEx team members, who are tasked with making every FedEx experience outstanding. Our Philosophy The People-Service-Profit philosophy (P-S-P) describes the principles that govern every FedEx decision, policy, or activity. FedEx takes care of our people; they, in turn, deliver the impeccable service demanded by our customers, who reward us with the profitability necessary to secure our future. The essential element in making the People-Service-Profit philosophy such a positive force for the company is where we close the circle, and return these profits back into the business, and invest back in our people. Our success in the industry is attributed to our people. Through our P-S-P philosophy, we have a work environment that encourages team members to be innovative in delivering the highest possible quality of service to our customers. We care for their well-being, and value their contributions to the company. Our Culture Our culture is important for many reasons, and we intentionally bring it to life through our behaviors, actions, and activities in every part of the world. The FedEx culture and values have been a cornerstone of our success and growth since we began in the early 1970’s. While other companies can copy our systems, infrastructure, and processes, our culture makes us unique and is often a differentiating factor as we compete and grow in today’s global marketplace.",
-   "keywords": [
-    "business operations"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4491688296",
-   "title": "Sales Enablement Professional",
-   "company": "Teradyne",
-   "location": "Zhubei City, Taiwan, Taiwan",
    "datePosted": "2026-11-20",
    "salary": "None-None",
-   "jd": "nan",
-   "keywords": [
-    "strategy and operations",
-    "經營企劃"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4492133953",
-   "title": "[L'OREAL Taiwan] E-KA Assistant Manager / Manager",
-   "company": "L'Oréal",
-   "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-11-19",
-   "salary": "None-None",
-   "jd": "Hello, we’re L’Oréal, We're not just building brands, we're shaping how the world experiences beauty (and it takes a lot of cool jobs to do it). Intrigued? Keep reading, this might be the opportunity you've been searching for. ***A Day in the Life*** As the E-Key Account Assistant Manager / Manager based in Taipei, you will be instrumental in driving our e-commerce strategy for our brands. You will manage and grow our most critical e-commerce partnerships in Taiwan. **Your Responsibilities Will Include** * Developing and executing tailored e-commerce strategies to maximize sales, market share, and brand presence on key online platforms. * Managing the end-to-end operations of the Pure Players ecosystems and Brand Marketplace in Taiwan. * Building and maintaining strong relationships with external partners and internal stakeholders, including marketing, supply chain, and finance teams. * Analyzing sales data and market trends to uncover growth opportunities and provide strategic recommendations to leadership. ***We Are Looking For*** We are looking for a strategic and results-oriented individual with a strong command of the e-commerce landscape. You are a skilled collaborator who can navigate complex ecosystems and build strong partnerships to drive business success. **You're a Great Match If You Have** * Highly experienced in e-commerce, preferably with a background from a major brand and pure players. * Outstanding negotiation & communication skills * Ability to thrive in a high-pressure, fast-paced environment. * Solid E-commerce skill sets with a strategic understanding of digital sales. * Ability to manage both internal and external stakeholders.",
-   "keywords": [
-    "strategy and operations",
-    "經營企劃"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4491610036",
-   "title": "Business Unit Director, Oncology",
-   "company": "GSK",
-   "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-11-19",
-   "salary": "None-None",
-   "jd": "Business Introduction GSK remains committed to achieving bold commercial ambitions for the future. By 2031, we aim to deliver £40 billion in annual sales, leveraging our existing strong performance momentum to significantly increase our positive impact on the health of billions of patients globally. Our Ahead Together strategy is centred on early intervention to prevent and alter the course of disease, thereby protecting people and supporting healthcare systems. Our diverse portfolio consists of vaccines, specialty medicines, and general medicines. Through continuous innovation and a dedicated focus on scientific and technical excellence, we strive to develop and launch new, groundbreaking treatments that address critical health challenges. Business Unit Director, Oncology – Taiwan Position Summary This role offers an inspiring opportunity to lead the Oncology business in Taiwan and make a meaningful impact on patient care. You will shape and deliver a clear commercial strategy while working closely with cross-functional teams. We are looking for a collaborative leader who is passionate about growth, innovation, and building a supportive team culture. Join us to grow your career and help unite science, technology, and talent to get ahead of disease together. **Responsibilities** This role will provide YOU the opportunity to lead key activities to progress YOUR career. These responsibilities include some of the following: * Lead the commercial strategy for the Oncology business unit, driving growth and market performance in Taiwan * Manage the full profit and loss (P&L) responsibility, ensuring sound financial discipline and resource prioritization * Build, coach, and develop a high-performing, inclusive commercial team across sales and marketing * Plan and execute product launches and lifecycle management activities aligned with local market needs * Foster strong collaborations with Medical Affairs, Market Access, Supply Chain, and other internal teams * Build and maintain trusted relationships with healthcare professionals and external stakeholders, respecting compliance and ethical standards Why You? Basic Qualification We are seeking professionals with the following required skills and qualifications to help us achieve our goals: * Bachelor’s or Master’s degree in Business, Life Sciences, Pharmacy, Medicine, or related field * At least 10 years of experience in pharmaceutical commercial leadership, including Oncology or Hematology * Proven track record of managing P&L and delivering business results * Demonstrated experience in launching products and driving commercial strategies in Oncology * Strong people leadership skills with experience building and developing teams * Fluent in English and Mandarin; proficiency in Taiwanese or local languages is an advantage **Preferred Qualification** If you have the following characteristics, it would be a plus: * Advanced degree such as MBA or relevant scientific doctorate * Experience working with Market Access, Health Economics, or payer strategy in Taiwan * Prior leadership experience in matrix or cross-functional environments * Knowledge of Taiwan’s healthcare system, regulatory environment, and oncology market dynamics * Familiarity with digital and omnichannel marketing strategies * Ability to work effectively with global and regional colleagues Work Location and Environment This position is based in Taiwan with a hybrid work arrangement. It includes some on-site presence to support team collaboration and stakeholder engagement. We encourage applicants who are ready to take on a leadership role that challenges you, values your voice, and equips you to deliver impact for patients and the wider healthcare community. If you want to be part of a team where your skills and passion help shape the future of Oncology, please apply today. We look forward to hearing how your experience and leadership will contribute to our mission of getting ahead of disease together. **# LI-GSK** **Skills** Business Planning, Data to Insights, Digital Fluency, Enterprise Thinking, Launch Excellence, Scientific Literacy, Strategic Planning **Why GSK?** **Uniting science, technology and talent to get ahead of disease together.** GSK is a global biopharma company with a purpose to unite science, technology and talent to get ahead of disease together. We aim to positively impact the health of 2.5 billion people by the end of the decade, as a successful, growing company where people can thrive. We get ahead of disease by preventing and treating it with innovation in specialty medicines and vaccines. We focus on four therapeutic areas: respiratory, immunology and inflammation; oncology; HIV; and infectious diseases – to impact health at scale. People and patients around the world count on the medicines and vaccines we make, so we’re committed to creating an environment where our people can thrive and focus on what matters most. Our culture of being ambitious for patients, accountable for impact and doing the right thing is the foundation for how, together, we deliver for patients, shareholders and our people. We are committed to creating an inclusive workplace and providing equal opportunities for all applicants. We embrace an agile working culture across our roles, so if flexibility is important to you please discuss opportunities with our hiring team. If you need any adjustments to the recruitment process to help you demonstrate your strengths and capabilities, contact APACRecruitment.Adjustments@gsk.com. Please note this email is for adjustment requests only; for other enquiries please use our standard contact channels. **Important notice to Employment businesses/ Agencies** GSK does not accept referrals from employment businesses and/or employment agencies in respect of the vacancies posted on this site. All employment businesses/agencies are required to contact GSK's commercial and general procurement/human resources department to obtain prior written authorization before referring any candidates to GSK. The obtaining of prior written authorization is a condition precedent to any agreement (verbal or written) between the employment business/ agency and GSK. In the absence of such written authorization being obtained any actions undertaken by the employment business/agency shall be deemed to have been performed without the consent or contractual agreement of GSK. GSK shall therefore not be liable for any fees arising from such actions or any fees arising from any referrals by employment businesses/agencies in respect of the vacancies posted on this site.",
+   "jd": "**Description -** **Job Summary** * This role will help bridge long-term strategy and cross-functional execution, ensuring technology, cost, sourcing, supply, and platform decisions are aligned early and consistently across the portfolio. The role drives portfolio optimization, anticipates technology and supply transitions, strengthens supplier leverage, and enables faster, more informed trade-off decisions across Engineering, Procurement, and Platform teams. **Responsibilities** * Manages and leads a program involving multiple functions and project teams to drive the engineering development and implementation process for a product or service offering. * Oversees logistics of parts for builds and prototypes and works on multiple projects, simultaneously. * Develops and directs development of schedules, critical deliverables, budget, resource allocation plan, and other support requirements for assigned program. * Manages activities of supporting project teams and internal development partners; ensures progress against established plan and makes determinations based on analysis of business information to alter or update schedule and resource allocation to meet product requirements and development schedule. * Manages program to ensure procedural compliance, maintenance, and safety practices are followed for new and existing equipment. * Communicates program progress, escalations, and issue analysis to product stakeholders; collaborates with management and internal manufacturing and development partners to recommend and implement changes to product, processes, or business practices to resolve escalated issues, produce solutions, and ensure adherence to budgets and established product roadmaps and schedules. * Follows up on open points/actions that were observed during trials; ensures conveyed as actionable items. * Drives innovation and integration of new technologies and quality initiatives into projects and activities in the manufacturing and/or engineering organization. * Drives best practices through documentation control policies and procedures. * Leads and provides guidance and mentoring to less-experienced staff members. **Education & Experience Recommended** * Four-year or Graduate Degree in Computer Science, Engineering, Business Administration, or any other related discipline or commensurate work experience or demonstrated competence. * Typically has 7-10 years of work experience, preferably in engineering development and implementation, project planning tools and software packages, people management, or a related field. **Preferred Certifications** NA **Knowledge & Skills** * Agile Methodology * Automation * Change Management * Computer Science * Continuous Improvement Process * JIRA * Kanban Principles * Lean Manufacturing * Milestones (Project Management) * New Product Development * Process Improvement * Product Management * Project Engineering * Project Management * Project Planning * Project Schedules * Risk Management * Scrum (Software Development) * Software Development * Sprint Planning **Cross-Org Skills** * Effective Communication * Results Orientation * Learning Agility * Digital Fluency * Customer Centricity **Impact & Scope** * Impacts function and leads and/or provides expertise to functional project teams and may participate in cross-functional initiatives. **Complexity** * Works on complex problems where analysis of situations or data requires an in-depth evaluation of multiple factors. **Disclaimer** * This job description describes the general nature and level of work performed in this role. It is not intended to be an exhaustive list of all duties, skills, responsibilities, knowledge, etc. These may be subject to change and additional functions may be assigned as needed by management. **Job -** Engineering **Schedule -** Full time **Shift -** No shift premium (Taiwan) **Travel -** Not Specified **Relocation -** No **Equal Opportunity Employer (EEO) -** HP, Inc. provides equal employment opportunity to all employees and prospective employees, without regard to race, color, religion, sex, national origin, ancestry, citizenship, sexual orientation, age, disability, or status as a protected veteran, marital status, familial status, physical or mental disability, medical condition, pregnancy, genetic predisposition or carrier status, uniformed service status, political affiliation or any other characteristic protected by applicable national, federal, state, and local law(s). Please be assured that you will not be subject to any adverse treatment if you choose to disclose the information requested. This information is provided voluntarily. The information obtained will be kept in strict confidence. For more information, review HP’s EEO Policy or read about your rights as an applicant under the law here: “Know Your Rights: Workplace Discrimination is Illegal\"",
    "keywords": [
     "strategy and operations",
     "經營企劃",
@@ -262,151 +180,107 @@
   },
   {
    "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4491607099",
-   "title": "Business Unit Director, Vaccine",
-   "company": "GSK",
+   "url": "https://www.linkedin.com/jobs/view/4492862938",
+   "title": "Senior / Staff Robotics AI/ML Engineer",
+   "company": "Genabot",
    "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-11-19",
+   "datePosted": "2026-11-21",
    "salary": "None-None",
-   "jd": "nan",
+   "jd": "**Company Description** Genabot is a U.S.-based AI robotics company creating intelligent automation solutions for semiconductor manufacturing and industrial applications. The company combines expertise in artificial intelligence, robotics, advanced sensing, and precision engineering to solve real-world challenges in industrial inspection, maintenance, and automation. With operations in the United States and Taiwan, Genabot leverages Taiwan’s leading semiconductor and manufacturing ecosystem to accelerate next-generation robotic innovation. Team members work on practical AI-powered robotics designed to make industrial operations smarter, safer, and more efficient, from concept through commercialization. **Role Description** The Senior / Staff Robotics AI/ML Engineer is a full-time, on-site role based in Taipei. This role focuses on designing, implementing, and optimizing AI/ML algorithms for robotic systems used in semiconductor manufacturing and industrial automation. Day-to-day responsibilities include building and training models for perception, pattern recognition, and decision-making, integrating ML components with robotic hardware and control systems, and collaborating with cross-functional teams on system architecture and product requirements. The engineer will prototype and evaluate algorithms using real-world industrial data, improve performance and robustness under diverse operating conditions, and support deployment and maintenance of AI-enabled robotic solutions in production environments. The role also involves mentoring team members, contributing to technical roadmaps, and staying current with advances in robotics, machine learning, and industrial automation. **Qualifications** * Strong foundation in Computer Science and Algorithms, with experience designing efficient solutions for real-time or resource-constrained systems. * Proficiency in Pattern Recognition and Statistics for developing, analyzing, and optimizing AI/ML models used in industrial inspection and automation. * Hands-on experience with Neural Networks and modern ML frameworks (e.g., PyTorch, TensorFlow) for perception, control, or decision-making in robotic systems. * Advanced programming skills in languages such as Python and C++ and familiarity with robotics frameworks (e.g., ROS, ROS2) and embedded or real-time systems. * Experience in robotics, control, or autonomous systems, ideally in semiconductor manufacturing, industrial automation, or related domains. * Ability to design and conduct experiments, work with large sensor and image datasets, and evaluate model performance using robust metrics. * Collaborative mindset with strong communication skills and the ability to work effectively in a multidisciplinary, international environment. * Master’s or PhD in Computer Science, Robotics, Electrical Engineering, or a related field, or equivalent practical experience; prior senior or staff-level experience is highly valued. * Fluency in English; proficiency in Mandarin is a plus for collaborating with local partners and customers.",
    "keywords": [
-    "strategy and operations",
-    "經營企劃",
-    "策略規劃"
+    "AI implementation"
    ]
   },
   {
    "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4491677064",
-   "title": "Associate Director of Digital PM & Client Experience",
-   "company": "Standard Chartered",
-   "location": "Banqiao District, New Taipei City, Taiwan",
-   "datePosted": "2026-11-20",
-   "salary": "None-None",
-   "jd": "**Job Description** We are looking for an experienced professional to help shape and enhance the end-to-end digital client experience across our Retail and Wealth products. In this role, you will work closely with business, product, technology and country stakeholders to design and implement effective client journeys, policies and processes. You will also identify opportunities to simplify, standardise and automate processes while ensuring appropriate risk and regulatory requirements are embedded. **Key responsibilities:** * Design and enhance end-to-end digital client journeys * Apply process design principles across programmes and change initiatives * Collaborate with business and technology teams to develop practical and scalable solutions * Review and validate process designs and documentation * Identify opportunities for process standardisation, automation and streamlining * Track implementation progress, manage dependencies and resolve delivery blockers * Support change communication and transition activities **What we’re looking for:** * Bachelor’s degree in any discipline * At least 5 years of experience in financial services or a digital-related industry * Experience designing customer processes within a large organisation * Strong data analysis, visualisation and storytelling capabilities * Solid project and change management experience * Strong stakeholder management and problem-solving skills * Excellent communication skills in both Chinese and English If you are passionate about improving client journeys and using data and process design to create better digital experiences, we would be pleased to hear from you. **Profile Description** Standard Chartered Bank",
-   "keywords": [
-    "digital transformation"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4492421285",
-   "title": "Cloud Architect | Shape Enterprise Cloud Transformation",
-   "company": "Michael Page",
-   "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-11-19",
-   "salary": "None-None",
-   "jd": "* Drive cloud migration and modernization projects for enterprise customers. * Own delivery leadership , customer advisory, and team development in one role. **About Our Client** Our client is a rapidly growing cloud consulting and managed services company specializing in AWS solutions. They partner with enterprise customers to deliver cloud migration, landing zone implementation, managed services, and cloud governance initiatives across diverse industries. **Job Description** * Lead enterprise cloud migration and modernization projects on AWS * Oversee delivery quality, project execution, and technical governance * Drive Landing Zone, cloud security, and infrastructure initiatives * Manage 24/7 cloud operations and incident escalation processes * Collaborate with Sales and Solutions teams on project scoping and presales activities * Mentor Cloud Architects and Engineers to build a high-performing team * Promote automation, Infrastructure as Code, and operational excellence * Act as a trusted advisor for key enterprise customers **The Successful Applicant** * 6+ years of cloud infrastructure, architecture, or migration experience * Strong AWS expertise, including VPC, IAM, Security, and multi-account environments * Hands-on experience with Terraform and Infrastructure as Code * Background in cloud consulting, SI, MSP, or managed services environments * Experience leading technical projects and mentoring engineering teams * Strong stakeholder management and client-facing communication skills * AWS Professional Certifications are highly preferred **What's on Offer** * Flexible working hours (8:00 AM - 10:00 AM start) * Weekly Work-from-Home every Friday * Exposure to enterprise-scale AWS transformation projects * Leadership opportunity with clear growth potential * Collaborative and highly technical cloud-focused environment * Access to emerging AI-driven cloud operations and automation initiatives **Quote job ref: JN-112026-7149140**",
-   "keywords": [
-    "digital transformation"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4492433264",
-   "title": "【TW Life】Senior AI Project Manager, Transformation Dept.",
-   "company": "Chubb",
-   "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-11-19",
-   "salary": "None-None",
-   "jd": "**Role Overview** **JOB DESCRIPTION** This role sits within the Technology Division's AI & Innovation Center and is responsible for leading end-to-end AI product strategy, requirements definition, and post-launch optimization. The Senior AI PM must be capable of independently driving large-scale AI initiatives, communicating product vision to C-level stakeholders, and possessing sufficient technical depth to co-design system architecture with AI engineers and data scientists. This role also owns the AI governance framework, ensuring AI decisions comply with regulatory requirements, ethical standards, and Chubb's business objectives. **Key Responsibilities** * Lead AI product roadmap development, integrating business strategy, technical feasibility, and regulatory requirements * Independently produce product specifications for complex AI systems — including multi-agent architectures, RAG systems, and workflow automation * Define the AI Observability Framework: design model drift detection mechanisms and incident response playbooks * Lead cross-functional AI programs (claims, underwriting, customer service), synthesizing requirements from business, legal, compliance, and IT * Design and implement A/B testing frameworks for AI features; build a data-driven product decision culture * Ensure AI products comply with relevant regulations (e.g., FSC, GDPR); lead AI ethics and fairness reviews * Coach and develop Junior PMs; build AI product capabilities across the product team * Present AI product progress, outcomes, and risks to senior leadership; influence the organization's AI investment decisions **Qualifications** **Education & Experience** * Bachelor's degree or above in Computer Science, Information Systems, Business, Statistics, or a related field; Master's degree preferred * 5+ years of product management experience, with at least 2 years as the primary PM on AI/ML products **Technical Skills** * Deep understanding of LLM / Agentic AI architecture: RAG, Tool Calling, Prompt Engineering, Fine-tuning, Quantization * Ability to write product specifications for multi-agent systems — including agent collaboration, failure modes, and graceful degradation strategies * Fluent in interpreting AI performance metrics in business terms: Precision, Recall, Calibration, Drift Detection * Knowledge of AI ethics and regulatory requirements * Familiarity with MLOps concepts: model versioning, A/B testing, canary releases, model monitoring * Ability to perform basic data analysis with SQL to support product decisions **Personal Attributes** * Strong product ownership mindset; able to set clear direction and drive execution in ambiguous environments * Able to communicate complex AI concepts to C-level and business stakeholders without technical jargon * Data-driven decision habits; able to design measurable success criteria * Outstanding cross-functional and cross-cultural influencing skills; skilled at building consensus * Strong written and verbal communication in English; Chinese proficiency is a plus **Nice to Have** * Deep experience with AI products in insurance (claims, underwriting, actuarial) or financial services * Track record as PM on enterprise-scale AI systems (>100K users) * Experience designing AI governance frameworks or Responsible AI practices * Experience with AI-related regulatory submissions or regulator communications * Relevant certifications: CSPO, PMI-ACP, Google Professional ML Engineer, or equivalent * Familiarity with RPA (UiPath, Power Automate) and AI-integrated product design",
-   "keywords": [
-    "digital transformation",
-    "AI implementation",
-    "AI導入"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4492431752",
-   "title": "Technical Project Manager",
-   "company": "TAO Digital Solutions",
-   "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-11-19",
-   "salary": "None-None",
-   "jd": "nan",
-   "keywords": [
-    "digital transformation"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4490882562",
-   "title": "Business Transformation Consultant-IoT & PLM",
-   "company": "IBM",
-   "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-11-18",
-   "salary": "None-None",
-   "jd": "**Introduction** A career in IBM Consulting is built on long-term client relationships and close collaboration worldwide. You'll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic partners, robust IBM technology, and Red Hat, you'll have the tools to drive meaningful change and accelerate client impact. At IBM Consulting, curiosity fuels success. You'll be encouraged to challenge the norm, explore new ideas, and create innovative solutions that deliver real results. Our culture of growth and empathy focuses on your long-term career development while valuing your unique skills and experiences. **Your Role And Responsibilities** As a Business Transformation Consultant specializing in IoT and Product Lifecycle Management (PLM), you will develop and implement transformative business solutions for clients. You will leverage your in-depth knowledge of industry trends, market directions, and player dynamics to drive strategic plans for clients. **Your Primary Responsibilities Will Include** * Develop Strategic Plans: Develop comprehensive transformation recommendations to address client performance gaps, creating a PLM strategy aligned with competitive and market forces. * Collaborate with Clients: Work closely with clients to identify strategic capabilities needed to create and sustain one or more sources of competitive advantage. * Implement Solutions: Assist clients in selecting, implementing, and supporting PLM systems such as PTC Windchill, Oracle Agile, Matrix One, or Siemens UGS, Dassault. * Integrate Packaged Technology: Effectively integrate packaged technology into the client business environment to achieve client expected business results, leveraging consulting skills, business knowledge, and packaged solution expertise. * Analyze Client Performance: Analyze client performance gaps and develop recommendations to address these gaps, applying in-depth knowledge of industry trends and market directions. **Preferred Education** Master's Degree **Required Technical And Professional Expertise** * Industry Trends Knowledge: Deep expertise in industry trends, market directions, and player dynamics in the IoT and Product Lifecycle Management (PLM) domains. * PLM Systems Implementation: Experience with implementing and supporting PLM systems such as PTC Windchill, Oracle Agile, Matrix One, or Siemens UGS, Dassault. * Strategic Planning: Experience in developing comprehensive transformation recommendations to address client performance gaps and creating strategic plans aligned with competitive and market forces. * Packaged Technology Integration: Experience with integrating packaged technology into client business environments to achieve expected business results. * Consulting Skills: Experience with leveraging consulting skills, business knowledge, and packaged solution expertise to drive business transformation for clients. **Preferred Technical And Professional Experience** * Dassault Application Portfolio: Experience with selecting, implementing, and supporting Dassault application portfolio to drive business transformation for clients in the IoT and PLM domains. * Cross-Functional Collaboration: Exposure to collaborating with clients to create a PLM strategy aligned with competitive and market forces, identifying strategic capabilities needed to create and sustain one or more sources of competitive advantage. * Market Forces Analysis: Experience analyzing client performance gaps and developing comprehensive transformation recommendations to address these gaps, considering industry trends, market directions, and player dynamics.",
-   "keywords": [
-    "digital transformation"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4492549297",
-   "title": "Physical AI System Architect",
-   "company": "Intel",
+   "url": "https://www.linkedin.com/jobs/view/4492587588",
+   "title": "AI Customer Engineer, Google Cloud",
+   "company": "Google",
    "location": "Taipei, Taipei City, Taiwan",
    "datePosted": "2026-11-20",
    "salary": "None-None",
-   "jd": "nan",
+   "jd": "Google welcomes people with disabilities. **Minimum qualifications:** * Bachelor's degree or equivalent practical experience. * 10 years of experience with cloud-native architecture in a customer-facing or support role, with application development and integration. * Experience with search systems including retrieval, ranking, and search quality tuning. * Experience with presenting to technical stakeholders and executive leaders. * Experience with coding in Python, JavaScript or TypeScript, Go, or Java, to demo, prototype, or workshop integration patterns with customers. * Experience in architecting solutions that integrate AI models using agents with enterprise data sources using patterns like RAG, Text-to-SQL, and semantic search. **Preferred qualifications:** * Experience with functional evaluation metrics used to assess model quality and agent quality. * Experience with iPaaS, API gateways, or enterprise service buses (ESBs) in a cloud environment. * Experience developing agents using frameworks such as LangGraph, semantic kernel, or the Google AI agent development kit (ADK). * Knowledge of observability constructs including distributed tracing, logging, and audit logging for AI applications. * Knowledge of application integration governance and security, including OAuth2 flows and short-lived credential management. * Understanding of integration patterns using OpenAPI and model context protocol (MCP) to connect AI agents with business systems and API gateways. **About the job** The Google Cloud Platform team helps customers transform and build what's next for their business — all with technology built in the cloud. Our products are developed for security, reliability and scalability, running the full stack from infrastructure to applications to devices and hardware. Our teams are dedicated to helping our customers — developers, small and large businesses, educational institutions and government agencies — see the benefits of our technology come to life. As part of an entrepreneurial team in this rapidly growing business, you will play a key role in understanding the needs of our customers and help shape the future of businesses of all sizes use technology to connect with customers, employees and partners. In this role, you will partner with technical business teams to differentiate Google Cloud to the customers. You will serve as the technical authority on integrating Generative Artificial Intelligence (AI) into enterprise environments, moving beyond simple chat interfaces to architecting secure and data-connected solutions. You will engage with customers to understand their business and technical requirements, and present solutions on Google Cloud. You will blend market knowledge and technical engagement to prove the value of the Google Cloud AI portfolio.Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems. **Responsibilities** * Combine business strategies with direct development and prototyping to provide functional, customer-tailored solutions that secure buy-in from customer domain experts. * Provide technical consultation to customers on enterprise AI integration patterns, act as a technical advisor and build customer relationships. * Work with Google Cloud products to demonstrate and prototype integrations in customer and partner environments. Work within Product and Engineering management systems to document, prioritize, and drive resolution of customer feature requests and issues. * Travel to customer sites, conferences, and other related events as needed, and act as a public advocate for Google Cloud. * Drive the technical win for workloads within Gemini Enterprise to ensure adoption, support the business cycle from technical evaluation through customer ramp, recommend integration strategies, enterprise architectures, platforms, and application infrastructure required to successfully implement a complete solution on Google Cloud. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form .",
    "keywords": [
-    "AI implementation",
-    "AI導入"
+    "AI implementation"
    ]
   },
   {
    "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4492420235",
-   "title": "Strategy & Planning Leader",
-   "company": "Qnity",
-   "location": "Taoyuan City, Taoyuan City, Taiwan",
+   "url": "https://www.linkedin.com/jobs/view/4492141214",
+   "title": "CTO",
+   "company": "聯想感 StarCo",
+   "location": "Taipei City, Taiwan",
    "datePosted": "2026-11-20",
    "salary": "None-None",
-   "jd": "**Are you looking to power the next leap in the exciting world of advanced electronics?** Do you want to help solve problems that drive success in the rapidly evolving technology and connectivity landscape? Then bring your problem-solving, passion, and creativity to help us power the next leap in electronics. At **Qnity** , we’re more than a global leader in materials and solutions for advanced electronics and high-tech industries – we’re a tight-knit team that is motivated by new possibilities, and always up for a challenge. All our dedicated teams contribute to making cutting-edge technology possible. We value forward-thinking challengers, boundary-pushers, and diverse perspectives across all our departments, because we know we play a critical role in the world enabling faster progress for all. Learn how you can start or jumpstart your career with us. Join our Talent Community to stay connected with us! Qnity is an equal opportunity employer. Qualified applicants will be considered without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability or any other protected class. If you need a reasonable accommodation to search or apply for a position, please visit our Accessibility Page for Contact Information. Qnity offers a comprehensive pay and benefits package. To learn more visit the Compensation and Benefits page. **We use Artificial Intelligence (AI) to enhance our recruitment process.**",
+   "jd": "**Job Responsibilities** * Design and modernize cloud service architectures, develop big data solutions, build MarTech products, and evaluate technology cost and implementation strategies. * Provide concrete and practical technical solutions to both clients and internal development teams. * Introduce and integrate emerging technologies to expand the team’s technical capabilities and technology stack. * Improve development efficiency and developer experience by introducing effective systems, processes, and automation. * Participate in cutting-edge Customer Data Platform (CDP) technology projects and gain hands-on exposure to real-world business requirements from leading enterprises in Taiwan and international markets. * Depending on your personal preference and career development goals, you may take on team management responsibilities or focus primarily on technical development and individual contribution. **What We’re Looking For** * Passionate about hands-on technical implementation and continuous improvement. * Take ownership of assigned tasks and projects with a responsible and detail-oriented attitude. * Open to learning and exploring the latest technologies, frameworks, and technology stacks. * Able to work independently while also collaborating effectively with the team to build reliable, scalable systems. * Curious about emerging technologies and willing to continuously experiment, learn, and grow. **Requirements** * Proficient in **Python and Django** , with a willingness to learn new programming languages and web frameworks. * Solid experience with **relational databases (RDB)** and **NoSQL databases** . * Familiar with **cloud architectures** , particularly **AWS / GCP** , with a strong interest in **serverless services and architectures** . * Interested in and actively exploring **AI technologies** — we are learning and experimenting together as well. * Understand the fundamental concepts and applications of **AI Agents** , and are willing to collaboratively build an enterprise-grade **AI Agent platform** . 【工作內容】 架構現代化雲服務、開發大數據方案、建構 MarTech 產品與研究技術成本方案、需面對客戶端與內部開發團隊提出具體的技術解決方案。導入並整合前沿技術、擴大團隊技術線，並透過引入制度、流程與自動化優化團隊的開發效率以及體驗，參與最前沿的 CDP 技術專案，接觸國內外指標企業的實際業務需求。 您可管理或不管理團隊，視您個人意願與職涯發展而定。 【我們希望你】 對技術的實作與精進抱有熱忱，認真看待被分派的任務與工項，不排斥學習及研究最新的技術堆疊，並且以獨立工作，共同開發可靠的系統為目標。 【職務需求】 -熟悉 Python 與 Django，並願意學習新程式語言及網站框架 -熟悉 RDB / NoSQL 資料庫 -熟悉 雲架構 (AWS / GCP) & 尤其是 serveless 服務 -對 AI 技術處於摸索狀態，因為我們也是 -對 AI 代理人有理解，會需要共同打造一個代理人平台",
    "keywords": [
-    "經營企劃",
-    "策略規劃"
+    "AI implementation"
    ]
   },
   {
    "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4492529960",
-   "title": "TRADE PLANNING & ANALYTICS SUPERVISOR",
-   "company": "JTI",
-   "location": "Taipei, Taipei City, Taiwan",
+   "url": "https://www.linkedin.com/jobs/view/4492572427",
+   "title": "【數位創新部】AI 前線部署工程師（FDE）",
+   "company": "凱基證券 KGI SECURITIES",
+   "location": "Zhongzheng District, Taipei City, Taiwan",
    "datePosted": "2026-11-20",
    "salary": "None-None",
-   "jd": "nan",
+   "jd": "-",
    "keywords": [
-    "經營企劃"
+    "AI implementation"
    ]
   },
   {
    "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4491812622",
-   "title": "(Senior) Manager, Inventory Planning and Management",
-   "company": "Coupang",
-   "location": "Taipei, Taipei City, Taiwan",
-   "datePosted": "2026-11-18",
-   "salary": "None-None",
-   "jd": "nan",
-   "keywords": [
-    "經營企劃"
-   ]
-  },
-  {
-   "source": "linkedin",
-   "url": "https://www.linkedin.com/jobs/view/4492457432",
-   "title": "AI Technology Company Focused on E-commerce - AI Agent Designer",
+   "url": "https://www.linkedin.com/jobs/view/4492919139",
+   "title": "知名外商飲料公司：Commercial Leadership Assistant Manager / Manager",
    "company": "Adecco",
    "location": "Taipei, Taipei City, Taiwan",
+   "datePosted": "2026-11-20",
+   "salary": "None-None",
+   "jd": "【Client Description】 全球知名的氣泡飲料公司，旗下包含多個耳熟能詳的飲料品牌 【About the Role】 We are looking for a commercially minded and data-driven professional to join our Taiwan team. In this role, you will connect commercial strategy, business insights and market execution. You will work closely with cross-functional teams and business partners to turn consumer and market data into actionable recommendations, coordinate key commercial initiatives, and support the adoption of digital and artificial intelligence tools. This is an excellent opportunity for someone who enjoys working across different functions, managing complex projects, and transforming insights into measurable business results. 【Candidate Profile】 * Bachelor’s degree or above in Business, Marketing, Economics, Statistics, or a related field. * Approximately 5–8 years of experience in commercial strategy, sales strategy, Revenue Growth Management, trade marketing, business planning, business analysis, or project management. * Experience coordinating business reviews, governance routines, or cross-functional projects. * Practical experience using market or consumer data, such as Nielsen, Worldpanel, Kantar, shopper data, or transaction data. * Strong analytical skills with the ability to transform data into clear business insights and recommendations. * Good project management skills, including timeline management, milestone tracking, risk identification, and follow-through. * Strong communication and presentation skills, with the ability to work with senior stakeholders and business partners. * Proficiency in Microsoft Excel and PowerPoint. Experience with Power BI or other data visualization tools is a plus. * Practical experience using Microsoft Copilot, ChatGPT, or other generative artificial intelligence tools is preferred. 【Responsibilities】 * Commercial Governance and Business Planning * Coordinate regular business reviews and commercial governance meetings. * Track key business priorities, project milestones, risks, and execution progress. * Follow up on agreed action items and ensure timely delivery across stakeholders. * Support alignment between internal teams and external business partners. * Help establish effective operating routines for commercial initiatives. * Commercial Insights and Data Analysis * Consolidate market, consumer, shopper, and transaction data from sources such as Nielsen, Worldpanel, and internal platforms. * Analyze business performance and identify risks, opportunities, and areas for improvement. * Support opportunity assessment across pricing, product packages, sales channels, and consumer recruitment initiatives. * Translate complex data into clear commercial insights and practical recommendations. * Prepare business review materials and presentations for senior management. * Cross-Functional Project Management * Provide Project Management Office support for major commercial projects. * Coordinate project schedules, milestones, deliverables, and execution readiness. * Work closely with Revenue Growth Management, Route to Market, trade execution, customer development, and digital teams. * Facilitate communication and alignment among internal teams, bottlers, distributors, and other business partners. * Identify project issues and support timely follow-up and resolution. * Consumer Recruitment and Growth Initiatives * Coordinate consumer recruitment, affordable package, and other scalable growth initiatives. * Track project readiness, implementation progress, and follow-up actions. * Consolidate input from marketing, customer, commercial, and business partner teams. * Support the commercialization and market execution of new initiatives. * Strengthen the connection between commercial strategy and frontline execution. * Digital and Artificial Intelligence Capabilities * Promote the adoption of commercial data and digital platforms. * Connect digital analytics with frontline sales and commercial priorities. * Support user onboarding, capability building, and the practical application of commercial tools. * Explore opportunities to apply artificial intelligence and generative artificial intelligence to commercial analysis, reporting, content creation, and workflow improvement. * Encourage the responsible use of artificial intelligence, including data privacy, accuracy checks, and human review. TTS",
+   "keywords": [
+    "經營企劃",
+    "策略規劃"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4492522420",
+   "title": "Associate Customer Strategy & Planning Manager",
+   "company": "Unilever",
+   "location": "Taipei, Taipei City, Taiwan",
    "datePosted": "2026-11-19",
    "salary": "None-None",
-   "jd": "專注電商 AI 應用的產品團隊，打造協助商家提升銷售與客服效率的 AI 助理，讓你從設計到上線看見成果。 【Candidate Profile】 * 善於觀察使用者行為，能從購物流程與對話中辨識需求及痛點。 * 對電商銷售、消費者決策與客服情境有興趣，能將觀察轉化為產品設計。 * 具備 Prompt 設計與迭代能力，能將複雜情境拆解為清楚、可測試的指令。 * 能獨立推進從研究、設計到實作與驗證的完整流程。 * 能運用實際對話與使用結果評估 AI Agent 表現，並據此調整設計。 【Responsibilities】 * 觀察真實買家的購物行為與對話，找出購物疑慮及影響下單的因素。 * 研究電商銷售與客服情境，定義 AI Agent 在各情境下的回覆、推薦與引導策略。 * 從零設計與迭代 Prompt，讓 AI Agent 能依買家需求與對話脈絡做出合適的判斷。 * 將設計方案實作並推向上線，驗證 AI Agent 在實際購物場景中的表現。 * 根據真實使用情況與成效，持續優化商品推薦、銷售引導與客服回覆。",
+   "jd": "nan",
    "keywords": [
-    "AI導入"
+    "策略規劃"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4492130593",
+   "title": "Consumer BU (Laptop) CM (Channel Manager)_APAC",
+   "company": "ASUS",
+   "location": "Taipei, Taipei City, Taiwan",
+   "datePosted": "2026-11-19",
+   "salary": "None-None",
+   "jd": "**【Job Description】** 1. Strategic Strategy Alignment (Internal Sales): Act as a vital internal sales force to drive BU product strategies; effectively communicate product roadmap, key selling points (KSP), and strategic directions to regional sales and business units to maximize front-line sales efficiency. 2. Focus Region : APAC (KR/ANZ/JP/HK/SG APAC DM dedicated and general communication) 3. High-Impact Cross-Functional Communication: Serve as the core bridge requiring high-fluidity communication; smoothly facilitate alignment between Territory PMs (regional) and internal Product SPM to ensure regional demands and BU goals are synchronized. 4. Market Intelligence & Competitiveness: Analyze regional market competition to integrate diverse feedback, providing strategic viewpoints that guide decision-making to help enhance regional market share. 5. Business Execution & Hero Model Growth: Leverage strong technical knowledge of hardware roadmaps and regional P&L/risk management to successfully execute regional plans, drive brand performance, and lead \"Hero Model\" product launches. **【Requirements】** 1. Language Proficiency: Excellent command of English (fluent written and verbal communication). 2. Cultural Agility: Open-minded with a strong understanding of diverse cultures, economic, and political dynamics across international markets. 3. Travel Flexibility: Willingness and ability to travel internationally (approximately 3–4 times per year).",
+   "keywords": [
+    "策略規劃"
+   ]
+  },
+  {
+   "source": "linkedin",
+   "url": "https://www.linkedin.com/jobs/view/4492138265",
+   "title": "Global Marketing Director",
+   "company": "RGP",
+   "location": "Xizhi District, New Taipei City, Taiwan",
+   "datePosted": "2026-11-19",
+   "salary": "None-None",
+   "jd": "**職缺介紹** 我們的客戶為全球電子科技品牌企業，目前招募具備國際品牌行銷、B2B 科技產品推廣及大型行銷團隊管理經驗的資深主管，負責制定全球行銷策略、品牌定位及市場推廣方向。 **工作內容** 1. 制定公司整體行銷策略、年度計畫及行銷預算。 2. 依據全球市場趨勢、產業發展及公司營運目標，規劃品牌及市場策略。 3. 建立行銷 KPI，追蹤執行成效並持續優化。 4. 負責企業品牌定位、品牌形象及全球市場溝通策略。 5. 執行市場、競爭對手及客戶需求分析。 6. 推動品牌知名度、市場影響力及客戶認知提升。 7. 規劃數位行銷、SEO、SEM、EDM、社群媒體、網站及內容行銷策略。 8. 透過數據分析評估網站流量、銷售線索（Leads）、轉換率及行銷投資報酬率（ROI）。 9. 規劃及管理全球產品推廣、展覽、論壇、研討會及相關行銷活動。 10. 與產品、業務及海外團隊合作，制定產品上市及市場推廣（Go-to-Market）策略。 11. 統籌銷售工具、行銷素材及產品溝通內容，協助業務拓展。 12. 領導行銷團隊，負責績效管理、人才培育及組織發展。 13. 管理行銷預算、外部代理商及供應商。 14. 定期提出行銷成效分析及策略改善建議，支援高階管理決策。 **資格條件** 1. 具備 10 年以上全球電子科技產業行銷相關經驗。 2. 曾任職具有全球市場的自有品牌電子科技公司。 3. 具備品牌策略、產品行銷、數位行銷及市場推廣整合經驗。 4. 具大型行銷團隊管理及跨部門協調能力。 5. 英文聽、說、讀、寫流利。 6. 熟悉國際 B2B 市場、全球品牌經營及產品上市策略。 7. 具備行銷數據分析及預算管理能力。 8. 能將客戶意見及市場分析轉化為產品與商業決策建議。 9. 具工業電腦（IPC）產業經驗者尤佳。 歡迎具全球電子科技品牌行銷及大型團隊領導經驗的資深主管，透過 LinkedIn 與 RGP 聯繫，進行保密職涯交流。",
+   "keywords": [
+    "策略規劃"
    ]
   }
  ]
