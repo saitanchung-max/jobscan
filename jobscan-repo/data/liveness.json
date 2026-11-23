@@ -1,31 +1,31 @@
 {
- "checked_at": "2026-11-16T01:42:41.283Z",
+ "checked_at": "2026-11-23T02:27:33.599Z",
  "summary": {
-  "open": 22,
-  "unknown": 32,
-  "closed": 1
+  "closed": 16,
+  "unknown": 33,
+  "open": 6
  },
  "results": [
   {
    "url": "https://www.linkedin.com/jobs/view/4419144831/",
    "company": "Lam Research",
    "title": "Account Business Operations",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "closed",
+   "evidence": "HTTP 404"
   },
   {
    "url": "https://www.linkedin.com/jobs/view/4432081134/",
    "company": "TSMC",
    "title": "AI Product Manager",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "closed",
+   "evidence": "HTTP 404"
   },
   {
    "url": "https://www.linkedin.com/jobs/view/4430418530/",
    "company": "Winbond",
    "title": "AI Enablement & Adoption PM",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "unknown",
+   "evidence": "linkedin authwall"
   },
   {
    "url": "https://www.104.com.tw/job/8bdt1",
@@ -115,22 +115,22 @@
    "url": "https://www.linkedin.com/jobs/view/4423912300",
    "company": "NIQ",
    "title": "Strategic Analytics & Insights Analyst",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "closed",
+   "evidence": "HTTP 404"
   },
   {
    "url": "https://www.linkedin.com/jobs/view/4379774988/",
    "company": "Chubb Life",
    "title": "Strategic Project Delivery Lead",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "closed",
+   "evidence": "HTTP 404"
   },
   {
    "url": "https://www.linkedin.com/jobs/view/4430899990/",
    "company": "OnRampLab",
    "title": "Product Manager",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "closed",
+   "evidence": "HTTP 404"
   },
   {
    "url": "https://www.104.com.tw/job/8u56s",
@@ -178,15 +178,15 @@
    "url": "https://www.linkedin.com/jobs/view/4428489359/",
    "company": "KGI銀行",
    "title": "數位科技策略人才",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "closed",
+   "evidence": "HTTP 404"
   },
   {
    "url": "https://www.linkedin.com/jobs/view/4429775029/",
    "company": "DBS",
    "title": "Transformation Group Specialist",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "closed",
+   "evidence": "HTTP 404"
   },
   {
    "url": "https://www.104.com.tw/job/8hpzx",
@@ -241,8 +241,8 @@
    "url": "https://www.linkedin.com/jobs/view/4440210806/",
    "company": "Shopee",
    "title": "AI Project Management/BI",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "closed",
+   "evidence": "HTTP 404"
   },
   {
    "url": "https://www.cake.me/companies/cathayins/jobs/ba18b0",
@@ -262,8 +262,8 @@
    "url": "https://www.linkedin.com/jobs/view/4439960346/",
    "company": "凱基證券",
    "title": "策略企劃及專案管理人員",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "closed",
+   "evidence": "HTTP 404"
   },
   {
    "url": "https://www.104.com.tw/job/87nzr",
@@ -276,36 +276,36 @@
    "url": "https://www.linkedin.com/jobs/view/4431213875/",
    "company": "American Express",
    "title": "Digital Capability Specialist",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "closed",
+   "evidence": "matched: Page not found"
   },
   {
    "url": "https://www.linkedin.com/jobs/view/4233477917",
    "company": "待確認",
    "title": "經營分析管理師",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "closed",
+   "evidence": "HTTP 404"
   },
   {
    "url": "https://www.linkedin.com/jobs/view/4431460650",
    "company": "待確認(外商)",
    "title": "Business Analyst (營運規劃+P&L)",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "closed",
+   "evidence": "HTTP 404"
   },
   {
    "url": "https://www.linkedin.com/jobs/view/4431654419/",
    "company": "待確認",
    "title": "Digital Transformation Manager",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "closed",
+   "evidence": "HTTP 404"
   },
   {
    "url": "https://www.linkedin.com/jobs/view/4431209102/",
    "company": "OnRampLab",
    "title": "Program Manager",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "closed",
+   "evidence": "HTTP 404"
   },
   {
    "url": "https://www.linkedin.com/jobs/view/4432080126/",
@@ -339,8 +339,8 @@
    "url": "https://www.linkedin.com/jobs/view/4428023387",
    "company": "Dell",
    "title": "Strategic BD Senior Consultant",
-   "status": "open",
-   "evidence": "HTTP 200, content ok"
+   "status": "closed",
+   "evidence": "HTTP 404"
   },
   {
    "url": "https://www.104.com.tw/job/91f6i",
