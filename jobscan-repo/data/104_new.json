@@ -1,13 +1,13 @@
 {
  "source": "104",
- "scanned_at": "2026-11-25T09:02:15Z",
+ "scanned_at": "2026-11-26T08:48:45Z",
  "group_stats": {
   "策略規劃": "BLOCKED: HTTP 200, content-type=text/html",
   "經營企劃": "BLOCKED: HTTP 200, content-type=text/html",
   "營運管理": "BLOCKED: HTTP 200, content-type=text/html",
   "數位轉型": "BLOCKED: HTTP 200, content-type=text/html",
   "AI導入": "BLOCKED: HTTP 200, content-type=text/html",
-  "幕僚": "BLOCKED: HTTP 403, content-type=text/html; charset=UTF-8",
+  "幕僚": "BLOCKED: HTTP 200, content-type=text/html",
   "策略幕僚": "BLOCKED: HTTP 200, content-type=text/html",
   "business operations": "BLOCKED: HTTP 200, content-type=text/html"
  },
